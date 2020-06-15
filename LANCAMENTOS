@@ -17,10 +17,10 @@
 </item>
 
 <item>
-<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BxXI615C0lWHQUNqYUNMaS1UTzg/view?usp=sharing</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<title>[B]BIBI  - [COLOR yellow]TESTE GDRIVE[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BxXI615C0lWHQUNqYUNMaS1UTzg/view</link>
+<thumbnail>https://drive.google.com/file/d/0BxXI615C0lWHdTA4ZG5DY3hRMVk/view</thumbnail>
+<fanart>https://drive.google.com/file/d/0BxXI615C0lWHdTA4ZG5DY3hRMVk/view</fanart>
 <info></info>
 <genre></genre>
 </item>
