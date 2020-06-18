@@ -1,39 +1,12 @@
-<item>
-<title>[B][COLOR yellow]SERIES[/COLOR][/B]</title>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/SERIESLISTA</link>
-<thumbnail>https://ia601406.us.archive.org/8/items/canais_202006/S%C3%89RIES.png</thumbnail>
-<fanart>https://ia801503.us.archive.org/21/items/entrar_20200609/fanart.jpg</fanart>
-<info>As Melhores Series</info>
-<genre></genre>
-</item>
-
-
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601401.us.archive.org/32/items/wonder_202006/BEM%20VINDA.jpg</thumbnail>
+<name>[B][COLOR yellow]SERIES[/COLOR][/B]</name>
+<thumbnail>https://ia601406.us.archive.org/8/items/canais_202006/S%C3%89RIES.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/SERIESLISTA</externallink>
 <fanart>https://ia601401.us.archive.org/32/items/wonder_202006/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - O Melhor da Setima Arte - [COLOR deeppink]|[/COLOR]</info>
+<info>As Melhores Series</info>
 </channel>
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601401.us.archive.org/32/items/wonder_202006/ENTRAR.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://ia601401.us.archive.org/32/items/wonder_202006/fanart.jpg</fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - As Melhores Series - [COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
