@@ -8,20 +8,16 @@
 <genre>Novela</genre>
 </channel>
 
-
+<channel>
+<name>[COLOR  white][B]A ESCRAVA ISAURA[/B][/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/twvPDqQXaS1F04DLnUWJTczwau1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/twvPDqQXaS1F04DLnUWJTczwau1.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/A%20ESCRAVA%20ISAURA</externallink>
+<info>Isaura é uma escrava branca, muito bonita e bem educada, que foi criada como filha na família em que serve. Durante muito tempo, foi protegida da matriarca, mas após a morte desta, Isaura tornou-se propriedade de Leôncio, um jovem recém-casado com Malvina.</info>
+<genre>Novela</genre>
+</channel>
 <channels>
- 
-<channels>
-</channels><channel>
-<name>[COLOR white][B]A Escrava Isaura - 2004[/B][/COLOR]</name>
- 
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>https://raw.githubusercontent.com/barbarahazure/Wonder/master/A%20ESCRAVA%20ISAURA</jsonrpc>
-<thumbnail>https://i.imgur.com/IIFtVa6.jpg</thumbnail>
-<fanart>https://i.imgur.com/IIFtVa6.jpg</fanart>
-</item>
  
  
 <channels>
