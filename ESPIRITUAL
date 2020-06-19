@@ -3,7 +3,7 @@ plugin://plugin.video.youtube/play/?video_id=KZTRftS6g4M
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-eHyqpmg0Igo/TptsdVEhxAI/AAAAAAAAIJ0/Uc4BpKbNWos/s1600/Cartas+para+Deus.jpeg" group-title="DRAMA ",Cartas para Deus 
 plugin://plugin.video.youtube/play/?video_id=b_zRq-O9rYs
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/unxQeVUi5DH01r7ZNvAHwpvX7UK.jpg" group-title="DRAMA ",Quarto de Guerra
-https://player.vimeo.com/video/310554290
+plugin://plugin.video.youtube/play/?video_id=ywzvesdMsyU
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/fdryAyaVS9OXmqIpXoSIkeciJ2e.jpg" group-title="DRAMA ",Maria Madalena
 plugin://plugin.video.youtube/play/?video_id=t7r2TwofDyQ
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5mJhwENHWx6l1N447doXihtfTwd.jpg",Deixados para Trás
@@ -36,14 +36,14 @@ plugin://plugin.video.youtube/play/?video_id=liQs02RPgn8
 plugin://plugin.video.youtube/play/?video_id=F77siA_v6vQ
 #EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/210/431/21043177_20130923175620653.jpg",Pregando o Amor 
 plugin://plugin.video.youtube/play/?video_id=v7xiRhQPyjk
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/7FVVSRSUvMbUROL3xT3L2Rb00hd.jpg",Um Amor Para Recordar
-https://vimeo.com/197234123
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/adDSwyg4njulz7yycPOSsHtb0CL.jpg",JIMMY, Um Elo de Amor
+plugin://plugin.video.youtube/play/?video_id=uTfaKG0pv6M
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uIW62HgRCXE7qlZ5CCo9BhtjpEv.jpg",Num Piscar de Olhos
 plugin://plugin.video.youtube/play/?video_id=eGjmocGfYKM
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185_and_h278_bestv2/4PnbxvF0Znk1sIh6q1MyI1uEr2L.jpg",Uma vida com Propósito
 plugin://plugin.video.youtube/play/?video_id=9Q1we2xSRKo
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/8LUVVvrLj7jCelOtxZYL_lHx7b8=/fit-in/290x478/smart/media/movies/covers/2010/05/55508294ed4dd639134817354986c5a1.jpg",A Diretoria 
-https://vimeo.com/27673808
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5WLBQK10hcRXNn37cbhPXSVAVEK.jpg",Uma Jornada de Perdão
+plugin://plugin.video.youtube/play/?video_id=5qv0GJaK9Lk
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/dvd-jeova-nissi-o-jardim-do-inimigo-10-anos-b16-D_NQ_NP_206601-MLB20351464825_072015-F.jpg",O Jardim do Inimigo
 plugin://plugin.video.youtube/play/?video_id=YGgztOf0L1o
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/nCHH7xH_E4e2ZLD91FbEFMHkJF8=/fit-in/290x478/smart/media/movies/covers/2016/04/the-heart-of-christmas_tNone.jpg",A Magia De Um Sonho
@@ -59,7 +59,7 @@ plugin://plugin.video.youtube/play/?video_id=BnNHo9X4rdk
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d4PIfnpsO5OFWye2xvUl9E9XqOo.jpg",Deus Não Está Morto 
 plugin://plugin.video.youtube/play/?video_id=YkxIeQGsTi8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l0Di5mvlFhIxTn8VPGhcrYE0MCT.jpg",Deus Não Está Morto 2
-https://ok.ru/video/1919499569752
+plugin://plugin.video.youtube/play/?video_id=fdVhiX4a5x0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rMWOo7Y0ntOkNuMk2svZxkoRb29.jpg",Deus Não Está Morto 3 
 plugin://plugin.video.youtube/play/?video_id=7VR2hbt0XQo
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/W4yg3fvMs0o/hqdefault.jpg",Em Busca da Felicidade
