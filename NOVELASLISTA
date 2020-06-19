@@ -19,20 +19,6 @@
 </channel>
 <channels>
  
- 
-<channels>
-</channels><channel>
-<name>[COLOR white][B]A FEIA MAIS BELA[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow]CAPÍTULOS[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL8PqaXg1YhGVvCzy2RqIjI-LXT_iH5lax/?page=0</jsonrpc>
-<thumbnail>https://http2.mlstatic.com/novela-a-feia-mais-bela-300-capitulos-em-hd-38-dvds-frete-D_NQ_NP_787735-MLB26041151011_092017-F.jpg</thumbnail>
-<fanart>https://tevconectados.files.wordpress.com/2015/03/a-feia-mais-bela.jpg</fanart>
-</item>
-
-
 <channel>
 <name>[B][COLOR white]A GATA COMEU - 1985 [/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AaRU5lq.jpg</thumbnail>
@@ -40,6 +26,7 @@
 <fanart>https://i.imgur.com/o1mJgpi.jpg</fanart>
 <info>Sinopse: A mimada Jô Penteado já terminou sete noivados. Ao participar de uma excursão de barco, fica naufragada em uma ilha ao lado do professor Fábio. O gênio do dois não combina, mas ele pode ser  
 exatamente o homem por quem a socialite vai se apaixonar.</info>
+<genre>Novela</genre>
 </channel>
 
 
@@ -53,33 +40,6 @@ exatamente o homem por quem a socialite vai se apaixonar.</info>
 de verdade.</info>
 </channel>
 
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]A Próxima Vítima - 1995[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLYYBrx4dOdoANho5ImcS3q5le3d993lcb/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/wFIAmrv.jpg</thumbnail>
-<fanart>https://i.imgur.com/wFIAmrv.jpg</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]A Que Não Podia Amar[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLBUliuvaVR9zZnyPoNgm4d1MsAriJ_UrW/?page=0</jsonrpc>
-<thumbnail>https://pbs.twimg.com/media/Dj8kz7YXsAEwuMa.jpg</thumbnail>
-<fanart>https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2019/03/a-que-nao-podia-amar.jpg</fanart>
-</item>
-
-
 <channel>
 <name>[B][COLOR white]A USURPADORA - 1998 [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/1DuTO04.jpg</thumbnail>
@@ -87,21 +47,6 @@ de verdade.</info>
 <fanart>https://i.imgur.com/XKIPV1t.jpg</fanart>
 <info>Sinopse: Acompanhe a história de gêmeas que foram criadas separadas e tiveram vidas totalmente opostas. Um dia, o destino as une novamente, criando um novo cotidiano cheio de surpresas.</info>
 </channel>
-
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]A Viagem - 1994[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLpPCywuBlnQSI_tqCazKKw05KlDgn1UZL/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/pfplOIO.jpg</thumbnail>
-<fanart>https://i.imgur.com/pfplOIO.jpg</fanart>
-</item>
-
 
 <channel>
 <name>[B][COLOR white]AS AVENTURAS DE POLIANA - 2018[/COLOR][/B]</name>
@@ -125,38 +70,12 @@ de Lívia e Felipe, que perdura por gerações.</info>
 <channels>
 </channels><channel>
 <name>[COLOR white][B]Alma Gêmea - 2005[/B][/COLOR]</name>
-
 <item>
 <title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLIjRzDkNY5LKD6M_eh3yAQxiljPjUvCP_/?page=0</jsonrpc>
+<externallink>https://pastebin.com/raw/NUrE4YdC</externallink>
 <thumbnail>https://i.imgur.com/LYjimh9.jpg</thumbnail>
 <fanart>https://i.imgur.com/LYjimh9.jpg</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]América - 2005[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmKmH6bU1Wzb0msiP39iYJrDRTsptnzom/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/X95IxCy.jpg</thumbnail>
-<fanart>https://i.imgur.com/X95IxCy.jpg</fanart>
-</item>
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Amor à Vida - 2013[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLVM3jqcngTr_7xLJcVOGXbWqrjRoU-HyJ/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/wuI8afU.jpg</thumbnail>
-<fanart>https://i.imgur.com/wuI8afU.jpg</fanart>
 </item>
 
 
@@ -181,19 +100,6 @@ filho da mulher que arruinou a sua vida.</info>
 <fanart>https://i.imgur.com/yxVh8aT.jpg</fanart>
 </item>
 
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Betty a Feia - 1999[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/user/novelabettyafeia/</jsonrpc>
-<thumbnail>https://i.imgur.com/5oUuCtD.jpg</thumbnail>
-<fanart>https://i.imgur.com/5oUuCtD.jpg</fanart>
-</item>
-
-
 <channel>
 <name>[B][COLOR white]CANAVIAL DE PAIXÃO - 2003[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/WKYzli3.jpg</thumbnail>
@@ -201,72 +107,6 @@ filho da mulher que arruinou a sua vida.</info>
 <fanart>https://i.imgur.com/O0nNmrl.jpg</fanart>
 <info>Sinopse: O povoado de São Bento dos Canaviais é cenário de encontros e desencontros, intrigas e amores.</info>
 </channel>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Cabloca - 2004[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLxmLYSscou_MmzSRr8VJ1r_4dEoLh4uIG/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/UoL4KpA.jpg</thumbnail>
-<fanart>https://i.imgur.com/UoL4KpA.jpg</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Canavial de Paixões - 2003[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL4XZQcg1l23eGuAkq8QSrknNapkGtyCTg/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/SGPtAZZ.jpg</thumbnail>
-<fanart>https://i.imgur.com/SGPtAZZ.jpg</fanart>
-</item>
-
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Cara & Coroa - 1995[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL2jYBA7iQQfaruWDlsmJuqbtz788o1DhB/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/rPMtd0k.jpg</thumbnail>
-<fanart>https://i.imgur.com/rPMtd0k.jpg</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]CHOCOLATE COM PIMENTA[/B][/COLOR]</name>
-<item>
-<title>[COLOR yellow]CAPÍTULOS[/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLdmQPzsMCDtDLzrPxVjDj8skmnmBtV7YY/?page=0</jsonrpc>
-<thumbnail>https://http2.mlstatic.com/dvd-novela-chocolate-com-pimenta-imagem-em-hd-D_NQ_NP_667515-MLB25259708099_012017-F.jpg</thumbnail>
-<fanart>https://3.bp.blogspot.com/-GSPGCAX4Buo/XIEdrYuctSI/AAAAAAAAEO0/N_ZBN5Te1yoN3E4imKVVyUDtiqiu1KZpwCLcBGAs/s1600/00%2BChocolate%2Bcom%2BPimenta%2B%25E2%2580%2593%2BJezebel%2B 
-%25C3%25A9%2Bdesmascarada%2B-%2BLudovico%2B-%2BAry%2BFontoura%2B-%2BElizabeth%2BSavalla.jpg</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Coração de Estudante - 2002[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSJiw6ambHUvoFd9x4z_FFPm/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/QJ9mnfZ.jpg</thumbnail>
-<fanart>https://i.imgur.com/QJ9mnfZ.jpg</fanart>
-</item>
 
 
 
@@ -293,45 +133,6 @@ alta sociedade.</info>
 </item>
 
 
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Dona Beija - 1986[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmKmH6bU1WzamhwFk43XIiR_R9xvhyo_u/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/iK1tnSb.jpg</thumbnail>
-<fanart>https://i.imgur.com/iK1tnSb.jpg</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Duas Caras - 2008[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLqEcPsWKdBwTQwqqGwdkIZut_cmueRgKV/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/OKV7ogT.jpg</thumbnail>
-<fanart>https://i.imgur.com/OKV7ogT.jpg</fanart>
-</item>
-
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]ERA UMA VEZ[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow]CAPÍTULOS[/COLOR]</title> 
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSLxaMt6DGAvTUt24Lkm37hS/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/XuKuB85.jpg</thumbnail>
-<fanart>https://www.altoastral.com.br/wp-content/uploads/2017/09/era-uma-vez-novelas-recordar.jpg</fanart>
-</item>
-
 
 <channel>
 <name>[B][COLOR white]ESPELHO DA VIDA - 2018 [/COLOR][/B]</name>
@@ -341,83 +142,6 @@ alta sociedade.</info>
 <info>Sinopse: A atriz Cris Valência vai à terra natal de seu namorado para protagonizar um filme dirigido por ele. Enquanto pesquisa para interpretar a personagem, Cris vive uma experiência de viagem no tempo, em que  
 se depara com uma de suas vidas passadas.</info>
 </channel>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Felicidade - 1991[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLWiuFWNI21oIvQUdZukvUSHfO6f-a7SGE/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/js2eAvV.jpg</thumbnail>
-<fanart>https://i.imgur.com/js2eAvV.jpg</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Fascinação - 1998[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLWyFP69iQ_2Odmf2Gq-Vi5zs3cwbLsQd7/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/V0pOmhb.jpg</thumbnail>
-<fanart>https://i.imgur.com/V0pOmhb.jpg</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Guadalupe - 1993[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmKmH6bU1WzY4PIlPeI2LSK7uEq-qri_0/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/BCGSlYJ.jpg</thumbnail>
-<fanart>https://i.imgur.com/BCGSlYJ.jpg</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Irmãos Coragem-1970[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLgPkLmK5XZjvNXrhySTxWmDQ4yK5pSsaR/?page=0</jsonrpc>
-<thumbnail>https://i.pinimg.com/originals/93/68/ae/9368aec54996eae1cf552dec0224d254.jpg</thumbnail>
-<fanart>http://4.bp.blogspot.com/-xMywKfvozxQ/U7XqIFHAIFI/AAAAAAAAJXA/HXQBphWV7Sc/s1600/ritinha++novela+irm%C3%A3os+coragem+com+regina+duarte.+1970+logo.jpg</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]MARIA DO BAIRRO[/B][/COLOR]</name>
-<item>
-<title>[COLOR yellow]CAPÍTULOS[/COLOR]</title>  
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL_nW2OdQOEsbZGZdQlfXLMQ8f89ijPEAp/?page=0</jsonrpc>
-<thumbnail>https://tenovelaseries.loja2.com.br/img/6907d9a4920183aeb85a69c0fb1cf237.jpg</thumbnail>
-<fanart>https://danoautor.files.wordpress.com/2015/10/maria-do-bairro1.png</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Marisol - 2002[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLAGKzE94xITVoU3XXnwNXss2YlG-3Uilr/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/QvGW4ic.jpg</thumbnail>
-<fanart>https://i.imgur.com/QvGW4ic.jpg</fanart>
-</item>
 
 
 <channels>
@@ -893,5 +617,12 @@ banda com carisma e grandes músicas</info>
 <genre>Novelas</genre>
 </channel>
  
-
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="http://orig03.deviantart.net/b359/f/2017/083/d/9/sinha_moa_by_wandergrafi-db3dgz6.jpg" Sinhá Moça
+http://pastebin.com/raw/A0bfXWN7
+#EXTINF:-1 tvg-logo="http://orig01.deviantart.net/4908/f/2017/083/5/0/o_cravo_e_a_rosa_by_wandergrafi-db3e2jp.jpg" O Cravo e a Rosa
+http://pastebin.com/raw/mFmAup73
+#EXTINF:-1 tvg-logo="http://orig10.deviantart.net/7d20/f/2017/083/d/9/chocolat_com_pimenta_by_wandergrafi-db3e8gq.jpg" Chocolate com Pimenta
+http://pastebin.com/raw/Ye44KJGA
 
