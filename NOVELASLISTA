@@ -617,12 +617,33 @@ banda com carisma e grandes músicas</info>
 <genre>Novelas</genre>
 </channel>
  
-#EXTM3U
+<channel>
+<name>[COLOR  white][B]SINHÁ MOCA [/B][/COLOR]</name>
+<thumbnail>http://orig03.deviantart.net/b359/f/2017/083/d/9/sinha_moa_by_wandergrafi-db3dgz6.jpg</thumbnail>
+<fanart>http://orig03.deviantart.net/b359/f/2017/083/d/9/sinha_moa_by_wandergrafi-db3dgz6.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/A0bfXWN7</externallink>
+<info>Monarquistas e republicanos se defrontam em Araruna, pequena cidade fictícia do interior de São Paulo, em 1886. A novela retrata a história de amor da bela e rica Sinhá Moça - filha do escravocrata, o Barão Ferreira de Araruna, e da doce e submissa Mãe Cândida - , com o jovem advogado abolicionista Dr.</info>
+<genre>Novelas</genre>
+</channel>
  
-#EXTINF:-1 tvg-logo="http://orig03.deviantart.net/b359/f/2017/083/d/9/sinha_moa_by_wandergrafi-db3dgz6.jpg" Sinhá Moça
-http://pastebin.com/raw/A0bfXWN7
-#EXTINF:-1 tvg-logo="http://orig01.deviantart.net/4908/f/2017/083/5/0/o_cravo_e_a_rosa_by_wandergrafi-db3e2jp.jpg" O Cravo e a Rosa
-http://pastebin.com/raw/mFmAup73
-#EXTINF:-1 tvg-logo="http://orig10.deviantart.net/7d20/f/2017/083/d/9/chocolat_com_pimenta_by_wandergrafi-db3e8gq.jpg" Chocolate com Pimenta
-http://pastebin.com/raw/Ye44KJGA
+<channel>
+<name>[COLOR  white][B]O CRAVO E A ROSA [/B][/COLOR]</name>
+<thumbnail>http://orig01.deviantart.net/4908/f/2017/083/5/0/o_cravo_e_a_rosa_by_wandergrafi-db3e2jp.jpg</thumbnail>
+<fanart>http://orig01.deviantart.net/4908/f/2017/083/5/0/o_cravo_e_a_rosa_by_wandergrafi-db3e2jp.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/mFmAup73</externallink>
+<info>A novela O Cravo e a Rosa é uma adaptação da obra A Megera Domada, de William Shakespeare, e gira em torno do romance entre o caipira Petruchio e Catarina, uma moça temperamental, com ideias feministas e filha mais velha do banqueiro Nicanor Batista (Luís Melo)</info>
+<genre>Novelas</genre>
+</channel>
+
+<channel>
+<name>[COLOR  white][B]OCHOCOLATE COM PIMENTA [/B][/COLOR]</name>
+<thumbnail>http://orig10.deviantart.net/7d20/f/2017/083/d/9/chocolat_com_pimenta_by_wandergrafi-db3e8gq.jpg</thumbnail>
+<fanart>http://orig10.deviantart.net/7d20/f/2017/083/d/9/chocolat_com_pimenta_by_wandergrafi-db3e8gq.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://pastebin.com/raw/Ye44KJGA</externallink>
+<info>Chocolate com Pimenta é uma comédia romântica ambientada na década de 1920 na fictícia Ventura, uma pequena cidade cuja economia gira em torno da fábrica de chocolates e bolos artesanais Bombom, de propriedade do milionário Ludovico (Ary Fontoura).</info>
+<genre>Novelas</genre>
+</channel>
 
