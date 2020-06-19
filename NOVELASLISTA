@@ -10,15 +10,9 @@
 
 
 <channels>
-
-<channels>
-</channels><channel>
 <name>[COLOR white][B]A Escrava Isaura - 2004[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLeOnZXYbavuMU7_BQpDg42UtSCg_pThDI/?page=0</jsonrpc>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/A%20ESCRAVA%20ISAURA</externallink>
 <thumbnail>https://i.imgur.com/IIFtVa6.jpg</thumbnail>
 <fanart>https://i.imgur.com/IIFtVa6.jpg</fanart>
 </item>
