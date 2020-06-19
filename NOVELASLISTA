@@ -10,6 +10,7 @@
 
 
 <channels>
+<channel>
 <name>[COLOR white][B]A Escrava Isaura - 2004[/B][/COLOR]</name>
 <link>ignoreme</link>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/A%20ESCRAVA%20ISAURA</externallink>
@@ -19,7 +20,7 @@
 
 
 <channels>
-</channels><channel>
+</channels></channel>
 <name>[COLOR white][B]A FEIA MAIS BELA[/B][/COLOR]</name>
 
 <item>
