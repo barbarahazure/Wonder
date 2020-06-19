@@ -20,7 +20,7 @@
 <channels>
  
 <channel>
-<name>[B][COLOR white]A GATA COMEU - 1985 [/COLOR][/B]</name>
+<name>[B][COLOR white]A GATA COMEU [/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AaRU5lq.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/e4y2JwdV</externallink>
 <fanart>https://i.imgur.com/o1mJgpi.jpg</fanart>
@@ -29,19 +29,16 @@ exatamente o homem por quem a socialite vai se apaixonar.</info>
 <genre>Novela</genre>
 </channel>
 
-
-
 <channel>
-<name>[B][COLOR white]A LEI DO AMOR - 2016 [/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/6lmWVMX.jpg</thumbnail>
+<name>[B][COLOR white]A LEI DO AMOR[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/znVhjbB3PhkQjBjBop3AqL07iFV.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/Yw5w7Yfh</externallink>
-<fanart>https://i.imgur.com/ycMAOHH.jpg</fanart>
-<info>Sinopse: Magnólia contrata Suzana para que ela seduza Pedro e afaste Helô da família Leitão. A estratégia dá certo, mas, ao mesmo tempo, aproxima Suzana de seu marido, Fausto. E os dois acabam se apaixonando  
-de verdade.</info>
+<fanart>https://image.tmdb.org/t/p/original/vRlySuht46KFgQuxmcSTxk3za3I.jpg</fanart>
+<info>Uma história de encontros, separações, poder, luta pelo justo e, sobretudo, uma história de amor e toda a força que esse sentimento move. Na trama, o amor de Pedro e Helô é testado por adversidades como o tempo e descompassos da vida, mas também por armadilhas da inveja e do poder.</info>
 </channel>
 
 <channel>
-<name>[B][COLOR white]A USURPADORA - 1998 [/B][/COLOR]</name>
+<name>[B][COLOR white]A USURPADORA [/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/1DuTO04.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/YJsBb3Q0</externallink>
 <fanart>https://i.imgur.com/XKIPV1t.jpg</fanart>
@@ -49,16 +46,15 @@ de verdade.</info>
 </channel>
 
 <channel>
-<name>[B][COLOR white]AS AVENTURAS DE POLIANA - 2018[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/1RpK2fv.jpg</thumbnail>
+<name>[B][COLOR white]AS AVENTURAS DE POLIANA[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/dR8I07paZ631IXVxyut7q5Vhuob.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/ghtTFiQg</externallink>
-<fanart>https://i.imgur.com/nIyQB3E.jpg</fanart>
+<fanart>https://image.tmdb.org/t/p/original/48tvKu5Ga4Gbz9dRNp43ZdpwBD3.jpg</fanart>
 <info>Sinopse: Poliana é uma menina amorosa que fica sozinha no mundo após a morte de seu pai. Uma assistente social a envia para a casa de uma tia distante, uma matriarca autoritária.</info>
 </channel>
 
-
 <channel>
-<name>[B][COLOR white]ALEM DO TEMPO - 2015 [/COLOR][/B]</name>
+<name>[B][COLOR white]ALEM DO TEMPO [/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/UNCa9r0.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/d5K5Mhep</externallink>
 <fanart>https://i.imgur.com/bvyBXWf.jpg</fanart>
@@ -69,7 +65,7 @@ de Lívia e Felipe, que perdura por gerações.</info>
 
 <channels>
 </channels><channel>
-<name>[COLOR white][B]Alma Gêmea - 2005[/B][/COLOR]</name>
+<name>[COLOR white][B]ALMA GEMEA[/B][/COLOR]</name>
 <item>
 <title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
 <link>ignoreme</link>
@@ -80,7 +76,7 @@ de Lívia e Felipe, que perdura por gerações.</info>
 
 
 <channel>
-<name>[B][COLOR white]AVENIDA BRASIL - 2012[/COLOR][/B]</name>
+<name>[B][COLOR white]AVENIDA BRASIL[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AGWoov9.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/dGfzNt8g</externallink>
 <fanart>https://i.imgur.com/jzS5JSi.jpg</fanart>
@@ -88,27 +84,40 @@ de Lívia e Felipe, que perdura por gerações.</info>
 filho da mulher que arruinou a sua vida.</info>
 </channel>
 
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Barriga de Aluguel - 1990[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSI1hWDlgmvAA5XxDFZk8pjK/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/yxVh8aT.jpg</thumbnail>
-<fanart>https://i.imgur.com/yxVh8aT.jpg</fanart>
-</item>
+<channel>
+<name>[COLOR  white][B]A TERRA PROMETIDA[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/TwMJ550.jpg</thumbnail>
+<fanart>https://imgur.com/6UHSqnz.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/Z6TG03bX</externallink>
+<info>Após a morte de Moisés, Josué torna-se o novo líder dos hebreus. Ele é um guerreiro experiente, dotado de coragem, determinação e de uma fé poderosa. Josué deve conduzir o seu povo até a terra prometida- Canaã. Juntos, eles precisam cruzar o Rio Jordão em época de cheia, guerrear contra os Cananeus que dominam aquela terra- um povo pagão, idólatra e extremamente violento, e enfrentar reis, rainhas, nobres e generais perigosos e vingativos.</info>
+<genre>Novela</genre>
+</channel>
 
 <channel>
-<name>[B][COLOR white]CANAVIAL DE PAIXÃO - 2003[/COLOR][/B]</name>
+<name>[B][COLOR white]BARRIGA DE ALUGUEL[/COLOR][/B]</name>
+<thumbnail>https://4.bp.blogspot.com/-aqUHaTtwJVM/W3pIH4-cL7I/AAAAAAAAGZ4/Zr8wb2wW3a4ZA67j2e_RSZj7OPgBk4CGACLcBGAs/s640/barriga-de-aluguel-cl%25C3%25A1udia-victor-c%25C3%25A1ssia.jpg</thumbnail>
+<externallink>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSI1hWDlgmvAA5XxDFZk8pjK/?page=0</externallink>
+<fanart>https://4.bp.blogspot.com/-aqUHaTtwJVM/W3pIH4-cL7I/AAAAAAAAGZ4/Zr8wb2wW3a4ZA67j2e_RSZj7OPgBk4CGACLcBGAs/s640/barriga-de-aluguel-cl%25C3%25A1udia-victor-c%25C3%25A1ssia.jpg</fanart>
+<info>História sobre um casal que não consegue engravidar e decide contratar uma mulher para gerar a sua criança.</info>
+</channel>
+
+<channel>
+<name>[B][COLOR white]CANAVIAL DE PAIXÃO[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/WKYzli3.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/zpNjFMjN</externallink>
 <fanart>https://i.imgur.com/O0nNmrl.jpg</fanart>
 <info>Sinopse: O povoado de São Bento dos Canaviais é cenário de encontros e desencontros, intrigas e amores.</info>
 </channel>
 
-
+<channel>CHEIAS DE CHARME[/B][/COLOR]</name>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGsSSNBJCIAo4MWX-Xelxu8BbJG2YGpCLDNWu90ttXWgCBIoU4</thumbnail>
+<fanart>https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/3/a/f/0/3af0b36b2a455d25fbbcd20528ced40a.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/5xif3NTP</externallink>
+<info>Cheias de Charme é uma telenovela brasileira produzida e exibida pela Rede Globo no horário das 19 horas de 16 de abril a 28 de setembro de 2012, em 143 capítulos, substituindo Aquele Beijo e sendo substituída por Guerra dos Sexos. Foi a 80ª "novela das sete" exibida pela emissora.</info>
+<genre>Novela</genre>
+</channel>
 
 <channel>
 <name>[B][COLOR white]CORAÇÃO INDOMAVEL - 2013[/COLOR][/B]</name>
@@ -119,23 +128,8 @@ filho da mulher que arruinou a sua vida.</info>
 alta sociedade.</info>
 </channel>
 
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Cristal - 2006[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLOa72JP04KcP_jqZXh8NyLtEecUwpH-Ic/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/di6rUau.jpg</thumbnail>
-<fanart>https://i.imgur.com/di6rUau.jpg</fanart>
-</item>
-
-
-
 <channel>
-<name>[B][COLOR white]ESPELHO DA VIDA - 2018 [/COLOR][/B]</name>
+<name>[B][COLOR white]ESPELHO DA VIDA[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/7EAueet.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/xB5Wh1Ux</externallink>
 <fanart>https://i.imgur.com/UjDgNVb.jpg</fanart>
@@ -143,22 +137,48 @@ alta sociedade.</info>
 se depara com uma de suas vidas passadas.</info>
 </channel>
 
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]O Clone[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLQfeL70bnZBoRAgOruIUcmfIDXBsj4J97/?page=0</jsonrpc>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BMTk0NTgxMzU3Nl5BMl5BanBnXkFtZTgwNTE5NDY4OTE@._V1_.jpg</thumbnail>
-<fanart>https://telepadi.folha.uol.com.br/wp-content/uploads/2019/05/x1080-mzj-1140x545.jpg</fanart>
-</item>
-
+<channel>
+<name>[COLOR  white][B] JESUS [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/8nFRCsd.jpg</thumbnail>
+<fanart>https://imgur.com/KCl18zd.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/3zU7tNfe</externallink>
+<info>Jesus é uma telenovela brasileira produzida pela RecordTV em parceria com a produtora Casablanca exibida de 24 de julho de 2018 a 22 de abril de 2019,</info>
+<genre>Novela</genre>
+</channel>
 
 <channel>
-<name>[B][COLOR white]O CRAVO E A ROSA - 2000[/COLOR][/B]</name>
+<name>[COLOR  white][B]JOSE DO EGITO [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/zbRF6Z3.jpg</thumbnail>
+<fanart>https://imgur.com/ODqSdYn.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/G8X6byGX</externallink>
+<info>A saga de um homem de Deus, íntegro e indulgente, que após ser vendido como escravo pelos irmãos é levado para o Egito, onde é injustiçado, caluniado, preso e humilhado. Apesar disso, a vida de José é um exemplo de pureza, paciência, amor e perdão.</info>
+<genre>Novela</genre>
+</channel>
+
+<channel>
+<name>[COLOR  white][B]MULHERES DE AREIA[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/4buqo2H.jpg</thumbnail>
+<fanart>https://imgur.com/ULFcwUU.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/LW0wJKsS</externallink>
+<info>A história da rivalidade das irmãs gêmeas Ruth e Raquel se passa na fictícia Pontal D'Areia, no litoral fluminense. Elas tem personalidades muito diferentes. Ruth é doce, calma e tem um bom coração. Raquel, por sua vez, é egoísta, agressiva e má</info>
+<genre>Novela</genre>
+</channel>
+
+<channel>
+<name>[COLOR  white][B]O CLONE[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/1mZ7Mjy.jpg</thumbnail>
+<fanart>https://imgur.com/qsxUebn.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/x5Hce4Z0</externallink>
+<info>O Clone é uma telenovela brasileira produzida e exibida no horário das 20 horas pela Rede Globo, de 1 de outubro de 2001 a 15 de junho de 2002, em 221 capítulos,[1][3] substituindo Porto dos Milagres e sendo substituída por Esperança. Foi a 61ª "novela das oito" exibida pela emissora. Escrita por Glória Perez, com direção de Teresa Lampreia e Marcelo Travesso, direção geral de Jayme Monjardim, Mário Márcio Bandarra e Marcos Schechtman e direção de núcleo de Monjardim.[4]</info>
+<genre>Novela</genre>
+</channel>
+
+<channel>
+<name>[B][COLOR white]O CRAVO E A ROSA[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/OeXitTN.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/zxFAFxLD</externallink>
 <fanart>https://i.imgur.com/sMWae8D.jpg</fanart>
@@ -166,9 +186,8 @@ se depara com uma de suas vidas passadas.</info>
 Nicanor Batista.</info>
 </channel>
 
-
 <channel>
-<name>[B][COLOR white]O OUTRO LADO DO PARAIZO - 2017 [/COLOR][/B]</name>
+<name>[B][COLOR white]O OUTRO LADO DO PARAISO[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/c6xNzE6.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/WKdkRA3G</externallink>
 <fanart>https://i.imgur.com/ZVUh7SW.jpg</fanart>
@@ -176,9 +195,8 @@ Nicanor Batista.</info>
 manipuladora, tenta fazer com que Clara seja compreensiva.</info>
 </channel>
 
-
 <channel>
-<name>[B][COLOR white]O REI DO GADO - 1996[/COLOR][/B]</name>
+<name>[B][COLOR white]O REI DO GADO[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/yXfbDbY.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/HmVRG29e</externallink>
 <fanart>https://i.imgur.com/Kxf0Dun.jpg</fanart>
@@ -186,20 +204,8 @@ manipuladora, tenta fazer com que Clara seja compreensiva.</info>
 plantações de café, respectivamente.</info>
 </channel>
 
-<channels>
-</channels><channel>
-<name>[COLOR white][B]O Salvador da Pátria - 1989[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLFkIs0kLfH6c-VnDzmEttnG_JSryX7X6V/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/U6xVUQv.jpg</thumbnail>
-<fanart>https://i.imgur.com/U6xVUQv.jpg</fanart>
-</item>
-
 <channel>
-<name>[B][COLOR white]O SÉTIMO GUARDIÃO - 2018[/COLOR][/B]</name>
+<name>[B][COLOR white]O SÉTIMO GUARDIÃO[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/Wj3pBQg.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/Zz4FvXkF</externallink>
 <fanart>https://i.imgur.com/2XZwt4u.jpg</fanart>
@@ -208,7 +214,7 @@ temem que ele tenha ido atrás de um substituto do guardião-mor.</info>
 </channel>
 
 <channel>
-<name>[B][COLOR white]OS MUTANTES: CAMINHOS DO CORAÇÃO - 2008 [/COLOR][/B]</name>
+<name>[B][COLOR white]OS MUTANTES: CAMINHOS DO CORAÇÃO[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/JOUXzeB.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/Y97A37cJ</externallink>
 <fanart>https://i.imgur.com/qqDxtru.jpg</fanart>
@@ -216,20 +222,8 @@ temem que ele tenha ido atrás de um substituto do guardião-mor.</info>
 abduções entre algumas pessoas.</info>
 </channel>
 
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Olho No Olho - 1993[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLEDC7311507005C7E/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/YB1XUxK.jpg</thumbnail>
-<fanart>https://i.imgur.com/YB1XUxK.jpg</fanart>
-</item>
-
 <channel>
-<name>[B][COLOR white]PANTANAL - 1990[/COLOR][/B]</name>
+<name>[B][COLOR white]PANTANAL[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/I4yEEXz.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/znpnH48k</externallink>
 <fanart>https://i.imgur.com/kcR5NDc.jpg</fanart>
@@ -237,95 +231,8 @@ abduções entre algumas pessoas.</info>
 sente infeliz e resolve voltar para o Rio de Janeiro.</info>
 </channel>
 
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Paraíso Tropical - 2007[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLcZVB9jUoNq7fta7B73CCP0TO85mcthuV/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/tXgOH39.jpg</thumbnail>
-<fanart>https://i.imgur.com/tXgOH39.jpg</fanart>
-</item>
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Quatro por Quatro - 1994[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSLcjh8Jg5yUoSKEFVGPZmeP/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/1jPWWcZ.jpg</thumbnail>
-<fanart>https://i.imgur.com/1jPWWcZ.jpg</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Que Rei sou Eu ? - 1989[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLcZVB9jUoNq6nAaWIeMVPE6Kd87rMN6hD/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/k0H34jq.jpg</thumbnail>
-<fanart>https://i.imgur.com/k0H34jq.jpg</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Quem é Você - 1996[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSICc3OVxA7cbvsin7we14Og/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/TKGD81Q.jpg</thumbnail>
-<fanart>https://i.imgur.com/TKGD81Q.jpg</fanart>
-</item>
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Rainha da Sucata[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL0WapWQxF9z62Hj-Hrg0EJ6ZkrfxP3T1Y/?page=0</jsonrpc>
-<thumbnail>http://images.virgula.com.br/2015/09/21.png</thumbnail>
-<fanart>https://voxpoptv.files.wordpress.com/2018/08/maxresdefault.jpg?w=950</fanart>
-</item>
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Rebelde Brasil - 2011[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL8YwOLzXJIM8lYW9TdQEyqUJCQ9aKRRYw/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/hh2rq0Z.jpg</thumbnail>
-<fanart>https://i.imgur.com/hh2rq0Z.jpg</fanart>
-</item>
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Rebelde México- 2011 - Temporada 1[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PL8YwOLzXJIM9wMcsX82dwWBpeSP7qr8pe/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/vN4p2eS.jpg</thumbnail>
-<fanart>https://i.imgur.com/vN4p2eS.jpg</fanart>
-</item>
-
-
 <channel>
-<name>[B][COLOR white]REI DAVI - 2012[/COLOR][/B]</name>
+<name>[B][COLOR white]REI DAVI[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/r9R27vr.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/W6AMnSz7</externallink>
 <fanart>https://i.imgur.com/DnQJ0CC.jpg</fanart>
@@ -334,63 +241,54 @@ mesmo tempo, um artista generoso e sensível, poeta, músico e amigo de Deus. Um
 tribos de Israel em uma nação forte e respeitada. É também a história de um amor proibido e de suas consequências devastadoras.</info>
 </channel>
 
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Renascer - 1993[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSL82clDEkJ71QkPd28QA5E-/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/CeZ7XDK.jpg</thumbnail>
-<fanart>https://i.imgur.com/CeZ7XDK.jpg</fanart>
-</item>
-
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Roque Santeiro - 1985[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSJpKwmSlWPxPxC4yQOt9QL1/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/DHAt6G2.jpg</thumbnail>
-<fanart>https://i.imgur.com/DHAt6G2.jpg</fanart>
-</item>
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]Uga Uga - 2000[/B][/COLOR]</name>
-
-<item>
-<title>[COLOR yellow][B]CAPÍTULOS[/B][/COLOR]</title>
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLq5y_WWxBzSDDYdy7O1IpYQRAyqy1yZUP/?page=0</jsonrpc>
-<thumbnail>https://i.imgur.com/9FQ77cK.jpg</thumbnail>
-<fanart>https://i.imgur.com/9FQ77cK.jpg</fanart>
-</item>
-
+<channel>
+<name>[COLOR  white][B]REI DO GADO[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/5QIo3YM.jpg</thumbnail>
+<fanart>https://imgur.com/b7egk8t.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/ErhABW9p</externallink>
+<info>O Bruno tem um romance com Luana, ambos descendentes de duas famílias de imigrantes italianos rivais, os Mezenga e os Berdinazi, que fizeram fortuna no Brasil com criação de gado e plantações de café, respectivamente.</info>
+<genre>Novela</genre>
+</channel>
 
 <channel>
-<name>[B][COLOR white]VAMP - 1991[/COLOR][/B]</name>
+<name>[COLOR  white][B]ROQUE SANTEIRO[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/nfkZ1Co.jpg</thumbnail>
+<fanart>https://imgur.com/eSsyQNO.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/8nMQkFub</externallink>
+<info>Roque Santeiro é uma telenovela brasileira produzida e exibida pela Rede Globo no horário das 20 horas, entre 24 de junho de 1985 e 22 de fevereiro,Sátira à exploração política e comercial da fé popular, marcou época apresentando uma cidade fictícia como um microcosmo do Brasil.</info>
+<genre>Novela</genre>
+</channel>
+
+<channel>
+<name>[COLOR  white][B]TOP MODEL[/B][/COLOR]</name>
+<thumbnail>https://imgur.com/krXdRun.jpg</thumbnail>
+<fanart>https://imgur.com/vZSMtwh.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/rvY8VyWT</externallink>
+<info>Top Model é uma telenovela brasileira produzida e exibida pela Rede Globo, entre 18 de setembro de 1989 e 4 de maio de 1990, em 197 capítulos, substituindo Que Rei Sou Eu?, e sendo substituída por Mico Preto. Foi a 42ª "novela das sete" exibida pela emissora.</info>
+<genre>Novela</genre>
+</channel>
+
+<channel>
+<name>[COLOR  white][B]TOPÍSSIMA[/B][/COLOR]</name>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8PGOBfS81BZpy70GgVbdq4rFlIUdYS9a_AVydeWn0qFyZ3TGr</thumbnail>
+<fanart>https://resumodasnovelas.online/wp-content/uploads/2019/05/topissima-protagonistas.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>https://pastebin.com/raw/Xmf1PQsZ</externallink>
+<info>Sophia Alencar, uma empresária da zona sul do Rio de Janeiro, e Antonio Ramos, um taxista que mora em uma comunidade, vivem um romance improvável quando os dois se envolvem em uma investigação policial.</info>
+<genre>Novela</genre>
+</channel>
+
+<channel>
+<name>[B][COLOR white]VAMP[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/9vhe0qQ.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/CUAMW7pB</externallink>
 <fanart>https://i.imgur.com/RZUmURt.jpg</fanart>
 <info>Sinopse: Na fictícia Armação dos Anjos, cidadezinha no litoral do Rio de Janeiro, o capitão reformado da Marinha Jonas Rocha, viúvo e pai de seis filhos, casa-se com a historiadora Carmem Maura, também viúva e  
 mãe de seis filhos.</info>
 </channel>
-
-<channels>
-</channels><channel>
-<name>[COLOR white][B]XICA DA SILVA[/B][/COLOR]</name>
-<item>
-<title>[COLOR yellow]CAPÍTULOS[/COLOR]</title>  
-<link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/playlist/PLcZVB9jUoNq76kXfo_hCu1W3Nmva3zBCR/?page=0</jsonrpc>
-<thumbnail>https://www.sonhosesons.com.br/media/com_eshop/products/resized/xica_da_silva____4faabb1050389-500x500.jpg</thumbnail>
-<fanart>http://www.tvhistoria.com.br/images/upload/110816-xicadasilva-imagem1.jpg</fanart>
-</item>
 
 <channel>
 <name>[B][COLOR white]Z4 - 2018[/COLOR][/B]</name>
@@ -401,249 +299,34 @@ mãe de seis filhos.</info>
 banda com carisma e grandes músicas</info>
 </channel>
 
-</channels>
-
-<channels>
    
-<channel>
-<name>[COLOR  white][B]NOVELA - O CRAVO E A ROSA[/B][/COLOR]</name>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpocVQY8-eNVuuQgKQcS838DzB9sqX9j0KqZqUnKllm2qbJv4r</thumbnail>
-<fanart>https://vivernaplenitude.files.wordpress.com/2018/09/a8bc4-ocravoblog2.jpg?w=640</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/67RB5Wjs</externallink>
-<info>O Cravo e a Rosa é uma telenovela brasileira produzida pela Rede Globo e exibida no horário das 18 horas, de 26 de junho de 2000 a 9 de março de 2001, em 221 capítulos,[2] substituindo Esplendor e sendo substituída por Estrela-Guia. Foi a 57ª "novela das seis" exibida pela emissora. Escrita por Walcyr Carrasco e Mário Teixeira, com colaboração de Duca Rachid, dirigida por Amora Mautner, Ivan Zettel e Vicente Barcellos, direção geral de Walter Avancini e Mário Márcio Bandarra e núcleo de Dennis Carvalho.[3] É uma livre adaptação da obra A Megera Domada, de William Shakespeare.[4][5] e um remake de O Machão, telenovela de Ivani Ribeiro; exibida com grande sucesso nos anos 70 pela Rede Tupi.</info>
-<genre>Novela</genre>
-</channel>
- 
- 
-<channel>
-<name>[COLOR  white][B]NOVELA - Cheias de Charme[/B][/COLOR]</name>
-<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGsSSNBJCIAo4MWX-Xelxu8BbJG2YGpCLDNWu90ttXWgCBIoU4</thumbnail>
-<fanart>https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/3/a/f/0/3af0b36b2a455d25fbbcd20528ced40a.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/5xif3NTP</externallink>
-<info>Cheias de Charme é uma telenovela brasileira produzida e exibida pela Rede Globo no horário das 19 horas de 16 de abril a 28 de setembro de 2012, em 143 capítulos, substituindo Aquele Beijo e sendo substituída por Guerra dos Sexos. Foi a 80ª "novela das sete" exibida pela emissora.</info>
-<genre>Novela</genre>
-</channel>
- 
- 
-<channel>
-<name>[COLOR  white][B]NOVELA - TOPÍSSIMA[/B][/COLOR]</name>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8PGOBfS81BZpy70GgVbdq4rFlIUdYS9a_AVydeWn0qFyZ3TGr</thumbnail>
-<fanart>https://resumodasnovelas.online/wp-content/uploads/2019/05/topissima-protagonistas.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/Xmf1PQsZ</externallink>
-<info>Sophia Alencar, uma empresária da zona sul do Rio de Janeiro, e Antonio Ramos, um taxista que mora em uma comunidade, vivem um romance improvável quando os dois se envolvem em uma investigação policial.</info>
-<genre>Novela</genre>
-</channel>
- 
- 
- <channel>
-<name>[COLOR  white][B] O Beijo do Vampiro [/B][/COLOR]</name>
-<thumbnail>http://cclb.ddns.net:25461/images/975465cb4d4888a6603503e45a06e738.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/Rks30o2HVQQ/maxresdefault.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/F3pxKpJq</externallink>
-<info>O Beijo do Vampiro é uma telenovela brasileira, produzida pela Rede Globo e exibida no horário das 19 horas, de 26 de agosto de 2002 a 3 de maio de 2003, em 215 capítulos,[4][3] substituindo Desejos de Mulher e sendo substituída por Kubanacan. É a 64ª "novela das sete" exibida pela emissora. Escrita por Antônio Calmon com colaboração Álvaro Ramos, Eliane Garcia, Lílian Garcia, Maria Helena Nascimento, Elizabeth Jhin e Mauro Wilson[4], direção de Marcos Paulo, Roberto Naar, Luiz Henrique Rios, Edgard Miranda e Paulo Silvestrini, direção de núcleo de Marcos Paulo e direção geral de Roberto Naar e Marcos Paulo. Foi a primeira obra infanto-juvenil exibida no horário noturno da emissora, uma vez que antes as produções de Angélica voltadas a este público – Caça Talentos, Flora Encantada e Bambuluá – iam ao ar de manhã.</info>
-<genre>Novela </genre>
-</channel>
- 
- <channel>
-<name>[COLOR  white][B]Pantanal  [/B][/COLOR]</name>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQz63l0_ktnxf6FuDcaNdOKlEqBBoXtBS5qCXj2_H2Ug1IfgL1P</thumbnail>
-<fanart>https://www.jota.info/wp-content/uploads/2015/12/novela-pantanal-completa-em-dvd-verso-hd-frete-gratis-14118-MLB20083670154_042014-F.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/ZkjVFqVn</externallink>
-<info>José Leôncio, fazendeiro do Pantanal, viaja para o Rio de Janeiro e engravida uma jovem de nome Madeleine. Os dois se casam e ela se muda para o Pantanal com ele. No entanto, Madeleine se sente infeliz e resolve voltar para o Rio de Janeiro.</info>
-<genre>Novela </genre>
-</channel>
- 
- <channel>
-<name>[COLOR  white][B] A Usurpadora  [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/H2FP9Dl.jpg</thumbnail>
-<fanart>https://i0.wp.com/mixdeseries.com.br/wp-content/uploads/2016/06/a-usurpadora-trio-1.jpg?fit=620%2C350&ssl=1</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/wDjrUpYa</externallink>
-<info>Acompanhe a história de gêmeas que foram criadas separadas e tiveram vidas totalmente opostas. Um dia, o destino as une novamente, criando um novo cotidiano cheio de surpresas.</info>
-<genre>Novela </genre>
-</channel>
- 
- 
-<channel>
-<name>[COLOR  white][B] Sinhá Moça[/B][/COLOR]</name>
-<thumbnail>https://br.web.img3.acsta.net/c_216_288/pictures/14/07/28/16/50/444655.jpg</thumbnail>
-<fanart>https://lh3.googleusercontent.com/proxy/SQzIQyvTwn1kwze_asP9k2yiiOHJaU9yR-wZcGYfXnWelMDoBNYLzlgnoeViYhVlRgIwlSP38xvXvcmwsKLqoDljZRLaAtnXuRYe3CdJs6FDTXS7veCJXQj3Blsc3Y3BN4p9Jnl8JQ</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/cqqfz8St</externallink>
-<info>Sinhá Moça é uma telenovela brasileira produzida pela Rede Globo e exibida no horário das 18 horas, de 13 de março a 14 de outubro de 2006, em 185 capítulos,[1] substituindo Alma Gêmea e sendo substituída por O Profeta. Foi a 67ª "novela das seis" exibida pela emissora. Escrita por Benedito Ruy Barbosa, com a colaboração de Edmara Barbosa e Edilene Barbosa, com direção de Marcelo Travesso e Luiz Antônio Pilar, direção geral de Rogério Gomes e núcleo de Ricardo Waddington. baseado no livro de mesmo título lançado por Maria Dezonne Pacheco Fernandes em 1950 e já adaptado anteriormente por Benedito como uma telenovela de 1986.</info>
-<genre>Novela </genre>
-</channel>
- 
-<channel>
-<name>[COLOR  white][B] JESUS [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/8nFRCsd.jpg</thumbnail>
-<fanart>https://imgur.com/KCl18zd.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/3zU7tNfe</externallink>
-<info>Jesus é uma telenovela brasileira produzida pela RecordTV em parceria com a produtora Casablanca exibida de 24 de julho de 2018 a 22 de abril de 2019,</info>
-<genre>Novela</genre>
-</channel>
- 
- 
- 
- 
-<channel>
-<name>[COLOR  white][B]AVENIDA BRASIL  [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/hJALYhx.jpg</thumbnail>
-<fanart>https://imgur.com/XAHVmf1.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/u2dX02wV</externallink>
-<info>Abandonada em um lixão pela madrasta, a menina Rita jura vingança. Já adulta, ela assume a identidade de Nina e volta para se vingar da megera, mas se vê dividida ao descobrir que o seu grande amor é filho da mulher que arruinou a sua vida.</info>
-<genre>Novela</genre>
-</channel>
- 
-<channel>
-<name>[COLOR  white][B]REI DO GADO[/B][/COLOR]</name>
-<thumbnail>https://imgur.com/5QIo3YM.jpg</thumbnail>
-<fanart>https://imgur.com/b7egk8t.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/ErhABW9p</externallink>
-<info>O Bruno tem um romance com Luana, ambos descendentes de duas famílias de imigrantes italianos rivais, os Mezenga e os Berdinazi, que fizeram fortuna no Brasil com criação de gado e plantações de café, respectivamente.</info>
-<genre>Novela</genre>
-</channel>
- 
- 
- 
- 
- 
-<channel>
-<name>[COLOR  white][B]Vamp[/B][/COLOR]</name>
-<thumbnail>https://imgur.com/RtMi3sL.jpg</thumbnail>
-<fanart>https://imgur.com/sJW2Puh.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/x8FdvpCp</externallink>
-<info>Vamp é uma telenovela brasileira produzida e exibida pela Rede Globo no horário das 19h de 15 de julho de 1991 a 8 de fevereiro de 1992, em 179 capítulos, substituindo Lua Cheia de Amor e sendo substituída por Perigosas Peruas. Foi a 45ª "novela das sete exibida pela emissora</info>
-<genre>Novela</genre>
-</channel>
- 
- 
- 
-<channel>
-<name>[COLOR  white][B]Mulheres de Areia[/B][/COLOR]</name>
-<thumbnail>https://imgur.com/4buqo2H.jpg</thumbnail>
-<fanart>https://imgur.com/ULFcwUU.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/LW0wJKsS</externallink>
-<info>A história da rivalidade das irmãs gêmeas Ruth e Raquel se passa na fictícia Pontal D'Areia, no litoral fluminense. Elas tem personalidades muito diferentes. Ruth é doce, calma e tem um bom coração. Raquel, por sua vez, é egoísta, agressiva e má</info>
-<genre>Novela</genre>
-</channel>
- 
- 
- 
-<channel>
-<name>[COLOR  white][B]ROQUE SANTEIRO[/B][/COLOR]</name>
-<thumbnail>https://imgur.com/nfkZ1Co.jpg</thumbnail>
-<fanart>https://imgur.com/eSsyQNO.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/8nMQkFub</externallink>
-<info>Roque Santeiro é uma telenovela brasileira produzida e exibida pela Rede Globo no horário das 20 horas, entre 24 de junho de 1985 e 22 de fevereiro,Sátira à exploração política e comercial da fé popular, marcou época apresentando uma cidade fictícia como um microcosmo do Brasil.</info>
-<genre>Novela</genre>
-</channel>
- 
- 
-<channel>
-<name>[COLOR  white][B]O CLONE[/B][/COLOR]</name>
-<thumbnail>https://imgur.com/1mZ7Mjy.jpg</thumbnail>
-<fanart>https://imgur.com/qsxUebn.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/x5Hce4Z0</externallink>
-<info>O Clone é uma telenovela brasileira produzida e exibida no horário das 20 horas pela Rede Globo, de 1 de outubro de 2001 a 15 de junho de 2002, em 221 capítulos,[1][3] substituindo Porto dos Milagres e sendo substituída por Esperança. Foi a 61ª "novela das oito" exibida pela emissora. Escrita por Glória Perez, com direção de Teresa Lampreia e Marcelo Travesso, direção geral de Jayme Monjardim, Mário Márcio Bandarra e Marcos Schechtman e direção de núcleo de Monjardim.[4]</info>
-<genre>Novela</genre>
-</channel>
- 
- 
- 
-<channel>
-<name>[COLOR  white][B]A TERRA PROMETIDA[/B][/COLOR]</name>
-<thumbnail>https://imgur.com/TwMJ550.jpg</thumbnail>
-<fanart>https://imgur.com/6UHSqnz.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/Z6TG03bX</externallink>
-<info>Após a morte de Moisés, Josué torna-se o novo líder dos hebreus. Ele é um guerreiro experiente, dotado de coragem, determinação e de uma fé poderosa. Josué deve conduzir o seu povo até a terra prometida- Canaã. Juntos, eles precisam cruzar o Rio Jordão em época de cheia, guerrear contra os Cananeus que dominam aquela terra- um povo pagão, idólatra e extremamente violento, e enfrentar reis, rainhas, nobres e generais perigosos e vingativos.</info>
-<genre>Novela</genre>
-</channel>
- 
- 
-<channel>
-<name>[COLOR  white][B]TOP MODEL[/B][/COLOR]</name>
-<thumbnail>https://imgur.com/krXdRun.jpg</thumbnail>
-<fanart>https://imgur.com/vZSMtwh.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/rvY8VyWT</externallink>
-<info>Top Model é uma telenovela brasileira produzida e exibida pela Rede Globo, entre 18 de setembro de 1989 e 4 de maio de 1990, em 197 capítulos, substituindo Que Rei Sou Eu?, e sendo substituída por Mico Preto. Foi a 42ª "novela das sete" exibida pela emissora.</info>
-<genre>Novela</genre>
-</channel>
- 
- 
-<channel>
-<name>[COLOR  white][B]Laços de Família [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/8ykGjm3.jpg</thumbnail>
-<fanart>https://imgur.com/8VM2ZJM.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-<info>Helena, uma empresária de 45 anos, se envolve em um acidente de carro com Edu, um médico de 25. Após várias brigas, os dois se entregam a um amor polêmico. Porém, o romance passa por diversos obstáculos, incluindo Camila, a filha de Helena.</info>
-<genre>Novela</genre>
-</channel>
- 
- 
- 
-<channel>
-<name>[COLOR  white][B]JOSE DO EGITO [/B][/COLOR]</name>
-<thumbnail>https://imgur.com/zbRF6Z3.jpg</thumbnail>
-<fanart>https://imgur.com/ODqSdYn.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/G8X6byGX</externallink>
-<info>A saga de um homem de Deus, íntegro e indulgente, que após ser vendido como escravo pelos irmãos é levado para o Egito, onde é injustiçado, caluniado, preso e humilhado. Apesar disso, a vida de José é um exemplo de pureza, paciência, amor e perdão.</info>
-<genre>Novela</genre>
-</channel>
- 
-<channel>
-<name>[COLOR  white][B]Viver a Vida [/B][/COLOR]</name>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTe3TNAFUfOV4acb6r_MyB_kk7tXgVltSzqZM663zk8Ec67LXx1</thumbnail>
-<fanart>https://i.ytimg.com/vi/z9NEIitbXNM/hqdefault.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>https://pastebin.com/raw/86QmTjv7</externallink>
-<info>Viver a Vida é uma telenovela brasileira produzida e exibida pela Rede Globo no horário das 21 horas, entre 14 de setembro de 2009 e 14 de maio de 2010, em 209 capítulos, substituindo Caminho das Índias e sendo substituída por Passione</info>
-<genre>Novelas</genre>
-</channel>
- 
-<channel>
-<name>[COLOR  white][B]SINHÁ MOCA [/B][/COLOR]</name>
-<thumbnail>http://orig03.deviantart.net/b359/f/2017/083/d/9/sinha_moa_by_wandergrafi-db3dgz6.jpg</thumbnail>
-<fanart>http://orig03.deviantart.net/b359/f/2017/083/d/9/sinha_moa_by_wandergrafi-db3dgz6.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>http://pastebin.com/raw/A0bfXWN7</externallink>
-<info>Monarquistas e republicanos se defrontam em Araruna, pequena cidade fictícia do interior de São Paulo, em 1886. A novela retrata a história de amor da bela e rica Sinhá Moça - filha do escravocrata, o Barão Ferreira de Araruna, e da doce e submissa Mãe Cândida - , com o jovem advogado abolicionista Dr.</info>
-<genre>Novelas</genre>
-</channel>
- 
-<channel>
-<name>[COLOR  white][B]O CRAVO E A ROSA [/B][/COLOR]</name>
-<thumbnail>http://orig01.deviantart.net/4908/f/2017/083/5/0/o_cravo_e_a_rosa_by_wandergrafi-db3e2jp.jpg</thumbnail>
-<fanart>http://orig01.deviantart.net/4908/f/2017/083/5/0/o_cravo_e_a_rosa_by_wandergrafi-db3e2jp.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>http://pastebin.com/raw/mFmAup73</externallink>
-<info>A novela O Cravo e a Rosa é uma adaptação da obra A Megera Domada, de William Shakespeare, e gira em torno do romance entre o caipira Petruchio e Catarina, uma moça temperamental, com ideias feministas e filha mais velha do banqueiro Nicanor Batista (Luís Melo)</info>
-<genre>Novelas</genre>
-</channel>
 
-<channel>
-<name>[COLOR  white][B]OCHOCOLATE COM PIMENTA [/B][/COLOR]</name>
-<thumbnail>http://orig10.deviantart.net/7d20/f/2017/083/d/9/chocolat_com_pimenta_by_wandergrafi-db3e8gq.jpg</thumbnail>
-<fanart>http://orig10.deviantart.net/7d20/f/2017/083/d/9/chocolat_com_pimenta_by_wandergrafi-db3e8gq.jpg</fanart>
-<link>http://ignoreme</link>
-<externallink>http://pastebin.com/raw/Ye44KJGA</externallink>
-<info>Chocolate com Pimenta é uma comédia romântica ambientada na década de 1920 na fictícia Ventura, uma pequena cidade cuja economia gira em torno da fábrica de chocolates e bolos artesanais Bombom, de propriedade do milionário Ludovico (Ary Fontoura).</info>
-<genre>Novelas</genre>
-</channel>
+
+
+
+
+
+
+
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
 
