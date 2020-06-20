@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR orangered]A VIAGEM[/COLOR]</title>
+<title>[COLOR white]A VIAGEM[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/bz2SihJwlWLFT7yJ50s3bnFMATq.jpg</thumbnail>
 <link>https://pastebin.com/raw/XB1RhXrq</link>
 <fanart>https://image.tmdb.org/t/p/original/bz2SihJwlWLFT7yJ50s3bnFMATq.jpg</fanart>
@@ -10,7 +10,7 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[COLOR orangered]A ESCRAVA ISAURA[/COLOR]</title>
+<title>[COLOR white]A ESCRAVA ISAURA[/COLOR]</title>
 <thumbnail>https://novelas.redenoticia.com.br/imagens/2016/12/a_escrava_isaura_record_novela_resumo.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/A%20ESCRAVA%20ISAURA</link>
 <fanart>https://novelas.redenoticia.com.br/imagens/2016/12/a_escrava_isaura_record_novela_resumo.jpg</fanart>
@@ -21,12 +21,11 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <item>
-<title>[B][COLOR orangered]A GATA COMEU [/COLOR][/B]</title>
-<thumbnail>https://pt.wikipedia.org/wiki/A_Gata_Comeu#/media/Ficheiro:Logotipo_de_A_Gata_Comeu.png</thumbnail>
+<title>[B][COLOR white]A GATA COMEU [/COLOR][/B]</title>
+<thumbnail>http://www.teledramaturgia.com.br/wp-content/uploads/2015/03/gatacomeu-300x231.jpg</thumbnail>
 <link>https://pastebin.com/raw/e4y2JwdV</link>
-<fanart>https://pt.wikipedia.org/wiki/A_Gata_Comeu#/media/Ficheiro:Logotipo_de_A_Gata_Comeu.png</fanart>
-<info>Sinopse: A mimada Jô Penteado já terminou sete noivados. Ao participar de uma excursão de barco, fica naufragada em uma ilha ao lado do professor Fábio. O gênio do dois não combina, mas ele pode ser
-exatamente o homem por quem a socialite vai se apaixonar.</info>
+<fanart>http://www.teledramaturgia.com.br/wp-content/uploads/2015/03/gatacomeu-300x231.jpg</fanart>
+<info>Sinopse: A mimada Jô Penteado já terminou sete noivados. Ao participar de uma excursão de barco, fica naufragada em uma ilha ao lado do professor Fábio. O gênio do dois não combina, mas ele pode ser exatamente o homem por quem a socialite vai se apaixonar.</info>
 <genre>Novela</genre>
 </item>
 
@@ -79,10 +78,10 @@ de Lívia e Felipe, que perdura por gerações.</info>
 
 
 <item>
-<title>[B][COLOR orangered]ALMA GEMEA [/COLOR][/B]</title>
-<thumbnail>https://pt.wikipedia.org/wiki/Alma_G%C3%AAmea#/media/Ficheiro:Logotipo_de_Alma_G%C3%AAmea.png</thumbnail>
+<title>[B][COLOR white]ALMA GEMEA [/COLOR][/B]</title>
+<thumbnail>http://www.teledramaturgia.com.br/wp-content/uploads/2015/02/almagemea_logo-300x231.jpg</thumbnail>
 <link>https://pastebin.com/raw/NUrE4YdC</link>
-<fanart>https://pt.wikipedia.org/wiki/Alma_G%C3%AAmea#/media/Ficheiro:Logotipo_de_Alma_G%C3%AAmea.png</fanart>
+<fanart>http://www.teledramaturgia.com.br/wp-content/uploads/2015/02/almagemea_logo-300x231.jpg</fanart>
 <info>História do amor eterno de um homem e uma mulher tragicamente separados e que, após 20 anos, voltam a se encontrar quando ela reencarna em um novo corpo. A trama tem tons de comédia neorrealista italiana na abordagem dos conflitos familiares</info>
 <genre>Novela</genre>
 </item>
