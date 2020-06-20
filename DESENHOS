@@ -62,10 +62,12 @@
 </channel>
 
 
-<item>
-<title>[COLOR white]MUTANTE REX[/COLOR]</title>
+<channels>
+ 
+<channel>
+<name>[COLOR white]MUTANTE REX[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/MUTANTE%20REX</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/MUTANTE%20REX</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
@@ -73,10 +75,12 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<item>
-<title>[COLOR white]O BATMAN[/COLOR]</title>
+<channels>
+ 
+<channel>
+<name>[COLOR white]O BATMAN[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/O%20BATMAN</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/O%20BATMAN</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
