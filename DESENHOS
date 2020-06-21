@@ -65,6 +65,43 @@
 <channels>
  
 <channel>
+<name>[COLOR red][B] - [/COLOR][/B][COLOR silver][B] Walt Disney Studios[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/GsNbq8T/Classicos-da-Disney.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/QQ1Y8S9H</externallink>
+<fanart>https://i.ibb.co/txhxzdH/fanart.jpg</fanart>
+<info></info>
+</channel>
+ 
+<channel>
+<name>[COLOR red][B] - [/COLOR][/B][COLOR silver][B] Pixar Animation Studios[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/QHLh5n6/Pixar.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/x8prZabz</externallink>
+<fanart>https://i.ibb.co/txhxzdH/fanart.jpg</fanart>
+<info></info>
+</channel>
+ 
+<channel>
+<name>[COLOR red][B] - [/COLOR][/B][COLOR silver][B] DreamWorks[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/QX4HDDS/Dream-Works.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Cb0gtuBG</externallink>
+<fanart>https://i.ibb.co/txhxzdH/fanart.jpg</fanart>
+<info></info>
+</channel>
+ 
+<channel>
+<name>[COLOR red][B] - [/COLOR][/B][COLOR silver][B] Studio Ghibli[/COLOR][/B]</name>
+<thumbnail>https://i.ibb.co/YBpK9JP/Studio-Ghibli.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/YeUqV9ib</externallink>
+<fanart>https://i.ibb.co/txhxzdH/fanart.jpg</fanart>
+<info></info>
+</channel>
+ 
+</channels>
+
+
+<channels>
+ 
+<channel>
 <name>[COLOR white]MUTANTE REX[/COLOR]</name>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/MUTANTE%20REX</externallink>
