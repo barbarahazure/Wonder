@@ -410,7 +410,7 @@
 
 <item>
 <title>[B]HOMEM-ARANHA:LONGE DE CASA - [COLOR yellow]2019[/COLOR] - DUAL[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1bce91f54ddc9ed56f86734c43879e5ec1277c0&dn=%5bWWW.BLUDV.TV%5d%20Homem-Aranha%20-%20Longe%20de%20Casa%202019%20(1080p%20-%20BluRay)%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2750%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce</link>
 <thumbnail>https://image.tmdb.org/t/p/original/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5myQbDzw3l8K9yofUXRJ4UTVgam.jpg</fanart>
 <info>Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.</info>
@@ -418,119 +418,55 @@
 </item>
 
 <item>
-<title>[B]VIÚVA NEGRA - [COLOR yellow]2020[/COLOR]- [COLOR red]TRAILER[/COLOR] - LEGENDADO[/B]</title>
+<title>[B]VIÚVA NEGRA - [COLOR yellow]2020[/COLOR] [COLOR red]TRAILER[/COLOR] - LEGENDADO[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=BotTBc1x7M4</link>
 <thumbnail>https://image.tmdb.org/t/p/original/deGV03UkHNcu9OMZn65CIrWZ3Au.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/13UlNawMfLRPhAFxTVnR9j1iSru.jpg</fanart>
-<link>plugin://plugin.video.youtube/play/?video_id=BotTBc1x7M4</link>
 <info>Um filme sobre Natasha Romanoff em suas buscas entre os filmes Guerra Civil e Guerra Infinita.</info>
 <genre>Ação, Thriller, Aventura</genre>
 </item>
 
 <item>
-<title>[B] - [COLOR yellow]2010[/COLOR] - DUAL[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>Ação, Aventura, Ficção científica</genre>
+<title>[B]OS ETERNOS - [COLOR yellow]2021[/COLOR] [COLOR red]TRAILER[/COLOR] - LEGENDADO[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=iNFbxaSnwYM</link>
+<thumbnail>https://image.tmdb.org/t/p/original/uRc0RTpUszMFakhXouZzK1clLsb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rrQBJqDZ8WbkcQEkLQsrCXwCoGZ.jpg</fanart>
+<info>Filme dos Eternos, que fará parte da Fase 4 do MCU. Os Eternos são um grupo de super-humanos com grandes poderes e longa vida. Fora criados pelos alienígenas Celestiais, que também criaram os Deviantes através de um experimento que deu errado.</info>
+<genre>Ação, Thriller, Aventura</genre>
 </item>
 
 <item>
-<title>[B] - [COLOR yellow]2010[/COLOR] - DUAL[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>Ação, Aventura, Ficção científica</genre>
+<title>[B]SHANG-CHI E A LENDA DOS DEZ ANÉIS - [COLOR yellow]2021[/COLOR] [COLOR red]TRAILER[/COLOR] - LEGENDADO[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=jSnc8Mt_EEI</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ftsBQHsGJ6O7ELZ29Pd0RIK64vq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/sgvFkA6QzaGUfdzVeo0oqoeZqia.jpg</fanart>
+<info>O filme, baseado na Marvel Comics, focará em Shang-Chi; 'O Mestre do Kung-Fu'.</info>
+<genre>Ação, Thriller, Aventura</genre>
 </item>
 
 <item>
-<title>[B] - [COLOR yellow]2010[/COLOR] - DUAL[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>Ação, Aventura, Ficção científica</genre>
+<title>[B]DOUTOR ESTRANHO NO MULTIVERSO DA LOUCURA - [COLOR yellow]2022[/COLOR] [COLOR red]TRAILER[/COLOR] - LEGENDADO[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=zTgdtmkMT2g</link>
+<thumbnail>https://image.tmdb.org/t/p/original/z2xYbkQ3Duj5kt3suIP4nrR6faz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cSUFuITYSoilm4pZyXVI4bzHnJ3.jpg</fanart>
+<info>O arco de ‘Doutor Estranho no Multiverso na Loucura‘ gira em torno da Feiticeira Escarlate, que perde o controle dos seus poderes e, por consequência, cria uma realidade alternativa onde tudo é diferente – o que pode explicar o título ‘multiverso da loucura‘.</info>
+<genre>Ação, Thriller, Aventura</genre>
 </item>
 
 <item>
-<title>[B] - [COLOR yellow]2010[/COLOR] - DUAL[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>Ação, Aventura, Ficção científica</genre>
+<title>[B]DOUTOR ESTRANHO NO MULTIVERSO DA LOUCURA - [COLOR yellow]2022[/COLOR] [COLOR red]TRAILER[/COLOR] - LEGENDADO[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=zTgdtmkMT2g</link>
+<thumbnail>https://image.tmdb.org/t/p/original/z2xYbkQ3Duj5kt3suIP4nrR6faz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/cSUFuITYSoilm4pZyXVI4bzHnJ3.jpg</fanart>
+<info>O arco de ‘Doutor Estranho no Multiverso na Loucura‘ gira em torno da Feiticeira Escarlate, que perde o controle dos seus poderes e, por consequência, cria uma realidade alternativa onde tudo é diferente – o que pode explicar o título ‘multiverso da loucura‘.</info>
+<genre>Ação, Thriller, Aventura</genre>
 </item>
 
 <item>
-<title>[B] - [COLOR yellow]2010[/COLOR] - DUAL[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>Ação, Aventura, Ficção científica</genre>
+<title>[B]THOR: LOVE AND THUNDER - [COLOR yellow]2022[/COLOR] [COLOR red]TRAILER[/COLOR] - LEGENDADO[/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=6mJama3Tcfs</link>
+<thumbnail>https://image.tmdb.org/t/p/original/lrPMm9aFndk556vbRfnv0F8mrlS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qB3HdCZKHWU33k9QYTIZaM4v5qo.jpg</fanart>
+<info>Quarto filme do Thor no Universo Marvel.</info>
+<genre>Ação, Thriller, Aventura</genre>
 </item>
-
-<item>
-<title>[B] - [COLOR yellow]2010[/COLOR] - DUAL[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>Ação, Aventura, Ficção científica</genre>
-</item>
-
-<item>
-<title>[B] - [COLOR yellow]2010[/COLOR] - DUAL[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>Ação, Aventura, Ficção científica</genre>
-</item>
-
-<item>
-<title>[B] - [COLOR yellow]2010[/COLOR] - DUAL[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>Ação, Aventura, Ficção científica</genre>
-</item>
-
-<item>
-<title>[B] - [COLOR yellow]2010[/COLOR] - DUAL[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>Ação, Aventura, Ficção científica</genre>
-</item>
-
-<item>
-<title>[B] - [COLOR yellow]2010[/COLOR] - DUAL[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>Ação, Aventura, Ficção científica</genre>
-</item>
-
-<item>
-<title>[B] - [COLOR yellow]2010[/COLOR] - DUAL[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>Ação, Aventura, Ficção científica</genre>
-</item>
-
-<item>
-<title>[B] - [COLOR yellow]2010[/COLOR] - DUAL[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre>Ação, Aventura, Ficção científica</genre>
-</item>
-
