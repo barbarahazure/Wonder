@@ -106,7 +106,6 @@
 <fanart>https://image.tmdb.org/t/p/original/6tWRGATOW76r4H6VD3qO0wI6tuc.jpg</fanart>
 <info>Quando era apenas um bebê, a princesa Sara foi salva das garras de uma bruxa maligna, conhecida como Lady Diabolyn, por um místico cavalo falante chamado Cavalo de Fogo, que a conduziu do planeta Dar-Shan para um local seguro, em um rancho em Montana, no oeste dos EUA. Ela é então cuidada por um homem conhecido como John Cavanaugh. Por volta dos 13 anos de idade, Sara vê seu medalhão brilhando. Logo, descobre que o amuleto é mágico e capaz de enviar um aviso ao cavalo que a salvou. O Cavalo de Fogo enfim conta à Sara sobre quem ela realmente é: A princesa do reino de Dar-Shan, situado em outra dimensão, filha da Rainha Sarana e do Príncipe Kevin. Sara descobre também que Diabolyn é meia-irmã de sua mãe, sobre a qual Diabolyn lançou um feitiço para abdicar do trono. Ao atravessar o portão dimensional para Dar-Shan, Sara conhece alguns aliados na luta contra Diabolyn: Um feiticeiro chamado Alvinar (que também era conselheiro de sua mãe), um potro covarde chamado Brutus e seu dono, o jovem Dorin. Diabolyn, por sua vez, conta com ajuda de espectros demoníacos para se tornar a rainha de Dar-Shan, além de estranhas criaturas lideradas por Dweedle.</info>
 <genre>DESENHO</genre>
-</item>
 </channel>
 </channels>
 
@@ -124,7 +123,6 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
- 
 <channel>
 <name>[COLOR white]O BATMAN[/COLOR]</name>
 <link>ignoreme</link>
@@ -133,9 +131,8 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
-
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
