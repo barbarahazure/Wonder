@@ -55,3 +55,15 @@
 <info>[COLOR deeppink]|[/COLOR] - UNIVERSO MARVEL - [COLOR deeppink]|[/COLOR]</info>
 </channel>
 </channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]MUNDO X-MEN[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801503.us.archive.org/21/items/entrar_20200609/ENTRAR.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/MUNDO%20X-MEN</externallink>
+<fanart>https://ia801503.us.archive.org/21/items/entrar_20200609/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR] - MUNDO X-MEN - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
