@@ -1,73 +1,9 @@
 <channels>
  
 <channel>
-<name>[COLOR yellow][B]DESENHOS [/COLOR][/B][COLOR lawngreen][B]COLEÇÕES[/COLOR][/B]</name>
-<externallink>https://pastebin.com/raw/wdc7kBq9</externallink>
-<thumbnail>https://i.imgur.com/yyKiVGn.png</thumbnail>
-<fanart>https://i.imgur.com/qzBn4wF.png</fanart>
-<info></info>
-</channel>
-
-<channels>
-
-<channel>
-<name>[COLOR yellow][B]DESENHOS [/COLOR][/B][COLOR lawngreen][B]GDRIVE[/COLOR][/B]</name>
-<externallink>https://pastebin.com/raw/GSc6Wyaa</externallink>
-<thumbnail>https://i.imgur.com/ZQeBDoA.png</thumbnail>
-<fanart>https://i.imgur.com/qzBn4wF.png</fanart>
-<info></info>
-</channel>
-
-<channels>
- 
-<channel>
-<name>[COLOR lawngreen][B]DESENHOS [/COLOR][/B][COLOR blue][B](REDE [/COLOR][/B][COLOR white][B]CANAIS)[/COLOR][/B]</name>
-<externallink>https://pastebin.com/raw/31FgGD2a</externallink>
-<thumbnail>https://i.imgur.com/SSBNjig.png</thumbnail>
-<fanart>https://i.imgur.com/qzBn4wF.png</fanart>
-<info></info>
-</channel>
-
-
-<channels>
- 
-<channel>
-<name>[COLOR yellow][B]ANIMES [/COLOR][/B][COLOR lawngreen][B]GDRIVE[/COLOR][/B]</name>
-<externallink>https://pastebin.com/raw/1YFsSZEi</externallink>
-<thumbnail>https://i.imgur.com/FX6KZAf.png</thumbnail>
-<fanart>https://i2.wp.com/www.coisasdojapao.com/wp-content/uploads/2018/04/bilheterias-anime-Jap%C3%A3o.png</fanart>
-<info></info>
-</channel>
-
-
-<channels>
- 
-<channel>
-<name>[COLOR lawngreen][B]ANIMES [/COLOR][/B][COLOR blue][B](REDE [/COLOR][/B][COLOR white][B]CANAIS)[/COLOR][/B]</name>
-<externallink>https://pastebin.com/raw/gPCjM3H8</externallink>
-<thumbnail>https://i.imgur.com/vjowtDt.png</thumbnail>
-<fanart>https://i2.wp.com/www.coisasdojapao.com/wp-content/uploads/2018/04/bilheterias-anime-Jap%C3%A3o.png</fanart>
-<info></info>
-</channel>
-
-
-<channels>
- 
-<channel>
-<name>[B]TESTE [/B]</name>
-<externallink>https://pastebin.com/raw/mxY4H1zX</externallink>
-<thumbnail>https://i.imgur.com/vjowtDt.png</thumbnail>
-<fanart>https://i2.wp.com/www.coisasdojapao.com/wp-content/uploads/2018/04/bilheterias-anime-Jap%C3%A3o.png</fanart>
-<info></info>
-</channel>
-
-
-<channels>
- 
-<channel>
 <name>[COLOR red][B] - [/COLOR][/B][COLOR silver][B] Walt Disney Studios[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/GsNbq8T/Classicos-da-Disney.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/QQ1Y8S9H</externallink>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/WALT%20DISNEY%20STUDIOS</externallink>
 <fanart>https://i.ibb.co/txhxzdH/fanart.jpg</fanart>
 <info></info>
 </channel>
