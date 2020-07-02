@@ -1,184 +1,225 @@
-<item>
-<title>[B][COLOR yellow]WALT DISNEY STUDIOS[/COLOR][/B]</title>
+<channels>
+<channel>
+<name>[B][COLOR yellow]WALT DISNEY STUDIOS[/COLOR][/B]</name>
 <thumbnail>https://pausadrammatica.files.wordpress.com/2015/03/disney-logo-walt-disney.jpg</thumbnail>
-<link>https://pastebin.com/raw/b41QAvES</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/WALT%20DISNEY%20STUDIOS</externallink>
 <fanart>https://wallpapercave.com/wp/wp4784841.jpg</fanart>
 <info>The Walt Disney Studios é uma divisão que desenvolve roteiros e supervisiona a produção cinematográfica, teatral e musical da The Walt Disney Company.</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[B][COLOR yellow]PIXAR ANIMATION STUDIOS[/COLOR][/B]</title>
+<channels>
+<channel>
+<name>[B][COLOR yellow]PIXAR ANIMATION STUDIOS[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/QHLh5n6/Pixar.jpg</thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/PIXAR%20ANIMATION%20STUDIOS</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/PIXAR%20ANIMATION%20STUDIOS</externallink>
 <fanart>https://wallpapercave.com/wp/4JUbgxn.jpg</fanart>
 <info>A Pixar Animation Studios, é uma empresa de animação digital norte-americana pertencente à Walt Disney Company. Está localizada em Emeryville, Califórnia. A Pixar já recebeu 19 Oscares da Academia, 8 Globos de Ouro e 11 Grammy Awards, entre muitos outros prêmios.</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[B][COLOR yellow]DREAMWORKS ANIMATION[/COLOR][/B]</title>
+<channels>
+<channel>
+<name>[B][COLOR yellow]DREAMWORKS ANIMATION[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/QX4HDDS/Dream-Works.jpg</thumbnail>
-<link>https://pastebin.com/raw/Cb0gtuBG</link>
+<externallink>https://pastebin.com/raw/Cb0gtuBG</externallink>
 <fanart>https://wallpapercave.com/wp/QSiV799.jpg</fanart>
 <info>DreamWorks Animation LLC (também conhecida simplesmente como DreamWorks) é um estúdio de animação americano e uma subsidiária da NBCUniversal. Está sediada em Glendale, Califórnia, e produz filmes animados, programas de televisão e jogos virtuais online. Atualmente, o estúdio lançou um total de 38 longas-metragens, começando com FormiguinhaZ (1998) até seu filme mais recente Trolls 2 (2020).</info>
-</item>
+</channel>
+</channels>
  
-<item>
-<title>[B][COLOR yellow]STUDIO GHIBLI[/COLOR][/B]</title>
+<channels>
+<channel>
+<name>[B][COLOR yellow]STUDIO GHIBLI[/COLOR][/B]</name>
 <thumbnail>https://i.ibb.co/YBpK9JP/Studio-Ghibli.jpg</thumbnail>
-<link>https://pastebin.com/raw/YeUqV9ib</link>
+<externallink>https://pastebin.com/raw/YeUqV9ib</externallink>
 <fanart>https://wallpapercave.com/wp/wp2322013.png</fanart>
 <info>O Studio Ghibli, Inc. é um estúdio de animação japonês, sediado em Koganei, Tóquio.[1] Fundado em 1985, o estúdio já produziu 21 filmes de animação, sendo o primeiro Tenkū no Shiro Rapyuta] (1986) e o mais recente Omoide no Marnie (2014).</info>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]CAVALO DE FOGO[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]CAVALO DE FOGO[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/4u5HB5IUw41f3tuts3ri0jdd1t3.jpg</thumbnail>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A4E4FBD502F364A4E55B27C886C210F9BD81692&dn=Cavalo%20de%20Fogo%20by%20orfanatodownloads.blogspot.com&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a6969&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
+<externallink>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A4E4FBD502F364A4E55B27C886C210F9BD81692&dn=Cavalo%20de%20Fogo%20by%20orfanatodownloads.blogspot.com&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a6969&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</externallink>
 <fanart>https://image.tmdb.org/t/p/original/6tWRGATOW76r4H6VD3qO0wI6tuc.jpg</fanart>
 <info>Quando era apenas um bebê, a princesa Sara foi salva das garras de uma bruxa maligna, conhecida como Lady Diabolyn, por um místico cavalo falante chamado Cavalo de Fogo, que a conduziu do planeta Dar-Shan para um local seguro, em um rancho em Montana, no oeste dos EUA. Ela é então cuidada por um homem conhecido como John Cavanaugh. Por volta dos 13 anos de idade, Sara vê seu medalhão brilhando. Logo, descobre que o amuleto é mágico e capaz de enviar um aviso ao cavalo que a salvou. O Cavalo de Fogo enfim conta à Sara sobre quem ela realmente é: A princesa do reino de Dar-Shan, situado em outra dimensão, filha da Rainha Sarana e do Príncipe Kevin. Sara descobre também que Diabolyn é meia-irmã de sua mãe, sobre a qual Diabolyn lançou um feitiço para abdicar do trono. Ao atravessar o portão dimensional para Dar-Shan, Sara conhece alguns aliados na luta contra Diabolyn: Um feiticeiro chamado Alvinar (que também era conselheiro de sua mãe), um potro covarde chamado Brutus e seu dono, o jovem Dorin. Diabolyn, por sua vez, conta com ajuda de espectros demoníacos para se tornar a rainha de Dar-Shan, além de estranhas criaturas lideradas por Dweedle.</info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]MUTANTE REX[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]MUTANTE REX[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/MUTANTE%20REX</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/MUTANTE%20REX</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]O BATMAN[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]O BATMAN[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/O%20BATMAN</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/O%20BATMAN</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]O CLUBE DAS WINX[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]O CLUBE DAS WINX[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/O%20CLUBE%20DAS%20WINX</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/O%20CLUBE%20DAS%20WINX</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]O FANTASTICO MUNDO DE BOB[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]O FANTASTICO MUNDO DE BOB[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/O%20FANT%C3%81STICO%20MUNDO%20DE%20BOB</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/O%20FANT%C3%81STICO%20MUNDO%20DE%20BOB</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]OS SIMPSONS[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]OS SIMPSONS[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/OS%20SIMPSONS</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/OS%20SIMPSONS</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]SCOOB DOO[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]SCOOB DOO[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/SCOOBY%20DOO</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/SCOOBY%20DOO</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]SPACE GHOST & DINO BOY E O VALE PERDIDO[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]SPACE GHOST & DINO BOY E O VALE PERDIDO[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/SPACE%20GHOST%20%26%20DINO%20BOY%20E%20O%20VALE%20PERDIDO</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/SPACE%20GHOST%20%26%20DINO%20BOY%20E%20O%20VALE%20PERDIDO</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]SUPER CHOQUE[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]SUPER CHOQUE[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/SUPER%20CHOQUE</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/SUPER%20CHOQUE</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]THUNDERCATS[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]THUNDERCATS[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/THUNDERCATS</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/THUNDERCATS</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]TITÃ SIMBIÔNICO[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]TITÃ SIMBIÔNICO[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/TIT%C3%83%20SIMBI%C3%94NICO</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/TIT%C3%83%20SIMBI%C3%94NICO</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]TOM & JERRY[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]TOM & JERRY[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/TOM%20%26%20JERRY</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/TOM%20%26%20JERRY</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]ULTIMATE HOMEM ARANHA[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]ULTIMATE HOMEM ARANHA[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/ULTIMATE%20HOMEM%20ARANHA</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/ULTIMATE%20HOMEM%20ARANHA</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]W.I.T.C.H.[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]W.I.T.C.H.[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/W.I.T.C.H.</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/W.I.T.C.H.</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]WOLVERINE E OS X MEN[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]WOLVERINE E OS X MEN[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/WOLVERINE%20E%20OS%20X%20MEN</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/WOLVERINE%20E%20OS%20X%20MEN</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
-<item>
-<title>[COLOR white]X MEN ANIMATED SERIES[/COLOR]</title>
+<channels>
+<channel>
+<name>[COLOR white]X MEN ANIMATED SERIES[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/X%20MEN%20ANIMATED%20SERIES</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/X%20MEN%20ANIMATED%20SERIES</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
 <item>
-<title>[COLOR white]X MEN EVOLUTION[/COLOR]</title>
+<name>[COLOR white]X MEN EVOLUTION[/COLOR]</name>
 <thumbnail></thumbnail>
-<link>https://raw.githubusercontent.com/barbarahazure/Wonder/master/X%20MEN%20EVOLUTION</link>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/X%20MEN%20EVOLUTION</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
