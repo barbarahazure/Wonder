@@ -1,5 +1,4 @@
 <channels>
- 
 <channel>
 <title>[B][COLOR yellow]WALT DISNEY STUDIOS[/COLOR][/B]</title>
 <thumbnail>https://pausadrammatica.files.wordpress.com/2015/03/disney-logo-walt-disney.jpg</thumbnail>
@@ -7,7 +6,9 @@
 <fanart>https://wallpapercave.com/wp/wp4784841.jpg</fanart>
 <info>The Walt Disney Studios é uma divisão que desenvolve roteiros e supervisiona a produção cinematográfica, teatral e musical da The Walt Disney Company.</info>
 </channel>
- 
+</channels>
+
+<channels>
 <channel>
 <title>[B][COLOR yellow]PIXAR ANIMATION STUDIOS[/COLOR][/B]</title>
 <thumbnail>https://i.ibb.co/QHLh5n6/Pixar.jpg</thumbnail>
@@ -15,15 +16,19 @@
 <fanart>https://wallpapercave.com/wp/4JUbgxn.jpg</fanart>
 <info>A Pixar Animation Studios, é uma empresa de animação digital norte-americana pertencente à Walt Disney Company. Está localizada em Emeryville, Califórnia. A Pixar já recebeu 19 Oscares da Academia, 8 Globos de Ouro e 11 Grammy Awards, entre muitos outros prêmios.</info>
 </channel>
- 
+</channels>
+
+<channels>
 <channel>
-<title>[B][COLOR yellow]DREAMWORKS[/COLOR][/B]</title>
+<title>[B][COLOR yellow]DREAMWORKS ANIMATION[/COLOR][/B]</title>
 <thumbnail>https://i.ibb.co/QX4HDDS/Dream-Works.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/Cb0gtuBG</externallink>
 <fanart>https://wallpapercave.com/wp/QSiV799.jpg</fanart>
-<info></info>
+<info>DreamWorks Animation LLC (também conhecida simplesmente como DreamWorks) é um estúdio de animação americano e uma subsidiária da NBCUniversal. Está sediada em Glendale, Califórnia, e produz filmes animados, programas de televisão e jogos virtuais online. Atualmente, o estúdio lançou um total de 38 longas-metragens, começando com FormiguinhaZ (1998) até seu filme mais recente Trolls 2 (2020).</info>
 </channel>
+</channels>
  
+<channels>
 <channel>
 <title>[B][COLOR yellow]STUDIO GHIBLI[/COLOR][/B]</title>
 <thumbnail>https://i.ibb.co/YBpK9JP/Studio-Ghibli.jpg</thumbnail>
@@ -33,7 +38,7 @@
 </channel>
 </channels>
 
-
+<channels>
 <channel>
 <name>[COLOR white]CAVALO DE FOGO[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/4u5HB5IUw41f3tuts3ri0jdd1t3.jpg</thumbnail>
@@ -42,10 +47,10 @@
 <info>Quando era apenas um bebê, a princesa Sara foi salva das garras de uma bruxa maligna, conhecida como Lady Diabolyn, por um místico cavalo falante chamado Cavalo de Fogo, que a conduziu do planeta Dar-Shan para um local seguro, em um rancho em Montana, no oeste dos EUA. Ela é então cuidada por um homem conhecido como John Cavanaugh. Por volta dos 13 anos de idade, Sara vê seu medalhão brilhando. Logo, descobre que o amuleto é mágico e capaz de enviar um aviso ao cavalo que a salvou. O Cavalo de Fogo enfim conta à Sara sobre quem ela realmente é: A princesa do reino de Dar-Shan, situado em outra dimensão, filha da Rainha Sarana e do Príncipe Kevin. Sara descobre também que Diabolyn é meia-irmã de sua mãe, sobre a qual Diabolyn lançou um feitiço para abdicar do trono. Ao atravessar o portão dimensional para Dar-Shan, Sara conhece alguns aliados na luta contra Diabolyn: Um feiticeiro chamado Alvinar (que também era conselheiro de sua mãe), um potro covarde chamado Brutus e seu dono, o jovem Dorin. Diabolyn, por sua vez, conta com ajuda de espectros demoníacos para se tornar a rainha de Dar-Shan, além de estranhas criaturas lideradas por Dweedle.</info>
 <genre>DESENHO</genre>
 </channel>
+</channels>
 
-
-
-<item>
+<channels>
+<channel>
 <name>[COLOR white]MUTANTE REX[/COLOR]</name>
 <link>ignoreme</link>
 <thumbnail></thumbnail>
@@ -53,7 +58,8 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
+</channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -71,7 +77,6 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
- 
 <channel>
 <name>[COLOR white]O CLUBE DAS WINX[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -79,14 +84,13 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
 <channels>
- 
 <channel>
 <name>[COLOR white]O FANTASTICO MUNDO DE BOB[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -94,13 +98,12 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
- 
 <channel>
 <name>[COLOR white]OS SIMPSONS[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -108,13 +111,12 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
- 
 <channel>
 <name>[COLOR white]SCOOB DOO[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -122,13 +124,12 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channels>
- 
 <channel>
 <name>[COLOR white]SPACE GHOST & DINO BOY E O VALE PERDIDO[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -136,11 +137,11 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
-
+</channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
 <channel>
 <name>[COLOR white]SUPER CHOQUE[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -148,11 +149,12 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
 <channel>
 <name>[COLOR white]THUNDERCATS[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -160,11 +162,12 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
 <channel>
 <name>[COLOR white]TITÃ SIMBIÔNICO[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -172,11 +175,12 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
 <channel>
 <name>[COLOR white]TOM & JERRY[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -184,11 +188,12 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
 <channel>
 <name>[COLOR white]ULTIMATE HOMEM ARANHA[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -196,11 +201,12 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
 <channel>
 <name>[COLOR white]W.I.T.C.H.[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -208,11 +214,12 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
 <channel>
 <name>[COLOR white]WOLVERINE E OS X MEN[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -220,11 +227,12 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
 <channel>
 <name>[COLOR white]X MEN ANIMATED SERIES[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -232,11 +240,12 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
+<channels>
 <channel>
 <name>[COLOR white]X MEN EVOLUTION[/COLOR]</name>
 <thumbnail></thumbnail>
@@ -244,7 +253,7 @@
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
-</item>
 </channel>
+</channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
