@@ -1,6 +1,6 @@
-<channels>
+
 <channel>
-<name>[COLOR white]CAVALO DE FOGO[/COLOR]</name>
+<title>[COLOR white]CAVALO DE FOGO[/COLOR]</title>
 <thumbnail>https://image.tmdb.org/t/p/original/4u5HB5IUw41f3tuts3ri0jdd1t3.jpg</thumbnail>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A4E4FBD502F364A4E55B27C886C210F9BD81692&dn=Cavalo%20de%20Fogo%20by%20orfanatodownloads.blogspot.com&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a6969&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
 <fanart>https://image.tmdb.org/t/p/original/6tWRGATOW76r4H6VD3qO0wI6tuc.jpg</fanart>
@@ -11,7 +11,7 @@
 
 
 <channel>
-<name>[COLOR white]MUTANTE REX[/COLOR]</name>
+<title>[COLOR white]MUTANTE REX[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/MUTANTE%20REX</externallink>
 <fanart></fanart>
@@ -22,7 +22,7 @@
 
 
 <channel>
-<name>[COLOR white]O BATMAN[/COLOR]</name>
+<title>[COLOR white]O BATMAN[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/O%20BATMAN</externallink>
 <fanart></fanart>
@@ -33,7 +33,7 @@
 
 
 <channel>
-<name>[COLOR white]O CLUBE DAS WINX[/COLOR]</name>
+<title>[COLOR white]O CLUBE DAS WINX[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/O%20CLUBE%20DAS%20WINX</externallink>
 <fanart></fanart>
@@ -44,7 +44,7 @@
 
 
 <channel>
-<name>[COLOR white]O FANTASTICO MUNDO DE BOB[/COLOR]</name>
+<title>[COLOR white]O FANTASTICO MUNDO DE BOB[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/O%20FANT%C3%81STICO%20MUNDO%20DE%20BOB</externallink>
 <fanart></fanart>
@@ -55,7 +55,7 @@
 
 
 <channel>
-<name>[COLOR white]OS SIMPSONS[/COLOR]</name>
+<title>[COLOR white]OS SIMPSONS[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/OS%20SIMPSONS</externallink>
 <fanart></fanart>
@@ -66,7 +66,7 @@
 
 
 <channel>
-<name>[COLOR white]SCOOB DOO[/COLOR]</name>
+<title>[COLOR white]SCOOB DOO[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/SCOOBY%20DOO</externallink>
 <fanart></fanart>
@@ -77,7 +77,7 @@
 
 
 <channel>
-<name>[COLOR white]SPACE GHOST & DINO BOY E O VALE PERDIDO[/COLOR]</name>
+<title>[COLOR white]SPACE GHOST & DINO BOY E O VALE PERDIDO[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/SPACE%20GHOST%20%26%20DINO%20BOY%20E%20O%20VALE%20PERDIDO</externallink>
 <fanart></fanart>
@@ -88,7 +88,7 @@
 
 
 <channel>
-<name>[COLOR white]SUPER CHOQUE[/COLOR]</name>
+<title>[COLOR white]SUPER CHOQUE[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/SUPER%20CHOQUE</externallink>
 <fanart></fanart>
@@ -99,7 +99,7 @@
 
 
 <channel>
-<name>[COLOR white]THUNDERCATS[/COLOR]</name>
+<title>[COLOR white]THUNDERCATS[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/THUNDERCATS</externallink>
 <fanart></fanart>
@@ -110,7 +110,7 @@
 
 
 <channel>
-<name>[COLOR white]TITÃ SIMBIÔNICO[/COLOR]</name>
+<title>[COLOR white]TITÃ SIMBIÔNICO[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/TIT%C3%83%20SIMBI%C3%94NICO</externallink>
 <fanart></fanart>
@@ -121,7 +121,7 @@
 
 
 <channel>
-<name>[COLOR white]TOM & JERRY[/COLOR]</name>
+<title>[COLOR white]TOM & JERRY[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/TOM%20%26%20JERRY</externallink>
 <fanart></fanart>
@@ -132,7 +132,7 @@
 
 
 <channel>
-<name>[COLOR white]ULTIMATE HOMEM ARANHA[/COLOR]</name>
+<title>[COLOR white]ULTIMATE HOMEM ARANHA[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/ULTIMATE%20HOMEM%20ARANHA</externallink>
 <fanart></fanart>
@@ -143,7 +143,7 @@
 
 
 <channel>
-<name>[COLOR white]W.I.T.C.H.[/COLOR]</name>
+<title>[COLOR white]W.I.T.C.H.[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/W.I.T.C.H.</externallink>
 <fanart></fanart>
@@ -154,7 +154,7 @@
 
 
 <channel>
-<name>[COLOR white]WOLVERINE E OS X MEN[/COLOR]</name>
+<title>[COLOR white]WOLVERINE E OS X MEN[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/WOLVERINE%20E%20OS%20X%20MEN</externallink>
 <fanart></fanart>
@@ -165,7 +165,7 @@
 
 
 <channel>
-<name>[COLOR white]X MEN ANIMATED SERIES[/COLOR]</name>
+<title>[COLOR white]X MEN ANIMATED SERIES[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/X%20MEN%20ANIMATED%20SERIES</externallink>
 <fanart></fanart>
@@ -175,11 +175,10 @@
 
 
 <channel>
-<name>[COLOR white]X MEN EVOLUTION[/COLOR]</name>
+<title>[COLOR white]X MEN EVOLUTION[/COLOR]</title>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/X%20MEN%20EVOLUTION</externallink>
 <fanart></fanart>
 <info></info>
 <genre>DESENHO</genre>
 </channel>
-</channels>
