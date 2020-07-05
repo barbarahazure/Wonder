@@ -1,4 +1,4 @@
-
+<channels>
 <channel>
 <name>[COLOR white]CAVALO DE FOGO[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/4u5HB5IUw41f3tuts3ri0jdd1t3.jpg</thumbnail>
@@ -182,3 +182,4 @@
 <info></info>
 <genre>DESENHO</genre>
 </channel>
+</channels>
