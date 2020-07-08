@@ -1,0 +1,56 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://static.clubsrv.me/logos/canais/animalplanet.png" group-title="CANAIS | ENTRETENIMENTO",ANIMAL PLANET SD
+http://playcompany.ddns.net:80/123456/12345678/3985
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://static.clubsrv.me/logos/canais/animalplanet.png" group-title="CANAIS | ENTRETENIMENTO",ANIMAL PLANET HD
+http://playcompany.ddns.net:80/123456/12345678/3986
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://static.clubsrv.me/logos/canais/animalplanet.png" group-title="CANAIS | ENTRETENIMENTO",ANIMAL PLANET FHD
+http://playcompany.ddns.net:80/123456/12345678/3882
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://static.clubsrv.me/logos/canais/arte1.png" group-title="CANAIS | ENTRETENIMENTO",ARTE 1 HD 
+http://playcompany.ddns.net:80/123456/12345678/4255
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS SD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="CANAIS | ENTRETENIMENTO",BIS SD
+http://playcompany.ddns.net:80/123456/12345678/3991
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="CANAIS | ENTRETENIMENTO",BIS HD
+http://playcompany.ddns.net:80/123456/12345678/3993
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD" tvg-logo="http://i.imgur.com/JNP327k.png" group-title="CANAIS | ENTRETENIMENTO",BIS FHD
+http://playcompany.ddns.net:80/123456/12345678/3877
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL SD" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="CANAIS | ENTRETENIMENTO",COMEDY CENTRAL SD
+http://playcompany.ddns.net:80/123456/12345678/3987
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://i.imgur.com/0956PZG.png" group-title="CANAIS | ENTRETENIMENTO",COMEDY CENTRAL FHD
+http://playcompany.ddns.net:80/123456/12345678/3872
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+#EXTINF:-1 group-title="Canais de Entretenimento",E! SD
+http://playcompany.ddns.net:80/123456/12345678/3965
+
+#EXTINF:-1 ,EI PLUS SD
+http://blackuhd.co:80/tblack/tblack/54026
