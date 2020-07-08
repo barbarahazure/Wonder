@@ -1,0 +1,85 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="BabyTV HD" tvg-name="BABY TV HD" tvg-logo="https://static.clubsrv.me/logos/canais/babytv.png" group-title="CANAIS | INFANTIS",BABY TV HD
+http://playcompany.ddns.net:80/123456/12345678/4047
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG SD" tvg-logo="https://static.clubsrv.me/logos/canais/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG SD
+http://playcompany.ddns.net:80/123456/12345678/4043
+
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://static.clubsrv.me/logos/canais/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG HD
+http://playcompany.ddns.net:80/123456/12345678/4044
+
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG FHD" tvg-logo="https://static.clubsrv.me/logos/canais/boomerang.png" group-title="CANAIS | INFANTIS",BOOMERANG FHD
+http://playcompany.ddns.net:80/123456/12345678/3876
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOON NETWORK SD" tvg-logo="encurtador.com.br/iHI45" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD
+http://playcompany.ddns.net:80/123456/12345678/4039
+
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOON NETWORK HD" tvg-logo="encurtador.com.br/iHI45" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
+http://playcompany.ddns.net:80/123456/12345678/4040
+
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="encurtador.com.br/iHI45" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD
+http://playcompany.ddns.net:80/123456/12345678/3875
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS SD
+http://playcompany.ddns.net:80/123456/12345678/4037
+
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
+http://playcompany.ddns.net:80/123456/12345678/4038
+
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverykids.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS FHD
+http://playcompany.ddns.net:80/123456/12345678/3868
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL SD
+http://playcompany.ddns.net:80/123456/12345678/4033
+
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL HD
+http://playcompany.ddns.net:80/123456/12345678/4034
+
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://static.clubsrv.me/logos/canais/disney.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL FHD
+http://playcompany.ddns.net:80/123456/12345678/3863
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY JUNIOR SD" tvg-logo="encurtador.com.br/eALPZ" group-title="CANAIS | INFANTIS",DISNEY JUNIOR SD
+http://playcompany.ddns.net:80/123456/12345678/4027
+
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney JUNIOR HD" tvg-logo="encurtador.com.br/eALPZ" group-title="CANAIS | INFANTIS",Disney JUNIOR HD
+http://playcompany.ddns.net:80/123456/12345678/4029
+
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney JUNIOR FHD" tvg-logo="encurtador.com.br/eALPZ" group-title="CANAIS | INFANTIS",Disney JUNIOR FHD
+http://playcompany.ddns.net:80/123456/12345678/3862
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD SD" tvg-logo="https://static.clubsrv.me/logos/canais/disneyxd.png" group-title="CANAIS | INFANTIS",DISNEY XD SD
+http://playcompany.ddns.net:80/123456/12345678/4022
+
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD HD" tvg-logo="https://static.clubsrv.me/logos/canais/disneyxd.png" group-title="CANAIS | INFANTIS",DISNEY XD HD
+http://playcompany.ddns.net:80/123456/12345678/4024
+
+#EXTINF:-1 tvg-id="Disneyxd.br" tvg-name="DISNEY XD FHD" tvg-logo="https://static.clubsrv.me/logos/canais/disneyxd.png" group-title="CANAIS | INFANTIS",DISNEY XD FHD
+http://playcompany.ddns.net:80/123456/12345678/4025
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
