@@ -1,8 +1,8 @@
 <channels>
 <channel>
-<name>[B][COLOR deeppink]CANAIS 1[/COLOR][/B]</name>
+<name>[B][COLOR deeppink]CANAIS | DISCOVERY[/COLOR][/B]</name>
 <thumbnail>https://ia801406.us.archive.org/8/items/canais_202006/CANAIS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/LISTA%20CANAIS%201</externallink>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/LISTA%20CANAIS%20ESPORTE</externallink>
 <fanart>https://ia601401.us.archive.org/32/items/wonder_202006/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR] - Este é um addon feito com amor - [COLOR deeppink]|[/COLOR]</info>
 </channel>
@@ -10,9 +10,9 @@
 
 <channels>
 <channel>
-<name>[B][COLOR deeppink]CANAIS 2[/COLOR][/B]</name>
+<name>[B][COLOR deeppink]CANAIS | ENTRETENIMENTO[/COLOR][/B]</name>
 <thumbnail>https://ia801406.us.archive.org/8/items/canais_202006/CANAIS.png</thumbnail>
-<externallink>https://pastebin.com/raw/1bJrEvzb</externallink>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/LISTA%20CANAIS%20ESPORTE</externallink>
 <fanart>https://ia601401.us.archive.org/32/items/wonder_202006/fanart.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR] - Este é um addon feito com amor - [COLOR deeppink]|[/COLOR]</info>
 </channel>
@@ -28,3 +28,22 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[B][COLOR deeppink]CANAIS | FILMES E SÉRIES[/COLOR][/B]</name>
+<thumbnail>https://ia801406.us.archive.org/8/items/canais_202006/CANAIS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/LISTA%20CANAIS%20ESPORTE</externallink>
+<fanart>https://ia601401.us.archive.org/32/items/wonder_202006/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR] - Este é um addon feito com amor - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR deeppink]CANAIS | INFANTIS[/COLOR][/B]</name>
+<thumbnail>https://ia801406.us.archive.org/8/items/canais_202006/CANAIS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/LISTA%20CANAIS%20ESPORTE</externallink>
+<fanart>https://ia601401.us.archive.org/32/items/wonder_202006/fanart.jpg</fanart>
+<info>[COLOR deeppink]|[/COLOR] - Este é um addon feito com amor - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
