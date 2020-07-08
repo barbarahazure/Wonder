@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="CANAIS | FILMES E SÉRIES",A&E SD
+http://playcompany.ddns.net:80/123456/12345678/4263
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD
+http://playcompany.ddns.net:80/123456/12345678/4264
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD
+http://playcompany.ddns.net:80/123456/12345678/3884
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC SD
+http://playcompany.ddns.net:80/123456/12345678/4261
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD
+http://playcompany.ddns.net:80/123456/12345678/4260
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC FHD
+http://playcompany.ddns.net:80/123456/12345678/3883
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN SD
+http://playcompany.ddns.net:80/123456/12345678/4257
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN HD
+http://playcompany.ddns.net:80/123456/12345678/4258
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN FHD
+http://playcompany.ddns.net:80/123456/12345678/3881
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX SD
+http://playcompany.ddns.net:80/123456/12345678/4248
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD
+
+
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
