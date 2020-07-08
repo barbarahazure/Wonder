@@ -1,5 +1,15 @@
 <channels>
 <channel>
+<name>[B][COLOR yellow]CANAIS | COMPLETO[/COLOR][/B]</name>
+<thumbnail>https://ia801406.us.archive.org/8/items/canais_202006/CANAIS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/LISTA%20CANAIS%201</externallink>
+<fanart>https://ia601401.us.archive.org/32/items/wonder_202006/fanart.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[B][COLOR yellow]CANAIS | 24H[/COLOR][/B]</name>
 <thumbnail>https://ia801406.us.archive.org/8/items/canais_202006/CANAIS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/CANAIS%2024H</externallink>
