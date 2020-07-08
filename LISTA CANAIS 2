@@ -1,623 +1,442 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Live: A&E HD" tvg-logo="" group-title="Live",Live: A&E HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8724|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: A&E SD" tvg-logo="" group-title="Live",Live: A&E SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8725|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: AMC HD" tvg-logo="" group-title="Live",Live: AMC HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8726|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: AMC SD" tvg-logo="" group-title="Live",Live: AMC SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8727|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Animal Planet HD" tvg-logo="" group-title="Live",Live: Animal Planet HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8728|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Animal Planet SD" tvg-logo="" group-title="Live",Live: Animal Planet SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8729|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Arte 1 HD" tvg-logo="" group-title="Live",Live: Arte 1 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8730|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Arte 1 SD" tvg-logo="" group-title="Live",Live: Arte 1 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8731|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: AXN HD" tvg-logo="" group-title="Live",Live: AXN HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8732|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: AXN SD" tvg-logo="" group-title="Live",Live: AXN SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8733|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: BabyTV HD" tvg-logo="" group-title="Live",Live: BabyTV HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8734|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: BabyTV SD" tvg-logo="" group-title="Live",Live: BabyTV SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8735|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Band Campinas SD" tvg-logo="" group-title="Live",Live: Band Campinas SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8736|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Band News HD" tvg-logo="" group-title="Live",Live: Band News HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8737|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Band News SD" tvg-logo="" group-title="Live",Live: Band News SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8738|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Band Nordeste SD" tvg-logo="" group-title="Live",Live: Band Nordeste SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8739|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Band SP HD" tvg-logo="" group-title="Live",Live: Band SP HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8740|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Band SP SD" tvg-logo="" group-title="Live",Live: Band SP SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8741|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Band Sports HD" tvg-logo="" group-title="Live",Live: Band Sports HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8742|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Band Sports SD" tvg-logo="" group-title="Live",Live: Band Sports SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8743|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: BBB 2020" tvg-logo="" group-title="Live",Live: BBB 2020
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8744|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: BBB Cam 01" tvg-logo="" group-title="Live",Live: BBB Cam 01
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8745|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: BBB Cam 02" tvg-logo="" group-title="Live",Live: BBB Cam 02
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8746|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: BBB Cam 03" tvg-logo="" group-title="Live",Live: BBB Cam 03
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8747|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: BBB Cam 04" tvg-logo="" group-title="Live",Live: BBB Cam 04
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8748|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: BBB Cam 05" tvg-logo="" group-title="Live",Live: BBB Cam 05
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8749|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: BBB Cam 06" tvg-logo="" group-title="Live",Live: BBB Cam 06
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8750|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: BBB Cam 07" tvg-logo="" group-title="Live",Live: BBB Cam 07
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8751|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: BBB Cam 08" tvg-logo="" group-title="Live",Live: BBB Cam 08
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8752|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: BBB Cam 09" tvg-logo="" group-title="Live",Live: BBB Cam 09
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8753|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: BBB Cam 10" tvg-logo="" group-title="Live",Live: BBB Cam 10
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8754|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Bis HD" tvg-logo="" group-title="Live",Live: Bis HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8755|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Bis SD" tvg-logo="" group-title="Live",Live: Bis SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8756|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Boomerang HD" tvg-logo="" group-title="Live",Live: Boomerang HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8757|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Boomerang SD" tvg-logo="" group-title="Live",Live: Boomerang SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8758|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Canal Brasil SD" tvg-logo="" group-title="Live",Live: Canal Brasil SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8759|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Cartoon Network HD" tvg-logo="" group-title="Live",Live: Cartoon Network HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8760|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Cartoon Network SD" tvg-logo="" group-title="Live",Live: Cartoon Network SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8761|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Chef TV HD" tvg-logo="" group-title="Live",Live: Chef TV HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8762|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Cinemax HD" tvg-logo="" group-title="Live",Live: Cinemax HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8763|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Cinemax SD" tvg-logo="" group-title="Live",Live: Cinemax SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8764|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: CNN Brasil HD" tvg-logo="" group-title="Live",Live: CNN Brasil HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8765|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: CNN Brasil SD" tvg-logo="" group-title="Live",Live: CNN Brasil SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8766|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Combate HD" tvg-logo="" group-title="Live",Live: Combate HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8767|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Combate SD" tvg-logo="" group-title="Live",Live: Combate SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8768|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Comedy Central HD" tvg-logo="" group-title="Live",Live: Comedy Central HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8769|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Comedy Central SD" tvg-logo="" group-title="Live",Live: Comedy Central SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8770|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Copa Catarinense 1 *" tvg-logo="" group-title="Live",Live: Copa Catarinense 1 *
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8771|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Copa Catarinense 2 *" tvg-logo="" group-title="Live",Live: Copa Catarinense 2 *
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8772|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Copa Libertadores" tvg-logo="" group-title="Live",Live: Copa Libertadores
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8773|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Copa Nordeste 1 *" tvg-logo="" group-title="Live",Live: Copa Nordeste 1 *
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8774|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Cultura SD" tvg-logo="" group-title="Live",Live: Cultura SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8775|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Curta! HD" tvg-logo="" group-title="Live",Live: Curta! HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8776|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Curta! SD" tvg-logo="" group-title="Live",Live: Curta! SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8777|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: DAZN 1" tvg-logo="" group-title="Live",Live: DAZN 1
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8778|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: DAZN 2" tvg-logo="" group-title="Live",Live: DAZN 2
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8779|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery Channel HD" tvg-logo="" group-title="Live",Live: Discovery Channel HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8780|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery Channel SD" tvg-logo="" group-title="Live",Live: Discovery Channel SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8781|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery Home & Health HD" tvg-logo="" group-title="Live",Live: Discovery Home & Health HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8782|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery Home & Health SD" tvg-logo="" group-title="Live",Live: Discovery Home & Health SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8783|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery Kids HD" tvg-logo="" group-title="Live",Live: Discovery Kids HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8784|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery Kids SD" tvg-logo="" group-title="Live",Live: Discovery Kids SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8785|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery Science HD" tvg-logo="" group-title="Live",Live: Discovery Science HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8786|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery Science SD" tvg-logo="" group-title="Live",Live: Discovery Science SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8787|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery Theater HD" tvg-logo="" group-title="Live",Live: Discovery Theater HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8788|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery Theater SD" tvg-logo="" group-title="Live",Live: Discovery Theater SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8789|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery TLC HD" tvg-logo="" group-title="Live",Live: Discovery TLC HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8790|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery TLC SD" tvg-logo="" group-title="Live",Live: Discovery TLC SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8791|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery Turbo HD" tvg-logo="" group-title="Live",Live: Discovery Turbo HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8792|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery Turbo SD" tvg-logo="" group-title="Live",Live: Discovery Turbo SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8793|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery World HD" tvg-logo="" group-title="Live",Live: Discovery World HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8794|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Discovery World SD" tvg-logo="" group-title="Live",Live: Discovery World SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8795|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Disney Channel HD" tvg-logo="" group-title="Live",Live: Disney Channel HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8796|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Disney Channel SD" tvg-logo="" group-title="Live",Live: Disney Channel SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8797|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Disney Junior HD" tvg-logo="" group-title="Live",Live: Disney Junior HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8798|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Disney Junior SD" tvg-logo="" group-title="Live",Live: Disney Junior SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8799|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Disney XD HD" tvg-logo="" group-title="Live",Live: Disney XD HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8800|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Disney XD SD" tvg-logo="" group-title="Live",Live: Disney XD SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8801|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: E! HD" tvg-logo="" group-title="Live",Live: E! HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8802|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: E! SD" tvg-logo="" group-title="Live",Live: E! SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8803|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Ei Plus 1*" tvg-logo="" group-title="Live",Live: Ei Plus 1*
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8804|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Ei Plus 2*" tvg-logo="" group-title="Live",Live: Ei Plus 2*
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8805|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: ESPN 2 HD" tvg-logo="" group-title="Live",Live: ESPN 2 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8806|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: ESPN 2 SD" tvg-logo="" group-title="Live",Live: ESPN 2 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8807|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: ESPN Brasil HD" tvg-logo="" group-title="Live",Live: ESPN Brasil HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8808|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: ESPN Brasil SD" tvg-logo="" group-title="Live",Live: ESPN Brasil SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8809|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: ESPN Extra HD" tvg-logo="" group-title="Live",Live: ESPN Extra HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8810|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: ESPN Extra SD" tvg-logo="" group-title="Live",Live: ESPN Extra SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8811|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: ESPN HD" tvg-logo="" group-title="Live",Live: ESPN HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8812|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: ESPN SD" tvg-logo="" group-title="Live",Live: ESPN SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8813|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fish TV HD" tvg-logo="" group-title="Live",Live: Fish TV HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8814|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fish TV SD" tvg-logo="" group-title="Live",Live: Fish TV SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8815|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Food Network HD" tvg-logo="" group-title="Live",Live: Food Network HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8816|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Food Network SD" tvg-logo="" group-title="Live",Live: Food Network SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8817|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fox HD" tvg-logo="" group-title="Live",Live: Fox HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8818|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fox Life HD" tvg-logo="" group-title="Live",Live: Fox Life HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8819|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fox Life SD" tvg-logo="" group-title="Live",Live: Fox Life SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8820|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fox Premium 1 HD" tvg-logo="" group-title="Live",Live: Fox Premium 1 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8821|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fox Premium 1 SD" tvg-logo="" group-title="Live",Live: Fox Premium 1 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8822|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fox Premium 2 HD" tvg-logo="" group-title="Live",Live: Fox Premium 2 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8823|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fox Premium 2 SD" tvg-logo="" group-title="Live",Live: Fox Premium 2 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8824|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fox SD" tvg-logo="" group-title="Live",Live: Fox SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8825|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fox Sports 2 HD" tvg-logo="" group-title="Live",Live: Fox Sports 2 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8826|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fox Sports 2 SD" tvg-logo="" group-title="Live",Live: Fox Sports 2 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8827|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fox Sports HD" tvg-logo="" group-title="Live",Live: Fox Sports HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8828|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Fox Sports SD" tvg-logo="" group-title="Live",Live: Fox Sports SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8829|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Futura HD" tvg-logo="" group-title="Live",Live: Futura HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8830|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Futura SD" tvg-logo="" group-title="Live",Live: Futura SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8831|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: FX HD" tvg-logo="" group-title="Live",Live: FX HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8832|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: FX SD" tvg-logo="" group-title="Live",Live: FX SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8833|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo Anhanguera Goiania SD" tvg-logo="" group-title="Live",Live: Globo Anhanguera Goiania SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8834|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo Asa Branca SD" tvg-logo="" group-title="Live",Live: Globo Asa Branca SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8835|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo Brasilia SD" tvg-logo="" group-title="Live",Live: Globo Brasilia SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8836|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo Centro Am" tvg-logo="" group-title="Live",Live: Globo Centro Am
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8837|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo EPTV Campinas HD" tvg-logo="" group-title="Live",Live: Globo EPTV Campinas HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8838|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo EPTV Campinas SD" tvg-logo="" group-title="Live",Live: Globo EPTV Campinas SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8839|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo EPTV Sao Carlos SD" tvg-logo="" group-title="Live",Live: Globo EPTV Sao Carlos SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8840|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo INTER TV Cabugi RN SD" tvg-logo="" group-title="Live",Live: Globo INTER TV Cabugi RN SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8841|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo Internacional SD" tvg-logo="" group-title="Live",Live: Globo Internacional SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8842|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo InterTV Alto Litoral HD" tvg-logo="" group-title="Live",Live: Globo InterTV Alto Litoral HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8843|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo InterTV Serra Mar SD" tvg-logo="" group-title="Live",Live: Globo InterTV Serra Mar SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8844|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo Itapetininga SD" tvg-logo="" group-title="Live",Live: Globo Itapetininga SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8845|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo Minas HD" tvg-logo="" group-title="Live",Live: Globo Minas HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8846|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo Minas SD" tvg-logo="" group-title="Live",Live: Globo Minas SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8847|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo Mirante SD" tvg-logo="" group-title="Live",Live: Globo Mirante SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8848|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo News HD" tvg-logo="" group-title="Live",Live: Globo News HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8849|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo News SD" tvg-logo="" group-title="Live",Live: Globo News SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8850|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo Nordeste HD" tvg-logo="" group-title="Live",Live: Globo Nordeste HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8851|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo Nordeste SD" tvg-logo="" group-title="Live",Live: Globo Nordeste SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8852|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo NSC Blumenau SD" tvg-logo="" group-title="Live",Live: Globo NSC Blumenau SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8853|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo NSC Florianopolis SD" tvg-logo="" group-title="Live",Live: Globo NSC Florianopolis SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8854|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo RBS Porto Alegre SD" tvg-logo="" group-title="Live",Live: Globo RBS Porto Alegre SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8855|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo RBS TV Pelotas HD" tvg-logo="" group-title="Live",Live: Globo RBS TV Pelotas HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8856|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo RBS TV Poa SD" tvg-logo="" group-title="Live",Live: Globo RBS TV Poa SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8857|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo Ribeirao Preto SD" tvg-logo="" group-title="Live",Live: Globo Ribeirao Preto SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8858|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo RJ HD" tvg-logo="" group-title="Live",Live: Globo RJ HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8859|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo RJ SD" tvg-logo="" group-title="Live",Live: Globo RJ SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8860|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo RPC Curitiba HD" tvg-logo="" group-title="Live",Live: Globo RPC Curitiba HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8861|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo RPC Curitiba SD" tvg-logo="" group-title="Live",Live: Globo RPC Curitiba SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8862|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo RPC Paranava" tvg-logo="" group-title="Live",Live: Globo RPC Paranava
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8863|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo Sergipe SD" tvg-logo="" group-title="Live",Live: Globo Sergipe SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8864|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo SP HD" tvg-logo="" group-title="Live",Live: Globo SP HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8865|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo SP SD" tvg-logo="" group-title="Live",Live: Globo SP SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8866|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo TV Bahia Full HD" tvg-logo="" group-title="Live",Live: Globo TV Bahia Full HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8867|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo TV Bahia HD" tvg-logo="" group-title="Live",Live: Globo TV Bahia HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8868|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo TV Bahia SD" tvg-logo="" group-title="Live",Live: Globo TV Bahia SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8869|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo TV Diario HD" tvg-logo="" group-title="Live",Live: Globo TV Diario HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8870|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo TV Gazeta Sul ES HD" tvg-logo="" group-title="Live",Live: Globo TV Gazeta Sul ES HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8871|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo TV Liberal Belem SD" tvg-logo="" group-title="Live",Live: Globo TV Liberal Belem SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8872|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo TV Morena SD" tvg-logo="" group-title="Live",Live: Globo TV Morena SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8873|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo TV Tem Bauru SD" tvg-logo="" group-title="Live",Live: Globo TV Tem Bauru SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8874|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo TV Tem Sorocaba SD" tvg-logo="" group-title="Live",Live: Globo TV Tem Sorocaba SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8875|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo TV Tem S" tvg-logo="" group-title="Live",Live: Globo TV Tem S
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8876|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo TV Tribuna Santos SD" tvg-logo="" group-title="Live",Live: Globo TV Tribuna Santos SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8877|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo TV Vanguarda S" tvg-logo="" group-title="Live",Live: Globo TV Vanguarda S
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8878|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Globo TV Verdes Mares Fortaleza SD" tvg-logo="" group-title="Live",Live: Globo TV Verdes Mares Fortaleza SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8879|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Gloob HD" tvg-logo="" group-title="Live",Live: Gloob HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8880|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Gloob SD" tvg-logo="" group-title="Live",Live: Gloob SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8881|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Gloobinho SD" tvg-logo="" group-title="Live",Live: Gloobinho SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8882|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: GNT HD" tvg-logo="" group-title="Live",Live: GNT HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8883|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: GNT SD" tvg-logo="" group-title="Live",Live: GNT SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8884|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: H2 HD" tvg-logo="" group-title="Live",Live: H2 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8885|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: H2 SD" tvg-logo="" group-title="Live",Live: H2 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8886|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO 2 HD" tvg-logo="" group-title="Live",Live: HBO 2 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8887|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO 2 SD" tvg-logo="" group-title="Live",Live: HBO 2 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8888|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Family HD" tvg-logo="" group-title="Live",Live: HBO Family HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8889|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Family SD" tvg-logo="" group-title="Live",Live: HBO Family SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8890|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO HD" tvg-logo="" group-title="Live",Live: HBO HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8891|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Mundi HD" tvg-logo="" group-title="Live",Live: HBO Mundi HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8892|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Mundi SD" tvg-logo="" group-title="Live",Live: HBO Mundi SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8893|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Plus HD" tvg-logo="" group-title="Live",Live: HBO Plus HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8894|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Plus SD" tvg-logo="" group-title="Live",Live: HBO Plus SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8895|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Plus*e HD" tvg-logo="" group-title="Live",Live: HBO Plus*e HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8896|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Plus*e SD" tvg-logo="" group-title="Live",Live: HBO Plus*e SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8897|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Pop HD" tvg-logo="" group-title="Live",Live: HBO Pop HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8898|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Pop SD" tvg-logo="" group-title="Live",Live: HBO Pop SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8899|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO SD" tvg-logo="" group-title="Live",Live: HBO SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8900|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Signature HD" tvg-logo="" group-title="Live",Live: HBO Signature HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8901|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Signature SD" tvg-logo="" group-title="Live",Live: HBO Signature SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8902|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Xtreme HD" tvg-logo="" group-title="Live",Live: HBO Xtreme HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8903|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HBO Xtreme SD" tvg-logo="" group-title="Live",Live: HBO Xtreme SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8904|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HGTV HD" tvg-logo="" group-title="Live",Live: HGTV HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8905|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: HGTV SD" tvg-logo="" group-title="Live",Live: HGTV SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8906|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: History Channel HD" tvg-logo="" group-title="Live",Live: History Channel HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8907|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: History Channel SD" tvg-logo="" group-title="Live",Live: History Channel SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8908|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: ID Investiga" tvg-logo="" group-title="Live",Live: ID Investiga
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8909|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: ID Investiga" tvg-logo="" group-title="Live",Live: ID Investiga
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8910|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Lifetime HD" tvg-logo="" group-title="Live",Live: Lifetime HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8911|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Lifetime SD" tvg-logo="" group-title="Live",Live: Lifetime SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8912|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Mais Globosat HD" tvg-logo="" group-title="Live",Live: Mais Globosat HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8913|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Mais Globosat SD" tvg-logo="" group-title="Live",Live: Mais Globosat SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8914|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Megapix HD" tvg-logo="" group-title="Live",Live: Megapix HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8915|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Megapix SD" tvg-logo="" group-title="Live",Live: Megapix SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8916|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: MTV HD" tvg-logo="" group-title="Live",Live: MTV HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8917|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: MTV Live HD" tvg-logo="" group-title="Live",Live: MTV Live HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8918|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: MTV SD" tvg-logo="" group-title="Live",Live: MTV SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8919|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Multishow HD" tvg-logo="" group-title="Live",Live: Multishow HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8920|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Multishow SD" tvg-logo="" group-title="Live",Live: Multishow SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8921|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Music Box Brazil SD" tvg-logo="" group-title="Live",Live: Music Box Brazil SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8922|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Nat Geo Kids HD" tvg-logo="" group-title="Live",Live: Nat Geo Kids HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8923|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Nat Geo Kids SD" tvg-logo="" group-title="Live",Live: Nat Geo Kids SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8924|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Nat Geo Wild HD" tvg-logo="" group-title="Live",Live: Nat Geo Wild HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8925|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Nat Geo Wild SD" tvg-logo="" group-title="Live",Live: Nat Geo Wild SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8926|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: National Geographic HD" tvg-logo="" group-title="Live",Live: National Geographic HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8927|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: National Geographic SD" tvg-logo="" group-title="Live",Live: National Geographic SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8928|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Nick Jr HD" tvg-logo="" group-title="Live",Live: Nick Jr HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8929|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Nick Jr SD" tvg-logo="" group-title="Live",Live: Nick Jr SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8930|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Nickelodeon HD" tvg-logo="" group-title="Live",Live: Nickelodeon HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8931|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Nickelodeon SD" tvg-logo="" group-title="Live",Live: Nickelodeon SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8932|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Novo Tempo SD" tvg-logo="" group-title="Live",Live: Novo Tempo SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8933|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Off HD" tvg-logo="" group-title="Live",Live: Off HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8934|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Off SD" tvg-logo="" group-title="Live",Live: Off SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8935|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Paramount Channel HD" tvg-logo="" group-title="Live",Live: Paramount Channel HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8936|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Paramount Channel SD" tvg-logo="" group-title="Live",Live: Paramount Channel SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8937|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: PlayTV SD" tvg-logo="" group-title="Live",Live: PlayTV SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8938|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere 1 SD" tvg-logo="" group-title="Live",Live: Premiere 1 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8939|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere 2 HD" tvg-logo="" group-title="Live",Live: Premiere 2 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8940|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere 2 SD" tvg-logo="" group-title="Live",Live: Premiere 2 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8941|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere 3 HD" tvg-logo="" group-title="Live",Live: Premiere 3 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8942|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere 3 SD" tvg-logo="" group-title="Live",Live: Premiere 3 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8943|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere 4 HD" tvg-logo="" group-title="Live",Live: Premiere 4 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8944|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere 4 SD" tvg-logo="" group-title="Live",Live: Premiere 4 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8945|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere 5 HD" tvg-logo="" group-title="Live",Live: Premiere 5 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8946|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere 5 SD" tvg-logo="" group-title="Live",Live: Premiere 5 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8947|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere 6 HD" tvg-logo="" group-title="Live",Live: Premiere 6 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8948|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere 6 SD" tvg-logo="" group-title="Live",Live: Premiere 6 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8949|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere 7 SD" tvg-logo="" group-title="Live",Live: Premiere 7 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8950|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere 8 SD" tvg-logo="" group-title="Live",Live: Premiere 8 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8951|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere Clubes HD" tvg-logo="" group-title="Live",Live: Premiere Clubes HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8952|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Premiere Clubes SD" tvg-logo="" group-title="Live",Live: Premiere Clubes SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8953|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Prime Box Brazil SD" tvg-logo="" group-title="Live",Live: Prime Box Brazil SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8954|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Record Campinas HD" tvg-logo="" group-title="Live",Live: Record Campinas HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8955|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Record Campinas SD" tvg-logo="" group-title="Live",Live: Record Campinas SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8956|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Record DF SD" tvg-logo="" group-title="Live",Live: Record DF SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8957|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Record Esp. Santo SD" tvg-logo="" group-title="Live",Live: Record Esp. Santo SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8958|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Record MG SD" tvg-logo="" group-title="Live",Live: Record MG SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8959|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Record News HD" tvg-logo="" group-title="Live",Live: Record News HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8960|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Record News SD" tvg-logo="" group-title="Live",Live: Record News SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8961|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Record Nordeste HD" tvg-logo="" group-title="Live",Live: Record Nordeste HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8962|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Record RJ SD" tvg-logo="" group-title="Live",Live: Record RJ SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8963|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Record RS HD" tvg-logo="" group-title="Live",Live: Record RS HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8964|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Record SP HD" tvg-logo="" group-title="Live",Live: Record SP HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8965|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Record SP SD" tvg-logo="" group-title="Live",Live: Record SP SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8966|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Record TV Vitoria SD" tvg-logo="" group-title="Live",Live: Record TV Vitoria SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8967|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Rede Familia SD" tvg-logo="" group-title="Live",Live: Rede Familia SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8968|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Rede Gospel SD" tvg-logo="" group-title="Live",Live: Rede Gospel SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8969|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Rede Vida HD" tvg-logo="" group-title="Live",Live: Rede Vida HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8970|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Rede Vida SD" tvg-logo="" group-title="Live",Live: Rede Vida SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8971|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: RedeTV! HD" tvg-logo="" group-title="Live",Live: RedeTV! HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8972|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: RedeTV! SD" tvg-logo="" group-title="Live",Live: RedeTV! SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8973|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: RIT TV SD" tvg-logo="" group-title="Live",Live: RIT TV SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8974|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SBT Goias HD" tvg-logo="" group-title="Live",Live: SBT Goias HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8975|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SBT Nordeste HD" tvg-logo="" group-title="Live",Live: SBT Nordeste HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8976|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SBT RJ HD" tvg-logo="" group-title="Live",Live: SBT RJ HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8977|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SBT SP HD" tvg-logo="" group-title="Live",Live: SBT SP HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8978|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SBT SP SD" tvg-logo="" group-title="Live",Live: SBT SP SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8979|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SBT TV Cidade Verde Piaui SD" tvg-logo="" group-title="Live",Live: SBT TV Cidade Verde Piaui SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8980|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SBT TV Jornal Pernambuco SD" tvg-logo="" group-title="Live",Live: SBT TV Jornal Pernambuco SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8981|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Sony HD" tvg-logo="" group-title="Live",Live: Sony HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8982|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Sony SD" tvg-logo="" group-title="Live",Live: Sony SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8983|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Space HD" tvg-logo="" group-title="Live",Live: Space HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8984|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Space SD" tvg-logo="" group-title="Live",Live: Space SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8985|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SporTV 2 HD" tvg-logo="" group-title="Live",Live: SporTV 2 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8986|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SporTV 2 SD" tvg-logo="" group-title="Live",Live: SporTV 2 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8987|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SporTV 3 HD" tvg-logo="" group-title="Live",Live: SporTV 3 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8988|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SporTV 3 SD" tvg-logo="" group-title="Live",Live: SporTV 3 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8989|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SporTV HD" tvg-logo="" group-title="Live",Live: SporTV HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8990|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SporTV SD" tvg-logo="" group-title="Live",Live: SporTV SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8991|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Studio Universal HD" tvg-logo="" group-title="Live",Live: Studio Universal HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8992|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Studio Universal SD" tvg-logo="" group-title="Live",Live: Studio Universal SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8993|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SyFy HD" tvg-logo="" group-title="Live",Live: SyFy HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8994|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: SyFy SD" tvg-logo="" group-title="Live",Live: SyFy SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8995|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: TBS SD" tvg-logo="" group-title="Live",Live: TBS SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8996|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Telecine Action HD" tvg-logo="" group-title="Live",Live: Telecine Action HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8997|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Telecine Action SD" tvg-logo="" group-title="Live",Live: Telecine Action SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8998|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Telecine Cult HD" tvg-logo="" group-title="Live",Live: Telecine Cult HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/8999|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Telecine Cult SD" tvg-logo="" group-title="Live",Live: Telecine Cult SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9000|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Telecine Fun HD" tvg-logo="" group-title="Live",Live: Telecine Fun HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9001|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Telecine Fun SD" tvg-logo="" group-title="Live",Live: Telecine Fun SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9002|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Telecine Pipoca HD" tvg-logo="" group-title="Live",Live: Telecine Pipoca HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9003|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Telecine Pipoca SD" tvg-logo="" group-title="Live",Live: Telecine Pipoca SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9004|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Telecine Premium HD" tvg-logo="" group-title="Live",Live: Telecine Premium HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9005|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Telecine Premium SD" tvg-logo="" group-title="Live",Live: Telecine Premium SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9006|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Telecine Touch HD" tvg-logo="" group-title="Live",Live: Telecine Touch HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9007|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Telecine Touch SD" tvg-logo="" group-title="Live",Live: Telecine Touch SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9008|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: TNT HD" tvg-logo="" group-title="Live",Live: TNT HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9009|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: TNT SD" tvg-logo="" group-title="Live",Live: TNT SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9010|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: TNT S" tvg-logo="" group-title="Live",Live: TNT S
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9011|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: TNT S" tvg-logo="" group-title="Live",Live: TNT S
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9012|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Tooncast HD" tvg-logo="" group-title="Live",Live: Tooncast HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9013|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Tooncast SD" tvg-logo="" group-title="Live",Live: Tooncast SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9014|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: TruTV SD" tvg-logo="" group-title="Live",Live: TruTV SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9015|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: TV Aparecida SD" tvg-logo="" group-title="Live",Live: TV Aparecida SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9016|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: TV Gazeta SD" tvg-logo="" group-title="Live",Live: TV Gazeta SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9017|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: TV Playkids" tvg-logo="" group-title="Live",Live: TV Playkids
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9018|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: TV Ra Tim Bum SD" tvg-logo="" group-title="Live",Live: TV Ra Tim Bum SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9019|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: TV S" tvg-logo="" group-title="Live",Live: TV S
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9020|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Universal Channel HD" tvg-logo="" group-title="Live",Live: Universal Channel HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9021|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Universal Channel SD" tvg-logo="" group-title="Live",Live: Universal Channel SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9022|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: VH1 HD" tvg-logo="" group-title="Live",Live: VH1 HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9023|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: VH1 SD" tvg-logo="" group-title="Live",Live: VH1 SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9024|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Viva HD" tvg-logo="" group-title="Live",Live: Viva HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9025|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Viva SD" tvg-logo="" group-title="Live",Live: Viva SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9026|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Warner Channel HD" tvg-logo="" group-title="Live",Live: Warner Channel HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9027|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Warner Channel SD" tvg-logo="" group-title="Live",Live: Warner Channel SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9028|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Woohoo HD" tvg-logo="" group-title="Live",Live: Woohoo HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9029|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Woohoo SD" tvg-logo="" group-title="Live",Live: Woohoo SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9030|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Zoomoo HD" tvg-logo="" group-title="Live",Live: Zoomoo HD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9031|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Zoomoo SD" tvg-logo="" group-title="Live",Live: Zoomoo SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9032|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: TCM SD" tvg-logo="" group-title="Live",Live: TCM SD
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9033|user-agent=ThomazTv/1.0.0
-#EXTINF:-1 tvg-id="" tvg-name="Live: Top TV" tvg-logo="" group-title="Live",Live: Top TV
-http://online.goldpremium.xyz:80/FutucaTv32/naoadiantaroubar03/9034|user-agent=ThomazTv/1.0.0
+#EXTM3U
+
+#EXTINF:-1 ,WENDEL TECK AMC | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/4
+#EXTINF:-1 ,WENDEL TECK TNT | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/6
+#EXTINF:-1 ,WENDEL TECK TNT Series | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/7
+#EXTINF:-1 ,WENDEL TECK HBO xTREME | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/8
+#EXTINF:-1 ,WENDEL TECK HBO POP | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/9
+#EXTINF:-1 ,WENDEL TECK Paramount | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/10
+#EXTINF:-1 ,WENDEL TECK Polishop
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/11
+#EXTINF:-1 ,WENDEL TECK Band | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/14
+#EXTINF:-1 ,WENDEL TECK Band | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/15
+
+#EXTINF:-1 ,WENDEL TECK Band Sports | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/46
+#EXTINF:-1 ,WENDEL TECK Band Sports | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/47
+#EXTINF:-1 ,WENDEL TECK Combate | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/48
+#EXTINF:-1 ,WENDEL TECK Combate | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/49
+#EXTINF:-1 ,WENDEL TECK ESPN Extra | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/50
+#EXTINF:-1 ,WENDEL TECK ESPN | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/51
+#EXTINF:-1 ,WENDEL TECK ESPN | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/52
+#EXTINF:-1 ,WENDEL TECK ESPN Brasil | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/53
+#EXTINF:-1 ,WENDEL TECK ESPN Brasil | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/54
+#EXTINF:-1 ,WENDEL TECK FoxSports | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/55
+#EXTINF:-1 ,WENDEL TECK FoxSports | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/56
+#EXTINF:-1 ,WENDEL TECK FoxSports 2 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/57
+#EXTINF:-1 ,WENDEL TECK FoxSports2 | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/58
+#EXTINF:-1 ,WENDEL TECK OFF | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/59
+#EXTINF:-1 ,OFF | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/60
+
+#EXTINF:-1 ,SporTV | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/69
+#EXTINF:-1 ,SporTV | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/70
+#EXTINF:-1 ,SporTV2 | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/71
+#EXTINF:-1 ,SporTV 2 | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/72
+#EXTINF:-1 ,SBT | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/73
+#EXTINF:-1 ,SporTV3 | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/74
+#EXTINF:-1 ,Rede TV | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/75
+#EXTINF:-1 ,Love Nature | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/76
+#EXTINF:-1 ,Bloomberg | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/77
+#EXTINF:-1 ,CNN International | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/78
+#EXTINF:-1 ,DW
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/79
+#EXTINF:-1 ,NHK | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/80
+#EXTINF:-1 ,Record News | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/81
+#EXTINF:-1 ,SIC International | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/82
+#EXTINF:-1 ,Tv 5 HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/83
+#EXTINF:-1 ,Tve HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/84
+#EXTINF:-1 ,Globo News | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/85
+#EXTINF:-1 ,Band News | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/86
+
+#EXTINF:-1 ,EuroChannel | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/98
+#EXTINF:-1 ,Animal Planet | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/99
+#EXTINF:-1 ,Animal Planet | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/100
+#EXTINF:-1 ,Discovery Home & Health | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/101
+#EXTINF:-1 ,Discovery Home & Health | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/102
+#EXTINF:-1 ,Discovery Channel | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/103
+#EXTINF:-1 ,Discovery Channel | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/104
+#EXTINF:-1 ,Discovery Theater | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/105
+#EXTINF:-1 ,Discovery Theater | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/106
+#EXTINF:-1 ,Discovery Turbo | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/107
+#EXTINF:-1 ,Discovery Turbo | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/108
+#EXTINF:-1 ,Discovery World | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/109
+#EXTINF:-1 ,Fish Tv HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/110
+#EXTINF:-1 ,Food Network FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/111
+#EXTINF:-1 ,Food Network HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/112
+#EXTINF:-1 ,FX | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/113
+#EXTINF:-1 ,FX | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/114
+#EXTINF:-1 ,History channel | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/115
+#EXTINF:-1 ,History channel | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/116
+#EXTINF:-1 ,Investigacao Discovery  | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/117
+#EXTINF:-1 ,NatGeo | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/118
+#EXTINF:-1 ,NatGeo | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/119
+#EXTINF:-1 ,NatGeoWild | FHD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/120
+#EXTINF:-1 ,NatGeo Wild | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/121
+#EXTINF:-1 ,Discovery Science | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/122
+#EXTINF:-1 ,TLC | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/123
+#EXTINF:-1 ,HGTV HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/124
+#EXTINF:-1 ,Smithsonian | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/125
+#EXTINF:-1 ,Film & Arts | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/126
+#EXTINF:-1 ,Baby TV | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/127
+#EXTINF:-1 ,Boomerang | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/128
+#EXTINF:-1 ,Cartoon Network | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/129
+#EXTINF:-1 ,Disney Channel | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/130
+#EXTINF:-1 ,Disney Junior | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/131
+#EXTINF:-1 ,Disney XD | HD
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/132
+
+#EXTINF:-1 ,WENDEL TECK AMC | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/4
+#EXTINF:-1 ,WENDEL TECK TNT | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/6
+#EXTINF:-1 ,WENDEL TECK TNT Series | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/7
+#EXTINF:-1 ,WENDEL TECK HBO xTREME | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/8
+#EXTINF:-1 ,WENDEL TECK HBO POP | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/9
+#EXTINF:-1 ,WENDEL TECK Paramount | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/10
+
+#EXTINF:-1 ,Band Sports | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/46
+#EXTINF:-1 ,Band Sports | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/47
+#EXTINF:-1 ,Combate | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/48
+#EXTINF:-1 ,Combate | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/49
+#EXTINF:-1 ,ESPN Extra | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/50
+#EXTINF:-1 ,ESPN | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/51
+#EXTINF:-1 ,ESPN | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/52
+#EXTINF:-1 ,ESPN Brasil | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/53
+#EXTINF:-1 ,ESPN Brasil | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/54
+#EXTINF:-1 ,FoxSports | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/55
+#EXTINF:-1 ,FoxSports | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/56
+#EXTINF:-1 ,FoxSports 2 | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/57
+#EXTINF:-1 ,FoxSports2 | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/58
+#EXTINF:-1 ,OFF | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/59
+#EXTINF:-1 ,OFF | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/60
+
+#EXTINF:-1 ,EuroChannel | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/98
+#EXTINF:-1 ,Animal Planet | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/99
+#EXTINF:-1 ,Animal Planet | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/100
+#EXTINF:-1 ,Discovery Home & Health | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/101
+#EXTINF:-1 ,Discovery Home & Health | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/102
+#EXTINF:-1 ,Discovery Channel | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/103
+#EXTINF:-1 ,Discovery Channel | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/104
+#EXTINF:-1 ,Discovery Theater | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/105
+#EXTINF:-1 ,Discovery Theater | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/106
+#EXTINF:-1 ,Discovery Turbo | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/107
+#EXTINF:-1 ,Discovery Turbo | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/108
+#EXTINF:-1 ,Discovery World | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/109
+#EXTINF:-1 ,Fish Tv HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/110
+#EXTINF:-1 ,Food Network FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/111
+#EXTINF:-1 ,Food Network HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/112
+#EXTINF:-1 ,FX | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/113
+#EXTINF:-1 ,FX | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/114
+#EXTINF:-1 ,History channel | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/115
+#EXTINF:-1 ,History channel | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/116
+#EXTINF:-1 ,Investigacao Discovery  | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/117
+#EXTINF:-1 ,NatGeo | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/118
+#EXTINF:-1 ,NatGeo | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/119
+#EXTINF:-1 ,NatGeoWild | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/120
+#EXTINF:-1 ,NatGeo Wild | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/121
+#EXTINF:-1 ,Discovery Science | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/122
+#EXTINF:-1 ,TLC | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/123
+#EXTINF:-1 ,HGTV HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/124
+#EXTINF:-1 ,Smithsonian | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/125
+#EXTINF:-1 ,Film & Arts | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/126
+#EXTINF:-1 ,Baby TV | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/127
+#EXTINF:-1 ,Boomerang | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/128
+#EXTINF:-1 ,Cartoon Network | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/129
+#EXTINF:-1 ,Disney Channel | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/130
+#EXTINF:-1 ,Disney Junior | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/131
+#EXTINF:-1 ,Disney XD | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/132
+#EXTINF:-1 ,Gloob | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/133
+#EXTINF:-1 ,Gloob | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/134
+#EXTINF:-1 ,NatGeo Kids | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/135
+#EXTINF:-1 ,Nickelodeon | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/136
+#EXTINF:-1 ,TV Rá-tim-bum
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/137
+#EXTINF:-1 ,Zoomoo | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/138
+#EXTINF:-1 ,Discovery Kids | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/139
+#EXTINF:-1 ,NickJr | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/140
+#EXTINF:-1 ,BIS | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/141
+#EXTINF:-1 ,MTV | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/142
+#EXTINF:-1 ,MTV Live | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/143
+#EXTINF:-1 ,Multishow | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/144
+#EXTINF:-1 ,Music Box Brasil
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/145
+#EXTINF:-1 ,VH1 | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/146
+#EXTINF:-1 ,VH1 MegaHits | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/147
+#EXTINF:-1 ,Arte1 | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/148
+#EXTINF:-1 ,Comedy Central | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/149
+#EXTINF:-1 ,Comedy Central | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/150
+#EXTINF:-1 ,GNT | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/151
+#EXTINF:-1 ,Mais Globo Sat | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/152
+#EXTINF:-1 ,Shoptime | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/153
+#EXTINF:-1 ,Canal Viva | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/154
+#EXTINF:-1 ,Woohoo | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/155
+#EXTINF:-1 ,E! | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/156
+#EXTINF:-1 ,Fashion TV
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/157
+#EXTINF:-1 ,A&E | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/158
+#EXTINF:-1 ,AMC | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/159
+#EXTINF:-1 ,Canal Sony | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/160
+#EXTINF:-1 ,Canal Sony | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/161
+#EXTINF:-1 ,Fox | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/162
+#EXTINF:-1 ,Fox | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/163
+#EXTINF:-1 ,FOX Life | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/164
+#EXTINF:-1 ,FOX Life | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/165
+#EXTINF:-1 ,Fox Premium 1 | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/166
+#EXTINF:-1 ,Fox Premium 1 | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/167
+#EXTINF:-1 ,Fox Premium 2 | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/168
+#EXTINF:-1 ,Fox Premium 2 | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/169
+#EXTINF:-1 ,Lifetime | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/170
+#EXTINF:-1 ,Like HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/171
+#EXTINF:-1 ,Megapix | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/172
+#EXTINF:-1 ,Paramount | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/173
+#EXTINF:-1 ,Studio Universal | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/174
+#EXTINF:-1 ,SYFY | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/175
+#EXTINF:-1 ,TBS | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/176
+#EXTINF:-1 ,TNT Series | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/177
+#EXTINF:-1 ,Universal TV l FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/178
+#EXTINF:-1 ,Universal TV l HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/179
+#EXTINF:-1 ,Warner Channel l FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/180
+#EXTINF:-1 ,Warner Channel l HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/181
+#EXTINF:-1 ,AXN | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/182
+#EXTINF:-1 ,Megapix | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/183
+#EXTINF:-1 ,Cinemax | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/184
+#EXTINF:-1 ,HBO | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/185
+#EXTINF:-1 ,HBO | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/186
+#EXTINF:-1 ,HBO 2 | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/187
+#EXTINF:-1 ,HBO 2 | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/188
+#EXTINF:-1 ,HBO Plus | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/189
+#EXTINF:-1 ,HBO Plus | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/190
+#EXTINF:-1 ,HBO Signature | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/191
+#EXTINF:-1 ,HBO Signature | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/192
+#EXTINF:-1 ,HBO Family | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/193
+#EXTINF:-1 ,HBO Family | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/194
+#EXTINF:-1 ,HBO Mundi | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/195
+#EXTINF:-1 ,HBO Mundi | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/196
+#EXTINF:-1 ,HBO xTREME | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/197
+#EXTINF:-1 ,HBO POP | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/198
+#EXTINF:-1 ,Prime Box Brasil
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/199
+#EXTINF:-1 ,Space | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/200
+#EXTINF:-1 ,TCM | SD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/201
+#EXTINF:-1 ,TNT | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/202
+#EXTINF:-1 ,Telecine Cult | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/203
+#EXTINF:-1 ,Telecine Cult | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/204
+#EXTINF:-1 ,Telecine Fun | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/205
+#EXTINF:-1 ,Telecine Fun | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/206
+#EXTINF:-1 ,Telecine Pipoca | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/207
+#EXTINF:-1 ,Telecine Pipoca | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/208
+#EXTINF:-1 ,Telecine Premium | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/209
+#EXTINF:-1 ,Telecine Premium | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/210
+#EXTINF:-1 ,Telecine Touch | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/211
+#EXTINF:-1 ,Telecine Touch | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/212
+#EXTINF:-1 ,Telecine Action | FHD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/213
+#EXTINF:-1 ,Telecine Action | HD
+http://199.127.62.104:25461/A81905E6C025/A81905E6C025/214
+
+
+
