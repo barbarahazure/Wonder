@@ -6,6 +6,9 @@ http://playcompany.ddns.net:80/123456/12345678/3981
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD
 http://playcompany.ddns.net:80/123456/12345678/3982
 
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD
+http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4776.ts
+
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD
 http://playcompany.ddns.net:80/123456/12345678/3871
 
@@ -18,6 +21,9 @@ http://playcompany.ddns.net:80/123456/12345678/3977
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY H&H HD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY H&H HD
 http://playcompany.ddns.net:80/123456/12345678/3978
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY H&H HD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY H&H HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4774.ts
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY H&H FHD
 http://playcompany.ddns.net:80/123456/12345678/3869
@@ -32,6 +38,9 @@ http://playcompany.ddns.net:80/123456/12345678/3974
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="encurtador.com.br/vwx37" group-title="CANAIS | DISCOVERY", DISCOVERY SCIENCE HD
 http://playcompany.ddns.net:80/123456/12345678/3975
 
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="encurtador.com.br/vwx37" group-title="CANAIS | DISCOVERY", DISCOVERY SCIENCE HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4772.ts
+
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="encurtador.com.br/vwx37" group-title="CANAIS | DISCOVERY", DISCOVERY SCIENCE FHD
 http://playcompany.ddns.net:80/123456/12345678/3867
 
@@ -44,9 +53,11 @@ http://playcompany.ddns.net:80/123456/12345678/3972
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY THEATHER HD" tvg-logo="encurtador.com.br/dfg28" group-title="CANAIS | DISCOVERY", DISCOVERY THEATHER HD
 http://playcompany.ddns.net:80/123456/12345678/3973
 
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY THEATHER HD" tvg-logo="encurtador.com.br/dfg28" group-title="CANAIS | DISCOVERY", DISCOVERY THEATHER HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4771.ts 
+
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="encurtador.com.br/dfg28" group-title="CANAIS | DISCOVERY", DISCOVERY THEATHER FHD
 http://playcompany.ddns.net:80/123456/12345678/3866
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -56,6 +67,9 @@ http://playcompany.ddns.net:80/123456/12345678/3969
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="encurtador.com.br/yBF23" group-title="CANAIS | DISCOVERY", DISCOVERY TURBO HD
 http://playcompany.ddns.net:80/123456/12345678/3970
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="encurtador.com.br/yBF23" group-title="CANAIS | DISCOVERY", DISCOVERY TURBO HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4770.ts
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="encurtador.com.br/yBF23" group-title="CANAIS | DISCOVERY", DISCOVERY TURBO FHD
 http://playcompany.ddns.net:80/123456/12345678/3865
