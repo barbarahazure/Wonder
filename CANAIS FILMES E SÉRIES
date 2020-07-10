@@ -6,6 +6,9 @@ http://playcompany.ddns.net:80/123456/12345678/4263
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD
 http://playcompany.ddns.net:80/123456/12345678/4264
 
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/4788.ts 
+
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD
 http://playcompany.ddns.net:80/123456/12345678/3884
 
@@ -18,6 +21,9 @@ http://playcompany.ddns.net:80/123456/12345678/4261
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD
 http://playcompany.ddns.net:80/123456/12345678/4260
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/4787.ts
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC FHD
 http://playcompany.ddns.net:80/123456/12345678/3883
@@ -42,11 +48,72 @@ http://playcompany.ddns.net:80/123456/12345678/3881
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX SD
 http://playcompany.ddns.net:80/123456/12345678/4248
 
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD
-
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4779.ts 
 
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD
 
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="FOX HD" tvg-logo="https://static.clubsrv.me/logos/canais/fox.png" group-title="CANAIS | FILMES E SÉRIES",FOX FHD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/5759.ts 
+
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="CANAIS | FILMES E SÉRIES",FOX PREMIUM 1 FHD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/5757.ts
+
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium2.png" group-title="CANAIS | FILMES E SÉRIES",FOX PREMIUM 2 FHD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/5756.ts
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://static.clubsrv.me/logos/canais/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4754.ts
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://static.clubsrv.me/logos/canais/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4738.ts
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://static.clubsrv.me/logos/canais/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4718.ts
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE ACTION HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4711.ts 
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE CULT HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4710.ts
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE FUN HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4709.ts
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT SERIES HD" tvg-logo="https://static.clubsrv.me/logos/canais/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/5670.ts
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://static.clubsrv.me/logos/canais/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL HD [COLOR yellow]NOVO[/COLOR yellow]
+http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/4698.ts
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
