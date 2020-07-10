@@ -67,6 +67,17 @@ http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4759.ts
 http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/5758.ts
 
 
+
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX Life HD" tvg-logo="" group-title="Canais | Variedades",A&E, US | A&E HD [COLOR yellow]NOVO[/COLOR yellow]
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX Life HD" tvg-logo="" group-title="Canais | Variedades",America's Funniest Videos HD [COLOR yellow]NOVO[/COLOR yellow]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8?checkedby:iptvcat.com
+
+
+
+
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",CGNTV Japan HD [COLOR yellow]NOVO[/COLOR yellow]
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?checkedby:iptvcat.com
 
