@@ -67,4 +67,80 @@ http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4759.ts
 http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/5758.ts
 
 
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",CGNTV Japan HD [COLOR yellow]NOVO[/COLOR yellow]
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",GSTV HD [COLOR yellow]NOVO[/COLOR yellow]
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",Gunma TV HD [COLOR yellow]NOVO[/COLOR yellow]
+https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",Japanet Channel DX HD [COLOR yellow]NOVO[/COLOR yellow]
+https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",NHK Chinese Vision HD [COLOR yellow]NOVO[/COLOR yellow]
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",NHK World Japan HD [COLOR yellow]NOVO[/COLOR yellow]
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",NHK World Japan 1m HD [COLOR yellow]NOVO[/COLOR yellow]
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",NHK World Japan 1mb HD [COLOR yellow]NOVO[/COLOR yellow]
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",NHK World Japan 200k HD [COLOR yellow]NOVO[/COLOR yellow]
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_200k.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",NHK World Japan 200kb HD [COLOR yellow]NOVO[/COLOR yellow]
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_600k.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",NHK World Japan 600k HD [COLOR yellow]NOVO[/COLOR yellow]
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",NHK World Japan 600kb HD [COLOR yellow]NOVO[/COLOR yellow]
+http://www.news24.jp/livestream/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",New Japan Pro Wrestling World, NJPW World HD [COLOR yellow]NOVO[/COLOR yellow]
+https://www.news24.jp/livestream/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",NTV News24 HD [COLOR yellow]NOVO[/COLOR yellow]
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",NTV News24 HD [COLOR yellow]NOVO[/COLOR yellow]
+https://stream3.shopch.jp/HLS/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",QVC Japan HD [COLOR yellow]NOVO[/COLOR yellow]
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",Shop Channel HD [COLOR yellow]NOVO[/COLOR yellow]
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",Tokyo MX1 HD [COLOR yellow]NOVO[/COLOR yellow]
+http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",Tokyo MX2 HD [COLOR yellow]NOVO[/COLOR yellow]
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",Weather News HD [COLOR yellow]NOVO[/COLOR yellow]
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",Weather News HD [COLOR yellow]NOVO[/COLOR yellow]
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",Weather News JAPAN HD [COLOR yellow]NOVO[/COLOR yellow]
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",ジャパネットチャンネル HD [COLOR yellow]NOVO[/COLOR yellow]
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",日本购物1 HD [COLOR yellow]NOVO[/COLOR yellow]
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="NHK WORLD JAPAN" tvg-logo="" group-title="Canais | Variedades",日本购物2 HD [COLOR yellow]NOVO[/COLOR yellow]
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8?checkedby:iptvcat.com
+
+
 
