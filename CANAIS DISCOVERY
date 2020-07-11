@@ -22,6 +22,10 @@ http://playcompany.ddns.net:80/123456/12345678/3977
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY H&H HD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY H&H HD
 http://playcompany.ddns.net:80/123456/12345678/3978
 
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY H&H HD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY H&H HD SUPER NOVO
+http://dwightfarrokhlistas.ddns.net:8080/gF28UyZjrRpaaQ/1E51F6sZC4oS/28
+
+
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY H&H HD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY H&H HD [COLOR yellow]NOVO[/COLOR yellow]
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4774.ts
 
