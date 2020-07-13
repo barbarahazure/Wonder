@@ -1,33 +1,43 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="BandSPORTS.br" tvg-name="BandSPORTS SD" tvg-logo="https://static.clubsrv.me/logos/canais/bandSPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
-http://playcompany.ddns.net:80/123456/12345678/4112
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1106
 
-#EXTINF:-1 tvg-id="BandSPORTS.br" tvg-name="BandSPORTS SD" tvg-logo="https://static.clubsrv.me/logos/canais/bandSPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
-http://playcompany.ddns.net:80/123456/12345678/4113
+#EXTINF:-1 tvg-id="BandSPORTS.br" tvg-name="BandSPORTS HD" tvg-logo="https://static.clubsrv.me/logos/canais/bandSPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2407
 
-#EXTINF:-1 tvg-id="BandSPORTS.br" tvg-name="BandSPORTS SD" tvg-logo="https://static.clubsrv.me/logos/canais/bandSPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
-http://playcompany.ddns.net:80/123456/12345678/3878
+#EXTINF:-1 tvg-id="BandSPORTS.br" tvg-name="BandSPORTS FHD" tvg-logo="https://static.clubsrv.me/logos/canais/bandSPORTS.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52609
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate SD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="CANAIS | ESPORTES",COMBATE SD
-http://playcompany.ddns.net:80/123456/12345678/4108
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/22442
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="CANAIS | ESPORTES",COMBATE HD
-http://playcompany.ddns.net:80/123456/12345678/4110
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1088
 
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate FHD" tvg-logo="https://static.clubsrv.me/logos/canais/combate.png" group-title="CANAIS | ESPORTES",COMBATE FHD
-http://playcompany.ddns.net:80/123456/12345678/3873
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52650
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SD" tvg-logo="https://static.clubsrv.me/logos/canais/dazn.png" group-title="CANAIS | ESPORTES",DAZN SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/60702
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SD" tvg-logo="https://static.clubsrv.me/logos/canais/dazn.png" group-title="CANAIS | ESPORTES",DAZN FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/56437
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN SD
-http://playcompany.ddns.net:80/123456/12345678/4086
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/38387
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN SD
 http://blackuhd.co:80/tblack/tblack/22827
@@ -35,104 +45,126 @@ http://blackuhd.co:80/tblack/tblack/22827
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN SD 
 http://akamaizedx.com:80/Resilecia45/Hsgsuwnsh/5371
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN SD ²" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN SD ²
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN SD
 http://blackuhd.co:80/tblack/tblack/21144
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN HD
 http://blackuhd.co:80/tblack/tblack/5030
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN HD
-http://playcompany.ddns.net:80/123456/12345678/4088
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1129
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4761.ts
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD ²" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN HD ²
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN HD ²" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN HD
 http://blackuhd.co:80/tblack/tblack/21145
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN FHD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN FHD
-http://playcompany.ddns.net:80/123456/12345678/3859
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52657
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 SD
 http://blackuhd.co:80/tblack/tblack/5036
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 SD ²" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 SD ²
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 SD
 http://blackuhd.co:80/tblack/tblack/25572
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/38416
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 HD
 http://blackuhd.co:80/tblack/tblack/5035
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4763.ts
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 HD ²" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 HD ²
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 HD
 http://blackuhd.co:80/tblack/tblack/25573
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2394
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD
 http://blackuhd.co:80/tblack/tblack/22641
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 FHD ²" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD ²
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD
 http://blackuhd.co:80/tblack/tblack/47829
 
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN 2 FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68302
+
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL SD
-http://playcompany.ddns.net:80/123456/12345678/4091
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/38415
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL SD
 http://blackuhd.co:80/tblack/tblack/5034
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD ²" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL SD ²
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL SD
 http://blackuhd.co:80/tblack/tblack/21142
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD
-http://playcompany.ddns.net:80/123456/12345678/4093
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2387
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD
 http://blackuhd.co:80/tblack/tblack/5033
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD 
 http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/516.ts
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD ²" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD ²
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL HD
 http://blackuhd.co:80/tblack/tblack/21143
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN Brasil FHD
-http://playcompany.ddns.net:80/123456/12345678/3860
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58692
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL FHD
 http://blackuhd.co:80/tblack/tblack/5049
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 BRASIL SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL 2 SD
-http://playcompany.ddns.net:80/123456/12345678/4082
-
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL FHD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL FHD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL FHD 
 http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/5764.ts
 
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN 2 BRASIL SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL 2 SD
+
+
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL 2 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/espnbrasil.png" group-title="CANAIS | ESPORTES",ESPN BRASIL 2 FHD
-http://playcompany.ddns.net:80/123456/12345678/3861
+
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA SD
-http://playcompany.ddns.net:80/123456/12345678/4079
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/38417
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA SD
 http://blackuhd.co:80/tblack/tblack/5032
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA SD
-http://playcompany.ddns.net:80/123456/12345678/4080
-
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA SD
-http://playcompany.ddns.net:80/123456/12345678/4081
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/20813
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD
 http://blackuhd.co:80/tblack/tblack/5031
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4762.ts
 
 #EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD
 http://blackuhd.co:80/tblack/tblack/5039
 
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN EXTRA FHD ²" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD ²
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD
 http://blackuhd.co:80/tblack/tblack/47828
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://static.clubsrv.me/logos/canais/espnextra.png" group-title="CANAIS | ESPORTES",ESPN EXTRA FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52614
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV SD" tvg-logo="https://static.clubsrv.me/logos/canais/fishtv.png" group-title="CANAIS | ESPORTES",FISH TV SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52244
+
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV HD" tvg-logo="https://static.clubsrv.me/logos/canais/fishtv.png" group-title="CANAIS | ESPORTES",FISH TV HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52245
+
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="FISH TV FHD" tvg-logo="https://static.clubsrv.me/logos/canais/fishtv.png" group-title="CANAIS | ESPORTES",FISH TV FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/65563
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -144,6 +176,9 @@ http://blackuhd.co:80/tblack/tblack/5023
 #EXTINF:-1 tvg-id="FosSPORTS.br" tvg-name="FOX SPORTS SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="CANAIS | ESPORTES",FOX SPORTS SD
 http://blackuhd.co:80/tblack/tblack/21131
 
+#EXTINF:-1 tvg-id="FosSPORTS.br" tvg-name="FOX SPORTS SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="CANAIS | ESPORTES",FOX SPORTS SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2391
+
 #EXTINF:-1 tvg-id="FosSPORTS.br" tvg-name="FOX SPORTS HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="CANAIS | ESPORTES",FOX SPORTS SD
 http://blackuhd.co:80/tblack/tblack/5048
 
@@ -153,9 +188,15 @@ http://blackuhd.co:80/tblack/tblack/5022
 #EXTINF:-1 tvg-id="FosSPORTS.br" tvg-name="FOX SPORTS HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="CANAIS | ESPORTES",FOX SPORTS HD
 http://blackuhd.co:80/tblack/tblack/21132
 
+#EXTINF:-1 tvg-id="FosSPORTS.br" tvg-name="FOX SPORTS HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="CANAIS | ESPORTES",FOX SPORTS HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/50188
+
 #EXTINF:-1 tvg-id="FosSPORTS.br" tvg-name="FOX SPORTS FHD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="CANAIS | ESPORTES",FOX SPORTS FHD
 http://blackuhd.co:80/tblack/tblack/43214
 
+#EXTINF:-1 tvg-id="FosSPORTS.br" tvg-name="FOX SPORTS FHD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports1.png" group-title="CANAIS | ESPORTES",FOX SPORTS FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52660
+
 #EXTINF:-1 tvg-id="FosSPORTS2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
 http://blackuhd.co:80/tblack/tblack/5021
 
@@ -165,8 +206,11 @@ http://blackuhd.co:80/tblack/tblack/5021
 #EXTINF:-1 tvg-id="FosSPORTS2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
 http://blackuhd.co:80/tblack/tblack/21133
 
-#EXTINF:-1 tvg-id="FosSPORTS2.br" tvg-name="FOX SPORTS 2 SD ²" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD ²
+#EXTINF:-1 tvg-id="FosSPORTS2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
 http://blackuhd.co:80/tblack/tblack/21133
+
+#EXTINF:-1 tvg-id="FosSPORTS2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1717
 
 #EXTINF:-1 tvg-id="FosSPORTS2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
 http://blackuhd.co:80/tblack/tblack/5020
@@ -174,11 +218,30 @@ http://blackuhd.co:80/tblack/tblack/5020
 #EXTINF:-1 tvg-id="FosSPORTS2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
 http://blackuhd.co:80/tblack/tblack/21134
 
-#EXTINF:-1 tvg-id="FosSPORTS2.br" tvg-name="FOX SPORTS 2 HD ²" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD ²
+#EXTINF:-1 tvg-id="FosSPORTS2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
 http://blackuhd.co:80/tblack/tblack/21134
+
+#EXTINF:-1 tvg-id="FosSPORTS2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1031
 
 #EXTINF:-1 tvg-id="FosSPORTS2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD
 http://blackuhd.co:80/tblack/tblack/5043
+
+#EXTINF:-1 tvg-id="FosSPORTS2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/foxsports2.png" group-title="CANAIS | ESPORTES",FOX SPORTS 2 FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52621
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 g-id="Off.br" g-name="CANAL OFF SD" g-logo="https://i.imgur.com/HILKKUT.png" group-title="CANAIS | ESPORTES",CANAL OFF SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/28420
+
+#EXTINF:-1 g-id="Off.br" g-name="CANAL OFF HD" g-logo="https://i.imgur.com/HILKKUT.png" group-title="CANAIS | ESPORTES",CANAL OFF HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2471
+
+#EXTINF:-1 g-id="Off.br" g-name="CANAL OFF FHD" g-logo="https://i.imgur.com/HILKKUT.png" group-title="CANAIS | ESPORTES",CANAL OFF FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52633
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -187,20 +250,29 @@ http://blackuhd.co:80/tblack/tblack/5043
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV SD
 http://blackuhd.co:80/tblack/tblack/5017
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD ²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV SD ²
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV SD
 http://blackuhd.co:80/tblack/tblack/21129
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/47527
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV HD
 http://blackuhd.co:80/tblack/tblack/5012
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4715.ts
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD ²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV HD ²
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV HD
 http://blackuhd.co:80/tblack/tblack/21130
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1203
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV FHD
 http://blackuhd.co:80/tblack/tblack/5047
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58708
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 4K
 http://blackuhd.co:80/tblack/tblack/25414
@@ -208,38 +280,57 @@ http://blackuhd.co:80/tblack/tblack/25414
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD
 http://blackuhd.co:80/tblack/tblack/5016
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 SD ²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD ²
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD
 http://blackuhd.co:80/tblack/tblack/21127
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 2 SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/22450
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
 http://blackuhd.co:80/tblack/tblack/5015
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4717.ts
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 HD ²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD ²
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
 http://blackuhd.co:80/tblack/tblack/21128
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 2 HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2401
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD
 http://blackuhd.co:80/tblack/tblack/5042
 
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 2 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 2 FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58709
+
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
 http://blackuhd.co:80/tblack/tblack/5014
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 SD ²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD ²
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
 http://blackuhd.co:80/tblack/tblack/21125
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 SD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 3 SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/22454
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
 http://blackuhd.co:80/tblack/tblack/5013
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4716.ts
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 HD ²" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD ²
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
 http://blackuhd.co:80/tblack/tblack/21126
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 3 HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2402
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD
 http://blackuhd.co:80/tblack/tblack/5041
 
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 3 FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS | ESPORTES",SPORTV 3 FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58710
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
