@@ -1,110 +1,126 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL SD
-http://playcompany.ddns.net:80/123456/12345678/3981
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1084
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD
-http://playcompany.ddns.net:80/123456/12345678/3982
+
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL HD
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4776.ts
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://static.clubsrv.me/logos/canais/discoverychannel.png" group-title="CANAIS | DISCOVERY",DISCOVERY CHANNEL FHD
-http://playcompany.ddns.net:80/123456/12345678/3871
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52605
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY H&H SD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY H&H SD
-http://playcompany.ddns.net:80/123456/12345678/3977
-
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY H&H HD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY H&H HD
-http://playcompany.ddns.net:80/123456/12345678/3978
-
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY H&H HD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY H&H HD SUPER NOVO
-http://dwightfarrokhlistas.ddns.net:8080/gF28UyZjrRpaaQ/1E51F6sZC4oS/28
+#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION HD" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CIVILIZATION HD
 
 
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY H&H HD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY H&H HD [COLOR yellow]NOVO[/COLOR yellow]
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY HOME & HEALTH SD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY HOME & HEALTH SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2399
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY HOME & HEALTH HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1082
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY HOME & HEALTH HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4774.ts
 
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY H&H FHD
-http://playcompany.ddns.net:80/123456/12345678/3869
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="encurtador.com.br/otyAZ" group-title="CANAIS | DISCOVERY", DISCOVERY HOME & HEALTH FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52615
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="DISCOVERY INVESTIGACAO SD" tvg-name="DISCOVERY INVESTIGACAO SD" tvg-logo="" group-title="CANAIS | DISCOVERY",DISCOVERY INVESTIGACAO SD   
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1011
+
+#EXTINF:-1 tvg-id="DISCOVERY INVESTIGACAO HD" tvg-name="DISCOVERY INVESTIGACAO HD" tvg-logo="" group-title="CANAIS | DISCOVERY",DISCOVERY INVESTIGACAO HD
+
+
+#EXTINF:-1 tvg-id="DISCOVERY INVESTIGACAO FHD" tvg-name="DISCOVERY INVESTIGACAO FHD" tvg-logo="" group-title="CANAIS | DISCOVERY",DISCOVERY INVESTIGACAO FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68301
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="encurtador.com.br/vwx37" group-title="CANAIS | DISCOVERY", DISCOVERY SCIENCE SD
-http://playcompany.ddns.net:80/123456/12345678/3974
+
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="encurtador.com.br/vwx37" group-title="CANAIS | DISCOVERY", DISCOVERY SCIENCE HD
-http://playcompany.ddns.net:80/123456/12345678/3975
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/16006
 
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="encurtador.com.br/vwx37" group-title="CANAIS | DISCOVERY", DISCOVERY SCIENCE HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="encurtador.com.br/vwx37" group-title="CANAIS | DISCOVERY", DISCOVERY SCIENCE HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4772.ts
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="encurtador.com.br/vwx37" group-title="CANAIS | DISCOVERY", DISCOVERY SCIENCE FHD
-http://playcompany.ddns.net:80/123456/12345678/3867
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52653
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY THEATHER SD" tvg-logo="encurtador.com.br/dfg28" group-title="CANAIS | DISCOVERY", DISCOVERY THEATHER SD
-http://playcompany.ddns.net:80/123456/12345678/3972
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/20807
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY THEATHER HD" tvg-logo="encurtador.com.br/dfg28" group-title="CANAIS | DISCOVERY", DISCOVERY THEATHER HD
-http://playcompany.ddns.net:80/123456/12345678/3973
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2460
 
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY THEATHER HD" tvg-logo="encurtador.com.br/dfg28" group-title="CANAIS | DISCOVERY", DISCOVERY THEATHER HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY THEATHER HD" tvg-logo="encurtador.com.br/dfg28" group-title="CANAIS | DISCOVERY", DISCOVERY THEATHER HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4771.ts 
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY THEATHER FHD" tvg-logo="encurtador.com.br/dfg28" group-title="CANAIS | DISCOVERY", DISCOVERY THEATHER FHD
-http://playcompany.ddns.net:80/123456/12345678/3866
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52610
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="encurtador.com.br/yBF23" group-title="CANAIS | DISCOVERY", DISCOVERY TURBO SD
-http://playcompany.ddns.net:80/123456/12345678/3969
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1072
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="encurtador.com.br/yBF23" group-title="CANAIS | DISCOVERY", DISCOVERY TURBO HD
-http://playcompany.ddns.net:80/123456/12345678/3970
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2411
 
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="encurtador.com.br/yBF23" group-title="CANAIS | DISCOVERY", DISCOVERY TURBO HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="encurtador.com.br/yBF23" group-title="CANAIS | DISCOVERY", DISCOVERY TURBO HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4770.ts
 
 #EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="encurtador.com.br/yBF23" group-title="CANAIS | DISCOVERY", DISCOVERY TURBO FHD
-http://playcompany.ddns.net:80/123456/12345678/3865
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58689
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 #EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryworld.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD SD
-http://playcompany.ddns.net:80/123456/12345678/3967
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/20808
 
 #EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryworld.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD HD
-http://playcompany.ddns.net:80/123456/12345678/3968
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2461
 
 #EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://static.clubsrv.me/logos/canais/discoveryworld.png" group-title="CANAIS | DISCOVERY",DISCOVERY WORLD FHD
-http://playcompany.ddns.net:80/123456/12345678/3864
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58690
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 #EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV SD" tvg-logo="encurtador.com.br/klw78" group-title="CANAIS | DISCOVERY",HGTV SD
-http://playcompany.ddns.net:80/123456/12345678/3979
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68340
+
+#EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV HD" tvg-logo="encurtador.com.br/klw78" group-title="CANAIS | DISCOVERY",HGTV HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68341
 
 #EXTINF:-1 tvg-id="HGTV HD" tvg-name="HGTV FHD" tvg-logo="encurtador.com.br/klw78" group-title="CANAIS | DISCOVERY",HGTV FHD
-http://playcompany.ddns.net:80/123456/12345678/3870
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68342
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION HD" tvg-name="DISCOVERY CIVILIZATION HD" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="CANAIS | DISCOVERY",DISCOVERY CIVILIZATION HD
