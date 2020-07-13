@@ -1,119 +1,463 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="CANAIS | FILMES E SÉRIES",A&E SD
-http://playcompany.ddns.net:80/123456/12345678/4263
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1120
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD
-http://playcompany.ddns.net:80/123456/12345678/4264
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/5078
 
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="CANAIS | FILMES E SÉRIES",A&E HD 
 http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/4788.ts 
 
 #EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://static.clubsrv.me/logos/canais/a%26e.png" group-title="CANAIS | FILMES E SÉRIES",A&E FHD
-http://playcompany.ddns.net:80/123456/12345678/3884
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52645
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC SD
-http://playcompany.ddns.net:80/123456/12345678/4261
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/9609
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD
-http://playcompany.ddns.net:80/123456/12345678/4260
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/tysrtttgdr1hb49stargd/15406
 
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC HD 
 http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/4787.ts
 
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://static.clubsrv.me/logos/canais/amc.png" group-title="CANAIS | FILMES E SÉRIES",AMC FHD
-http://playcompany.ddns.net:80/123456/12345678/3883
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52646
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN SD
-http://playcompany.ddns.net:80/123456/12345678/4257
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1712
 
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN HD
-http://playcompany.ddns.net:80/123456/12345678/4258
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1114
 
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://static.clubsrv.me/logos/canais/axn.png" group-title="CANAIS | FILMES E SÉRIES",AXN FHD
-http://playcompany.ddns.net:80/123456/12345678/3881
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58681
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX SD
-http://playcompany.ddns.net:80/123456/12345678/4248
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2483
 
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4779.ts 
 
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX HD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/5080
+
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="https://static.clubsrv.me/logos/canais/cinemax.png" group-title="CANAIS | FILMES E SÉRIES",CINEMAX FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52649
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="FOX HD" tvg-logo="https://static.clubsrv.me/logos/canais/fox.png" group-title="CANAIS | FILMES E SÉRIES",FOX FHD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="" tvg-name="FILM & ARTS SD" tvg-logo="https://static.clubsrv.me/logos/canais/fox.png" group-title="CANAIS | FILMES E SÉRIES",FILM & ARTS SD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68811
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="FOX SD" tvg-logo="https://static.clubsrv.me/logos/canais/fox.png" group-title="CANAIS | FILMES E SÉRIES",FOX SD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1329
+
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="FOX HD" tvg-logo="https://static.clubsrv.me/logos/canais/fox.png" group-title="CANAIS | FILMES E SÉRIES",FOX HD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1047
+
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="FOX FHD" tvg-logo="https://static.clubsrv.me/logos/canais/fox.png" group-title="CANAIS | FILMES E SÉRIES",FOX FHD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52659
+
+#EXTINF:-1 tvg-id="Foxchannel.br" tvg-name="FOX FHD" tvg-logo="https://static.clubsrv.me/logos/canais/fox.png" group-title="CANAIS | FILMES E SÉRIES",FOX FHD 
 http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/5759.ts 
 
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="CANAIS | FILMES E SÉRIES",FOX PREMIUM 1 FHD [COLOR yellow]NOVO[/COLOR yellow]
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="CANAIS | FILMES E SÉRIES",FOX PREMIUM 1 SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/20815
+
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="CANAIS | FILMES E SÉRIES",FOX PREMIUM 1 HD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2464
+
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="CANAIS | FILMES E SÉRIES",FOX PREMIUM 1 FHD 
 http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/5757.ts
 
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium2.png" group-title="CANAIS | FILMES E SÉRIES",FOX PREMIUM 2 FHD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium1.png" group-title="CANAIS | FILMES E SÉRIES",FOX PREMIUM 1 FHD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58693
+
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium2.png" group-title="CANAIS | FILMES E SÉRIES",FOX PREMIUM 2 SD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/20816
+
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium2.png" group-title="CANAIS | FILMES E SÉRIES",FOX PREMIUM 2 HD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2465
+
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium2.png" group-title="CANAIS | FILMES E SÉRIES",FOX PREMIUM 2 FHD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58694
+
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/foxpremium2.png" group-title="CANAIS | FILMES E SÉRIES",FOX PREMIUM 2 FHD 
 http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/5756.ts
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://static.clubsrv.me/logos/canais/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX SD" tvg-logo="https://static.clubsrv.me/logos/canais/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX SD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1028
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://static.clubsrv.me/logos/canais/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX HD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2386
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://static.clubsrv.me/logos/canais/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4754.ts
 
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX FHD" tvg-logo="https://static.clubsrv.me/logos/canais/fx.png" group-title="CANAIS | FILMES E SÉRIES",FX FHD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52661
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://static.clubsrv.me/logos/canais/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo.png" group-title="CANAIS | FILMES E SÉRIES",HBO SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1020
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo.png" group-title="CANAIS | FILMES E SÉRIES",HBO HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1209
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo.png" group-title="CANAIS | FILMES E SÉRIES",HBO FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52617
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo2.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2 SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2489
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo2.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2 HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52583
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://static.clubsrv.me/logos/canais/hbo2.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2 FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52616
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family SD" tvg-logo="https://static.clubsrv.me/logos/canais/hbofamily.png" group-title="CANAIS | FILMES E SÉRIES",HBO FAMILY SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1016
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbofamily.png" group-title="CANAIS | FILMES E SÉRIES",HBO FAMILY HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2392
+
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="https://static.clubsrv.me/logos/canais/hbofamily.png" group-title="CANAIS | FILMES E SÉRIES",HBO FAMILY FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52627
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CANAIS | FILMES E SÉRIES",HBO MUNDI SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1007
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CANAIS | FILMES E SÉRIES",HBO MUNDI HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/5089
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="CANAIS | FILMES E SÉRIES",HBO MUNDI FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68337
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS SD" tvg-logo="https://static.clubsrv.me/logos/canais/hboplus.png" group-title="CANAIS | FILMES E SÉRIES",HBO PLUS SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52672
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://static.clubsrv.me/logos/canais/hboplus.png" group-title="CANAIS | FILMES E SÉRIES",HBO PLUS HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52671
+
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS FHD" tvg-logo="https://static.clubsrv.me/logos/canais/hboplus.png" group-title="CANAIS | FILMES E SÉRIES",HBO PLUS FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68338
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CANAIS | FILMES E SÉRIES",HBO POP SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1005
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CANAIS | FILMES E SÉRIES",HBO POP HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58701
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="CANAIS | FILMES E SÉRIES",HBO POP FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68339
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO SIGNATURE SD" tvg-logo="https://static.clubsrv.me/logos/canais/hbosignature.png" group-title="CANAIS | FILMES E SÉRIES",HBO SIGNATURE SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2488
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO SIGNATURE HD" tvg-logo="https://static.clubsrv.me/logos/canais/hbosignature.png" group-title="CANAIS | FILMES E SÉRIES",HBO SIGNATURE HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1013
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://static.clubsrv.me/logos/canais/hbosignature.png" group-title="CANAIS | FILMES E SÉRIES",HBO SIGNATURE FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52628
+
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME SD" tvg-logo="https://i.imgur.com/mA8qKvg.png" group-title="CANAIS | FILMES E SÉRIES",HBO XTREME SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1006
+
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME HD" tvg-logo="https://i.imgur.com/mA8qKvg.png" group-title="CANAIS | FILMES E SÉRIES",HBO XTREME HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/5090
+
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME FHD" tvg-logo="https://i.imgur.com/mA8qKvg.png" group-title="CANAIS | FILMES E SÉRIES",HBO XTREME FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58700
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME SD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LIFETIME.png" group-title="CANAIS | FILMES E SÉRIES",LIFETIME SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2492
+
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LIFETIME.png" group-title="CANAIS | FILMES E SÉRIES",LIFETIME HD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/5087
+
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME FHD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LIFETIME.png" group-title="CANAIS | FILMES E SÉRIES",LIFETIME FHD  
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68348
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://static.clubsrv.me/logos/canais/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX SD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52585
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://static.clubsrv.me/logos/canais/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52584
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://static.clubsrv.me/logos/canais/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4738.ts
 
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://static.clubsrv.me/logos/canais/megapix.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX FHD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52631
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://static.clubsrv.me/logos/canais/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://static.clubsrv.me/logos/canais/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/980
+
+#EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://static.clubsrv.me/logos/canais/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2472
+
+#EXTINF:-1 tvg-id="Paramountchannel.br" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://static.clubsrv.me/logos/canais/paramount.png" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT CHANNEL FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52634
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://static.clubsrv.me/logos/canais/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2501
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://static.clubsrv.me/logos/canais/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1327
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://static.clubsrv.me/logos/canais/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4718.ts
 
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="https://static.clubsrv.me/logos/canais/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68310
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE ACTION HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-name="CANAL SONY SD" tvg-logo="https://static.clubsrv.me/logos/canais/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1096
+
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-name="CANAL SONY HD" tvg-logo="https://static.clubsrv.me/logos/canais/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2409
+
+#EXTINF:-1 tvg-id="Sonychannel.br" tvg-name="CANAL SONY FHD" tvg-logo="https://static.clubsrv.me/logos/canais/sony.png" group-title="CANAIS | FILMES E SÉRIES",CANAL SONY FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52600
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/STUDIOUNIVERSAL.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2384
+
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/STUDIOUNIVERSAL.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/5094
+
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/STUDIOUNIVERSAL.png" group-title="CANAIS | FILMES E SÉRIES",STUDIO UNIVERSAL FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58711
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY SD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="CANAIS | FILMES E SÉRIES",SYFY SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/939
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="CANAIS | FILMES E SÉRIES",SYFY HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/18087
+
+#EXTINF:-1 tvg-id="" tvg-name="SYFY FHD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="CANAIS | FILMES E SÉRIES",SYFY FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58712
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TBS SD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TBS.png" group-title="CANAIS | FILMES E SÉRIES",TBS SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/937
+
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TBS.png" group-title="CANAIS | FILMES E SÉRIES",TBS HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2473
+
+#EXTINF:-1 tvg-id="" tvg-name="TBS FHD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TBS.png" group-title="CANAIS | FILMES E SÉRIES",TBS FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68311
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TCM SD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TCM.png" group-title="CANAIS | FILMES E SÉRIES",TCM SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52252
+
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TCM.png" group-title="CANAIS | FILMES E SÉRIES",TCM HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68314
+
+#EXTINF:-1 tvg-id="" tvg-name="TCM FHD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TCM.png" group-title="CANAIS | FILMES E SÉRIES",TCM FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68313
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION SD " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE ACTION SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52589
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE ACTION HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4711.ts 
 
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE CULT HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE ACTION HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52588
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD " tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE ACTION FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52620
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE CULT SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/933
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE CULT HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/5096
+
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE CULT HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4710.ts
 
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE FUN HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE CULT FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68312
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE FUN SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/931
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE FUN HD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/4709.ts
 
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE FUN HD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/932
+
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE FUN FHD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58713
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PIPOCA SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/929
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PIPOCA HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/930
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PIPOCA FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52623
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PREMIUM SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52591
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PREMIUM HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52590
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PREMIUM FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52624
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE TOUCH SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE TOUCH SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/926
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE TOUCH HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/927
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE TOUCH FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/58714
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT SERIES HD" tvg-logo="https://static.clubsrv.me/logos/canais/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="" tvg-name="TLC SD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png" group-title="CANAIS | FILMES E SÉRIES",TLC SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/922
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png" group-title="CANAIS | FILMES E SÉRIES",TLC HD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/5097
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png" group-title="CANAIS | FILMES E SÉRIES",TLC FHD  
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52598
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT SD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNT.png" group-title="CANAIS | FILMES E SÉRIES",TNT SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/921
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNT.png" group-title="CANAIS | FILMES E SÉRIES",TNT HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2383
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT FHD" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNT.png" group-title="CANAIS | FILMES E SÉRIES",TNT FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52625
+
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT SERIES SD" tvg-logo="https://static.clubsrv.me/logos/canais/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/1204
+
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT SERIES HD" tvg-logo="https://static.clubsrv.me/logos/canais/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2474
+
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT SERIES FHD" tvg-logo="https://static.clubsrv.me/logos/canais/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD 
 http://185.93.1.216:8080/live/B2A463CD7B8E/B2A463CD7B8E/5670.ts
 
+#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT SERIES FHD" tvg-logo="https://static.clubsrv.me/logos/canais/tntseries.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES FHD 
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/68316
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://static.clubsrv.me/logos/canais/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL HD [COLOR yellow]NOVO[/COLOR yellow]
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1024px-Universal_Channel_Logo_2013.svg.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/940
+
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1024px-Universal_Channel_Logo_2013.svg.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2475
+
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1024px-Universal_Channel_Logo_2013.svg.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52642
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://static.clubsrv.me/logos/canais/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL SD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/896
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://static.clubsrv.me/logos/canais/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL HD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/2478
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://static.clubsrv.me/logos/canais/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL HD 
 http://185.93.1.216:8080/live/B2A463CD642F/B2A463CD642F/4698.ts
 
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="https://static.clubsrv.me/logos/canais/warner.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL FHD
+http://list.deeplist.nl:80/ymyy1fh8ny3xua7ufvur42gcq/gdfgdf6545349stargd/52619
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 
