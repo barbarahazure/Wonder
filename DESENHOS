@@ -40,6 +40,16 @@
 
 <channels>
 <channel>
+<name>[B][COLOR yellow]THE MUPPETS SHOW[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/x1aZsosXqaCpZTI12lLpNYIj6HX.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/THE%20MUPPETS%20SHOW</externallink>
+<fanart>https://image.tmdb.org/t/p/original/9BllDPBbQaizV4pulMu6s36t93D.jpg</fanart>
+<info>O Show dos Muppets foi um programa de televisão infanto-juvenil, estrelado pelos muppets, produzido por Jim Henson e sua equipe entre 1976 a 1981.</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[B][COLOR yellow]COLETÂNEA DE DESENHOS[/COLOR][/B]</name>
 <thumbnail>https://ia801406.us.archive.org/8/items/canais_202006/CANAIS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/barbarahazure/Wonder/master/COLET%C3%82NEA%20DE%20DESENHOS</externallink>
