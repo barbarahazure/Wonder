@@ -19,10 +19,11 @@
 </item>
 
 <item>
-<title>[B] - [COLOR skyblue]2010[/COLOR] - LEGENDADO[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=http://pairing:B0F0A0A39573D0439C6B8106841C2C05328582C3@127.0.0.1:16294/proxy?sid=49&file=0&token=B0F0A0A39573D0439C6B8106841C2C05328582C3&pairing=B0F0A0A39573D0439C6B8106841C2C05328582C3&service=STREAMING</link>
+<title>[B]UMA NOITE NO MUSEU - [COLOR skyblue]2006[/COLOR] - LEGENDADO[/B]</title>
+<link>http://pairing:B0F0A0A39573D0439C6B8106841C2C05328582C3@127.0.0.1:16294/proxy?sid=49&file=0&token=B0F0A0A39573D0439C6B8106841C2C05328582C3&pairing=B0F0A0A39573D0439C6B8106841C2C05328582C3&service=STREAMING</link>
 <subtitle>https://raw.githubusercontent.com/barbarahazure/Wonder/master/Uma%20Noite%20no%20Museu%201080p%20Dublado.srt</subtitle>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
+<thumbnail>https://image.tmdb.org/t/p/original/uY9k8t2FQkMj60obnAnsPKLxHCE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yEl9wEWOiuRGixvIwc1ITG27hPL.jpg</fanart>
+<info>Larry Daley (Ben Stiller) é um homem de bom coração, que arranja um emprego como segurança noturno em um museu de história natural. Logo em seu 1º turno coisas estranhas começam a acontecer: esqueletos de dinossauros e estátuas de cera começam a ganhar vida. Em meio ao caos instalado no museu, a única pessoa que pode ajudá-lo é a estátua de cera de Theodore Roosevelt (Robin Williams), que, assim como os demais, também ganhou vida.</info>
 <genre></genre>
+</item>
