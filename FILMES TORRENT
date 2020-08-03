@@ -37,3 +37,11 @@
 <info></info>
 <genre></genre>
 </item>
+
+<item>
+<title>[B]BIBI - [COLOR skyblue]2010[/COLOR] - LEGENDADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BxXI615C0lWHQUNqYUNMaS1UTzg/view</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
