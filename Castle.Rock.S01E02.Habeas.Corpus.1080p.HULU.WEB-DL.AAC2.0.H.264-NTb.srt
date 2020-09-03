@@ -1,0 +1,2165 @@
+1
+00:00:05,054 --> 00:00:07,491
+<i>Conhecia Dale Lacy há tempos,
+não é?</i>
+
+2
+00:00:07,492 --> 00:00:08,792
+<i>Por que ele fez isso?</i>
+
+3
+00:00:12,264 --> 00:00:14,264
+<i>Anteriormente...</i>
+
+4
+00:00:14,671 --> 00:00:16,403
+<i>Então meu predecessor
+manteve</i>
+
+5
+00:00:16,404 --> 00:00:19,848
+<i>um bloco inteiro de celas vazio
+por trinta anos?</i>
+
+6
+00:00:21,286 --> 00:00:22,683
+Caralho!
+
+7
+00:00:22,684 --> 00:00:24,738
+Meu jovem, quem é você?
+
+8
+00:00:24,739 --> 00:00:27,200
+- Qual é o seu nome?
+- Henry Deaver.
+
+9
+00:00:27,684 --> 00:00:29,393
+Não é Henry Deaver.
+
+10
+00:00:29,394 --> 00:00:32,138
+Você não pegou meu cliente.
+Meus clientes estão mortos.
+
+11
+00:00:32,139 --> 00:00:34,768
+- Acharam ele em uma jaula.
+- Quem é?
+
+12
+00:00:35,573 --> 00:00:37,662
+<i>Henry Matthew Deaver.</i>
+
+13
+00:00:37,663 --> 00:00:40,475
+<i>Cresceu a 32km de lá,</i>
+<i>em Castle Rock.</i>
+
+14
+00:00:40,476 --> 00:00:42,280
+<i>Uma confusão
+quando era criança.</i>
+
+15
+00:00:42,281 --> 00:00:44,479
+Sou Alan.
+Sou amigo da sua mãe.
+
+16
+00:00:44,480 --> 00:00:47,162
+<i>Pregou uma peça,
+fugiu de casa.</i>
+
+17
+00:00:47,163 --> 00:00:50,493
+<i>O garoto volta dos mortos
+radiante como o Tom Sawyer</i>
+
+18
+00:00:50,494 --> 00:00:52,470
+<i>Dizendo que não conseguia</i>
+<i>lembrar nada.</i>
+
+19
+00:00:52,471 --> 00:00:53,863
+Mãe?
+
+20
+00:00:53,864 --> 00:00:56,871
+Henry,
+você conhece o Alan Pangborn?
+
+21
+00:00:56,872 --> 00:00:58,278
+O que te traz para casa?
+
+22
+00:00:58,279 --> 00:01:00,612
+<i>Queria ajudá-lo com isso,
+Sr. Deaver.</i>
+
+23
+00:01:00,613 --> 00:01:02,606
+<i>Não posso pedir para chamar
+um fantasma.</i>
+
+24
+00:01:02,607 --> 00:01:05,745
+<i>O problema é que o fantasma
+me ligou.</i>
+
+25
+00:01:05,746 --> 00:01:08,585
+<i>Eu sei.</i>
+<i>A ligação anônima.</i>
+
+26
+00:02:01,318 --> 00:02:02,618
+Merda.
+
+27
+00:02:04,054 --> 00:02:05,960
+Merda!
+
+28
+00:02:49,477 --> 00:02:52,282
+O que está fazendo?
+Ficou maluco?
+
+29
+00:02:52,808 --> 00:02:54,901
+Zaleski!
+Abaixe a droga da arma, cara.
+
+30
+00:02:54,902 --> 00:02:56,600
+Qual seu problema?
+
+31
+00:02:56,990 --> 00:03:00,053
+- Caralho!
+- Vocês estão bem?
+
+32
+00:03:00,054 --> 00:03:01,754
+<i>Tudo limpo,</i>
+<i>foi alarme falso.</i>
+
+33
+00:03:01,755 --> 00:03:04,112
+<i>Repito, alarme falso.</i>
+<i>Tudo limpo.</i>
+
+34
+00:03:04,113 --> 00:03:05,413
+Qual seu problema?
+
+35
+00:03:07,452 --> 00:03:08,752
+Desculpe.
+
+36
+00:03:09,925 --> 00:03:12,562
+<i>Tudo limpo. Equipe,
+retornem aos seus postos.</i>
+
+37
+00:03:12,565 --> 00:03:14,413
+<i>Repito.
+Todos os andares livres.</i>
+
+38
+00:03:14,414 --> 00:03:16,058
+<i>Equipe,
+retornem aos seus postos.</i>
+
+39
+00:03:25,583 --> 00:03:27,583
+<b>Creepysubs Apresenta:</b>
+
+40
+00:03:28,310 --> 00:03:30,310
+<b>Tradução:
+Olga CSM | LayAires</b>
+
+41
+00:03:32,163 --> 00:03:34,163
+<b>Tradução:
+Tamar | Leo</b>
+
+42
+00:03:36,233 --> 00:03:38,233
+<b>Tradução
+Pine | KaylaSRP</b>
+
+43
+00:03:40,531 --> 00:03:42,531
+<b>Revisão:
+Vahainen</b>
+
+44
+00:03:45,379 --> 00:03:47,379
+<b>Episódio 2
+"A Cor Local"</b>
+
+45
+00:03:55,110 --> 00:03:58,279
+<i>As pessoas acham que somos
+uma dessas cidades fantasma.</i>
+
+46
+00:03:59,447 --> 00:04:02,492
+<i>Uma maré de má sorte,</i>
+<i>prejuízos,</i>
+
+47
+00:04:02,493 --> 00:04:03,891
+<i>promessas quebradas.</i>
+
+48
+00:04:05,767 --> 00:04:07,369
+<i>Sabemos
+que não é bem assim.</i>
+
+49
+00:04:09,947 --> 00:04:12,525
+<i>Não é sorte. É um plano.</i>
+
+50
+00:04:13,494 --> 00:04:15,183
+<i>E não é um plano de Deus.</i>
+
+51
+00:04:16,582 --> 00:04:20,107
+<i>Lembram de Cujo?
+Do Estrangulador?</i>
+
+52
+00:04:21,473 --> 00:04:22,773
+<i>Claro que lembram.</i>
+
+53
+00:04:23,676 --> 00:04:26,537
+<i>E todos os outros</i>
+<i>que não viraram manchetes?</i>
+
+54
+00:04:29,998 --> 00:04:31,298
+<i>1961.</i>
+
+55
+00:04:33,769 --> 00:04:36,297
+<i>Era outono depois de acharem
+o corpo daquele garoto</i>
+
+56
+00:04:36,298 --> 00:04:37,831
+<i>perto dos trilhos do trem.</i>
+
+57
+00:05:03,092 --> 00:05:04,498
+<i>Levei uma pancada forte.</i>
+
+58
+00:05:05,834 --> 00:05:07,407
+<i>Quase não cheguei em casa.</i>
+
+59
+00:05:13,196 --> 00:05:17,360
+<i>Acontece que não era comigo
+que precisavam se preocupar.</i>
+
+60
+00:05:20,292 --> 00:05:21,996
+<i>Era com meu irmão
+mais novo.</i>
+
+61
+00:05:33,135 --> 00:05:34,717
+<i>Foi a primeira vez
+que provei</i>
+
+62
+00:05:34,718 --> 00:05:36,917
+<i>o que essa cidade
+podia fazer com alguém.</i>
+
+63
+00:05:41,749 --> 00:05:44,191
+<i>Podem escolher qualquer casa.
+Pode ser a minha.</i>
+
+64
+00:05:47,585 --> 00:05:51,618
+<i>Cada centímetro é manchado
+com o pecado de alguém.</i>
+
+65
+00:05:57,544 --> 00:05:59,576
+<i>Fico acordado à noite</i>
+
+66
+00:06:00,044 --> 00:06:03,857
+<i>pensando em todo sangue</i>
+<i>derramado só sob meu teto.</i>
+
+67
+00:06:25,415 --> 00:06:27,790
+<i>As pessoas dizem:
+não fui eu,</i>
+
+68
+00:06:30,057 --> 00:06:31,713
+<i>foi esse lugar."</i>
+
+69
+00:06:38,012 --> 00:06:39,465
+<i>E o caso é...</i>
+
+70
+00:06:42,645 --> 00:06:43,945
+<i>que eles estão certos.</i>
+
+71
+00:06:45,551 --> 00:06:48,001
+O recurso pela condicional
+pode demorar.
+
+72
+00:06:55,924 --> 00:06:57,224
+Eu não esperaria acordado.
+
+73
+00:07:15,146 --> 00:07:17,123
+<i>Eu costumava
+ficar de joelhos</i>
+
+74
+00:07:19,318 --> 00:07:23,027
+<i>e pedia a Deus para me dar
+um propósito.</i>
+
+75
+00:07:25,499 --> 00:07:29,325
+<i>Com toda maldade do inferno
+vindo contra esta cidade,</i>
+
+76
+00:07:29,326 --> 00:07:31,361
+<i>o que um homem decente
+pode fazer?</i>
+
+77
+00:07:34,303 --> 00:07:38,432
+<i>"Dê-me forças para suportar."
+Eu disse a Ele.</i>
+
+78
+00:07:39,301 --> 00:07:43,563
+<i>Mas Deus
+não atende a pedidos.</i>
+
+79
+00:07:44,328 --> 00:07:45,995
+<i>Então eu esperei...</i>
+
+80
+00:07:49,879 --> 00:07:51,179
+<i>por anos.</i>
+
+81
+00:07:53,455 --> 00:07:54,899
+<i>Por ordens.</i>
+
+82
+00:08:00,977 --> 00:08:02,522
+<i>E então, um dia,</i>
+
+83
+00:08:04,306 --> 00:08:06,014
+<i>um belo dia...</i>
+
+84
+00:08:06,301 --> 00:08:07,889
+<i>A resposta é clara.</i>
+
+85
+00:08:08,422 --> 00:08:10,551
+<i>O mundo
+não pode mais esperar.</i>
+
+86
+00:08:11,875 --> 00:08:13,810
+<i>Deus respondeu.</i>
+
+87
+00:08:44,903 --> 00:08:47,332
+- Pois não?
+- Olá.
+
+88
+00:08:47,908 --> 00:08:50,377
+- Sou advogado do...
+- Penitenciária Northeast.
+
+89
+00:08:53,460 --> 00:08:56,734
+- Não sou.
+- Alguém está processando eles?
+
+90
+00:08:58,455 --> 00:08:59,755
+Sim.
+
+91
+00:09:00,567 --> 00:09:02,460
+Até onde sei,
+
+92
+00:09:02,461 --> 00:09:04,942
+prisões privadas
+deveriam ser proibidas.
+
+93
+00:09:05,878 --> 00:09:08,971
+Espero que leve isso
+até a Suprema Corte.
+
+94
+00:09:11,315 --> 00:09:12,808
+Concordo com a senhora.
+
+95
+00:09:14,416 --> 00:09:17,451
+Estou aqui para falar
+de um detento específico.
+
+96
+00:09:19,171 --> 00:09:21,365
+Um detento que seu marido
+pode ter tido...
+
+97
+00:09:22,068 --> 00:09:23,959
+algum interesse especial?
+
+98
+00:09:24,578 --> 00:09:26,795
+Dale acreditava
+em reabilitação.
+
+99
+00:09:27,272 --> 00:09:29,695
+Fazia sem ser pago,
+dizia ser misericórdia.
+
+100
+00:09:30,423 --> 00:09:32,347
+Ele conhecia a passagem
+de Romanos 2.
+
+101
+00:09:33,763 --> 00:09:36,111
+"A bondade de Deus
+o conduz ao arrependimento."
+
+102
+00:09:36,112 --> 00:09:37,434
+Exatamente.
+
+103
+00:09:38,476 --> 00:09:39,778
+Bem...
+
+104
+00:09:40,831 --> 00:09:44,357
+Martha, para ser sincero,
+temo que a penitenciária
+
+105
+00:09:45,164 --> 00:09:48,798
+não se importou com este jovem
+assim como seu marido o fez.
+
+106
+00:09:49,265 --> 00:09:51,499
+Não conseguiram nem achar
+a ficha do rapaz.
+
+107
+00:09:54,157 --> 00:09:56,361
+Seu marido costumava trabalhar
+de casa?
+
+108
+00:09:58,693 --> 00:10:01,662
+Fazia isso só no escritório.
+Regra da casa.
+
+109
+00:10:03,809 --> 00:10:05,298
+Quer dar uma olhada?
+
+110
+00:10:18,682 --> 00:10:20,392
+Admirando
+as pinturas do Dale?
+
+111
+00:10:21,838 --> 00:10:23,138
+Ele que as pintou?
+
+112
+00:10:24,148 --> 00:10:27,094
+Podia ter sido um profissional.
+Todos diziam isso.
+
+113
+00:10:27,541 --> 00:10:29,942
+Me perdoe. Com licença.
+
+114
+00:10:38,940 --> 00:10:40,240
+<i>Olá?<i>
+
+115
+00:11:16,880 --> 00:11:18,629
+LOJISTA DESAPARECIDO
+APÓS INCÊNDIO
+
+116
+00:11:21,587 --> 00:11:24,186
+CÃO RAIVOSO CAUSA DESASTRE
+NA CIDADE
+
+117
+00:11:39,612 --> 00:11:41,192
+QUARTA-FEIRA,
+9 DE MARÇO DE 2011
+
+118
+00:11:41,193 --> 00:11:43,644
+NAQUELA NOITE O CARCEREIRO
+LAVOU AS FERIDAS DELES
+
+119
+00:11:43,645 --> 00:11:45,445
+DEPOIS FORAM BATIZADOS.
+ATOS, 16:33
+
+120
+00:11:47,933 --> 00:11:50,503
+8 DE JANEIRO DE 2001
+NAQUELA NOITE O CARCEREIRO...
+
+121
+00:11:56,134 --> 00:11:58,817
+14 DE NOVEMBRO DE 1998
+NAQUELA NOITE O CARCEREIRO...
+
+122
+00:11:59,990 --> 00:12:02,167
+26 DE ABRIL,
+NAQUELA NOITE O CARCEREIRO...
+
+123
+00:12:11,160 --> 00:12:14,313
+TERÇA-FEIRA, 13 DE JUNHO DE 1999
+NAQUELA NOITE O CARCEREIRO...
+
+124
+00:12:17,662 --> 00:12:18,962
+Você é negro?
+
+125
+00:12:21,835 --> 00:12:24,512
+- Perdão?
+- Era a Sally, minha vizinha.
+
+126
+00:12:25,168 --> 00:12:26,468
+Você é negro?
+
+127
+00:12:28,756 --> 00:12:30,256
+Até onde sei, sim.
+
+128
+00:12:30,615 --> 00:12:32,810
+Você é o Henry Deaver,
+não é?
+
+129
+00:12:35,046 --> 00:12:37,767
+- Até onde sei, sim.
+- Conhecíamos seu pai.
+
+130
+00:12:38,830 --> 00:12:41,075
+Éramos membros
+da congregação dele.
+
+131
+00:12:41,076 --> 00:12:43,578
+Não quis ofender.
+Só queria...
+
+132
+00:12:43,579 --> 00:12:45,109
+Depois do que você fez?
+
+133
+00:12:45,110 --> 00:12:48,444
+E agora tira vantagem
+de uma mulher cega?
+
+134
+00:12:49,676 --> 00:12:52,079
+Tem um lugar especial
+para você no inferno.
+
+135
+00:12:57,399 --> 00:12:58,717
+O que tem no porão?
+
+136
+00:13:00,427 --> 00:13:02,568
+Não me faça
+chamar a polícia.
+
+137
+00:13:11,729 --> 00:13:14,695
+<i>Há dois novos detentos
+que pediram parceiros de oração.</i>
+
+138
+00:13:15,015 --> 00:13:18,640
+Ignacio James Jursik,
+23 anos.
+
+139
+00:13:18,641 --> 00:13:21,313
+Acusado de roubo com agravante,
+posse de drogas
+
+140
+00:13:21,314 --> 00:13:23,180
+com intenção
+de distribuição.
+
+141
+00:13:24,571 --> 00:13:26,124
+Paul,
+vi sua mão primeiro.
+
+142
+00:13:27,051 --> 00:13:30,574
+Bruce Lee McNamara,
+57 anos.
+
+143
+00:13:30,896 --> 00:13:34,797
+Acusado de exposição indecente,
+seis assassinatos
+
+144
+00:13:35,376 --> 00:13:38,337
+e profanação a sepulturas.
+
+145
+00:13:41,305 --> 00:13:44,675
+- Jackie Torrance.
+- Somos todos filhos de Deus.
+
+146
+00:13:44,676 --> 00:13:47,701
+Pode vir buscar sua Bíblia
+às 10h no domingo.
+
+147
+00:13:47,702 --> 00:13:49,002
+Olá!
+
+148
+00:13:49,701 --> 00:13:51,517
+Sente-se.
+Todos são bem-vindos.
+
+149
+00:13:51,518 --> 00:13:53,861
+É a primeira vez que ouve
+sobre a encarnação?
+
+150
+00:13:58,275 --> 00:13:59,575
+Não.
+
+151
+00:14:03,259 --> 00:14:05,817
+Já sentiu que ele
+estava escondendo algo,
+
+152
+00:14:05,818 --> 00:14:08,585
+algo que pesava
+em sua consciência?
+
+153
+00:14:08,933 --> 00:14:11,063
+Eu? Não.
+
+154
+00:14:11,064 --> 00:14:13,435
+Warden Lacy
+nunca se confessou comigo.
+
+155
+00:14:13,436 --> 00:14:15,341
+Mas essa era a igreja dele.
+
+156
+00:14:16,655 --> 00:14:18,014
+Antes de eu chegar.
+
+157
+00:14:19,275 --> 00:14:23,445
+Acho que ele preferia
+rezar sozinho.
+
+158
+00:14:24,617 --> 00:14:28,297
+Deixava Martha aqui aos domingos
+e ia para o bosque.
+
+159
+00:14:28,298 --> 00:14:31,421
+Acho que considerava
+que a natureza fosse sua capela.
+
+160
+00:14:33,180 --> 00:14:34,815
+Morreu fazendo o que amava.
+
+161
+00:14:39,421 --> 00:14:41,460
+A última vez que cruzei
+com a sua mãe,
+
+162
+00:14:41,461 --> 00:14:44,843
+ela disse que você representava
+detentos do corredor da morte?
+
+163
+00:14:45,893 --> 00:14:47,193
+Isso mesmo.
+
+164
+00:14:49,840 --> 00:14:53,691
+- Obrigado pelo seu tempo.
+- Desculpe. Não...
+
+165
+00:14:54,085 --> 00:14:58,032
+Quis dizer que acho
+muito inspirador.
+
+166
+00:14:58,602 --> 00:15:01,159
+Trabalhamos com pessoas
+tão complicadas
+
+167
+00:15:01,650 --> 00:15:04,071
+no nosso programa
+"Parceiro de Oração",
+
+168
+00:15:04,071 --> 00:15:06,558
+e para se envolver
+com esse tipo de trabalho,
+
+169
+00:15:06,756 --> 00:15:08,422
+depois da sua trajetória...
+
+170
+00:15:08,423 --> 00:15:09,739
+Minha trajetória?
+
+171
+00:15:09,740 --> 00:15:13,648
+Sua trajetória nessa cidade.
+
+172
+00:15:13,649 --> 00:15:17,468
+Quero dizer que é bom ver
+redenção em carne e osso.
+
+173
+00:15:17,905 --> 00:15:19,205
+Entende?
+
+174
+00:15:55,486 --> 00:15:59,593
+Não saiu daqui ontem à noite,
+saiu?
+
+175
+00:16:01,251 --> 00:16:02,844
+Vagando ou algo do tipo?
+
+176
+00:16:07,233 --> 00:16:08,917
+Claro que não.
+
+177
+00:16:10,233 --> 00:16:14,206
+Eu estou ferrado,
+e tenho...
+
+178
+00:16:17,644 --> 00:16:21,635
+Alguns pais têm essa coisa
+chamada "síndrome de couvade",
+
+179
+00:16:22,482 --> 00:16:27,068
+confusão mental, náusea.
+Isso fode com seu sono.
+
+180
+00:16:35,854 --> 00:16:37,154
+Tudo bem.
+
+181
+00:17:02,035 --> 00:17:04,666
+- Bem-vindo ao Hilton Augusta.
+- Obrigado.
+
+182
+00:17:05,204 --> 00:17:06,504
+Nossa.
+
+183
+00:17:07,043 --> 00:17:10,209
+Vamos experimentar
+o Coors de US$ 6.
+
+184
+00:17:10,210 --> 00:17:11,510
+Sim, senhor.
+
+185
+00:17:11,852 --> 00:17:13,152
+Se importa?
+
+186
+00:17:23,729 --> 00:17:25,171
+Shawshank?
+
+187
+00:17:26,755 --> 00:17:28,055
+Mês difícil.
+
+188
+00:17:31,653 --> 00:17:34,634
+Nem todo mundo tem cabeça
+para esse lance de reabilitação.
+
+189
+00:17:35,518 --> 00:17:37,195
+Alguns só...
+
+190
+00:17:39,636 --> 00:17:42,065
+Eu já fui da polícia.
+
+191
+00:17:42,229 --> 00:17:43,529
+A conta.
+
+192
+00:17:44,552 --> 00:17:46,729
+Estão dando meu nome
+a uma ponte.
+
+193
+00:17:47,060 --> 00:17:51,563
+150 toneladas de aço e ferro.
+Aleluia.
+
+194
+00:17:51,564 --> 00:17:54,930
+Mas naquela época não havia
+essas coisas estilo Buck Rogers,
+
+195
+00:17:54,931 --> 00:17:57,056
+câmaras de corpo,
+computadores.
+
+196
+00:17:57,654 --> 00:18:00,712
+Era só você em sua patrulha
+tomando uma decisão.
+
+197
+00:18:02,121 --> 00:18:06,580
+Lembro quando um carrou passou
+em alta velocidade.
+
+198
+00:18:06,581 --> 00:18:09,367
+Parecia possuído.
+Mandei ele encostar.
+
+199
+00:18:09,368 --> 00:18:13,097
+Era seu antecessor,
+Warden Lacy.
+
+200
+00:18:14,256 --> 00:18:17,919
+Naquela noite ele me contou
+
+201
+00:18:17,920 --> 00:18:22,510
+que havia descoberto o que havia
+de errado com Castle Rock.
+
+202
+00:18:25,623 --> 00:18:30,596
+Ele disse que sempre achou
+que o mal fosse uma metáfora,
+
+203
+00:18:30,604 --> 00:18:35,184
+mas agora sabia que o mal
+era um menino.
+
+204
+00:18:38,045 --> 00:18:40,328
+E o velho Dale disse
+que o pegou,
+
+205
+00:18:40,859 --> 00:18:44,088
+que havia trancado o mal
+em uma caixa.
+
+206
+00:18:46,715 --> 00:18:50,666
+E que depois disso
+tudo seria uma maravilha.
+
+207
+00:18:52,897 --> 00:18:54,589
+Isso faz quanto tempo?
+
+208
+00:18:56,170 --> 00:18:58,562
+Não deixe
+aquele garoto escapar.
+
+209
+00:19:13,764 --> 00:19:15,729
+Quem diabos faria
+algo assim?
+
+210
+00:19:19,474 --> 00:19:22,964
+Agora é a hora de ligar
+para o Pruitt?
+
+211
+00:19:22,965 --> 00:19:24,448
+E dizer o quê?
+
+212
+00:19:28,344 --> 00:19:30,994
+Que agora temos
+uma conspiração criminal...
+
+213
+00:19:31,610 --> 00:19:34,126
+Nem sei o que é isso.
+
+214
+00:19:41,753 --> 00:19:43,564
+São unhas.
+
+215
+00:19:50,990 --> 00:19:52,682
+Um homem decente.
+
+216
+00:19:53,693 --> 00:19:54,993
+Quem?
+
+217
+00:19:55,271 --> 00:19:58,026
+Lacy. Todos dizem isso.
+
+218
+00:19:58,662 --> 00:19:59,962
+Um homem bom.
+
+219
+00:20:06,722 --> 00:20:09,039
+Ele deve ter tido
+um bom motivo.
+
+220
+00:20:11,019 --> 00:20:13,234
+Quer que eu dê um fim
+em tudo?
+
+221
+00:20:24,332 --> 00:20:25,632
+Levante-se.
+
+222
+00:21:09,001 --> 00:21:10,301
+Por aqui.
+
+223
+00:21:21,205 --> 00:21:22,943
+Quem caralhos é
+esse pirralho?
+
+224
+00:21:23,943 --> 00:21:26,044
+Parece que estamos
+com poucos lugares.
+
+225
+00:21:27,063 --> 00:21:28,363
+Medidas de austeridade.
+
+226
+00:21:28,364 --> 00:21:31,232
+O SENHOR DAS MOSCAS
+WILLIAM GOLDING
+
+227
+00:21:52,969 --> 00:21:54,888
+<i>Só alguns outros sabiam</i>
+
+228
+00:21:54,889 --> 00:21:57,548
+<i>as coisas terríveis
+que fizemos por nossa cidade.</i>
+
+229
+00:21:59,426 --> 00:22:01,032
+<i>Por nossa casa.</i>
+
+230
+00:22:03,048 --> 00:22:05,936
+<i>E eu orei
+para que fossem esquecidas.</i>
+
+231
+00:22:18,511 --> 00:22:19,811
+Bom dia.
+
+232
+00:22:20,824 --> 00:22:23,860
+Tem coisas guardadas aqui
+desde que Bush era presidente.
+
+233
+00:22:24,888 --> 00:22:26,199
+O Bush do bem.
+
+234
+00:22:27,943 --> 00:22:29,394
+Isso é...
+
+235
+00:22:29,866 --> 00:22:33,017
+o mais próximo que chego
+de Betty Crocker.
+
+236
+00:22:34,177 --> 00:22:37,408
+Seu aniversário ainda é dia 27,
+suponho.
+
+237
+00:22:39,967 --> 00:22:42,630
+Na minha idade,
+é um período de graça.
+
+238
+00:22:48,278 --> 00:22:49,915
+Feliz aniversário, Henry.
+
+239
+00:22:54,360 --> 00:22:55,660
+Sabe...
+
+240
+00:22:57,922 --> 00:23:01,172
+Sou mais velho
+do que ele era.
+
+241
+00:23:01,173 --> 00:23:03,573
+- Quem?
+- Papai.
+
+242
+00:23:04,849 --> 00:23:06,838
+Mais velho em que época?
+
+243
+00:23:07,396 --> 00:23:08,696
+Todas.
+
+244
+00:23:12,119 --> 00:23:13,782
+É por isso que está aqui?
+
+245
+00:23:19,932 --> 00:23:22,755
+Estava lembrando
+de quando fez 7 anos.
+
+246
+00:23:22,756 --> 00:23:26,405
+Fiz um grande bolo
+com aquele creme para você.
+
+247
+00:23:26,406 --> 00:23:28,792
+Foi antes de descobrir
+seu problema com lactose.
+
+248
+00:23:29,719 --> 00:23:32,963
+Nunca vi um bolo sumir
+e reaparecer tão rápido.
+
+249
+00:23:40,915 --> 00:23:42,844
+Provavelmente
+não se lembra disso.
+
+250
+00:23:47,354 --> 00:23:48,655
+Não.
+
+251
+00:24:51,563 --> 00:24:54,282
+<i>Henry, ande logo! Vamos.</i>
+
+252
+00:25:37,533 --> 00:25:40,701
+Estou atrasada, desculpe.
+Tive vários problemas.
+
+253
+00:25:40,702 --> 00:25:44,221
+A creche não ficou
+com Bryce devido à saúde.
+
+254
+00:25:44,222 --> 00:25:46,379
+Sabe que não posso deixá-lo
+com o Dan.
+
+255
+00:25:46,380 --> 00:25:49,868
+- Ele está bem?
+- Conjuntivite. De novo.
+
+256
+00:25:49,869 --> 00:25:52,744
+Ele fica doente
+só para poder me irritar.
+
+257
+00:25:57,232 --> 00:26:01,326
+Sabe o que a Candace disse?
+Henry Deaver está na cidade.
+
+258
+00:26:02,813 --> 00:26:04,898
+- E daí??
+- Qual é.
+
+259
+00:26:04,898 --> 00:26:07,985
+Miss Pré-adolescente
+de 1991.
+
+260
+00:26:08,518 --> 00:26:10,198
+Parece que ele é advogado.
+
+261
+00:26:10,518 --> 00:26:13,931
+Representa assassinos.
+Não é irônico?
+
+262
+00:26:13,932 --> 00:26:17,126
+- Isso é nojento.
+- Aqui está.
+
+263
+00:26:20,165 --> 00:26:23,485
+Pedi para você,
+para economizar tempo.
+
+264
+00:26:24,969 --> 00:26:27,068
+Quando me ligou,
+sobre um almoço,
+
+265
+00:26:27,069 --> 00:26:31,691
+em restaurante
+ou lanchonete de verdade,
+
+266
+00:26:31,692 --> 00:26:33,742
+Imaginei
+que estivesse melhor.
+
+267
+00:26:33,743 --> 00:26:35,800
+Estou muito bem,
+na verdade.
+
+268
+00:26:35,801 --> 00:26:38,345
+Já vendi duas casas
+esse mês.
+
+269
+00:26:38,346 --> 00:26:41,434
+Espero que tire os óculos
+quando encontra os clientes.
+
+270
+00:26:42,011 --> 00:26:44,656
+O melhor remédio
+para ansiedade social
+
+271
+00:26:44,657 --> 00:26:45,957
+é tomar sol.
+
+272
+00:26:47,675 --> 00:26:49,902
+Não tenho ansiedade social.
+
+273
+00:26:49,902 --> 00:26:54,539
+Certo. Sua aflição psicológica
+não diagnosticada.
+
+274
+00:26:55,332 --> 00:26:59,410
+Existem nervos no cérebro
+chamados de neurônios espelho,
+
+275
+00:26:59,411 --> 00:27:01,449
+que são responsáveis
+pela empatia.
+
+276
+00:27:02,050 --> 00:27:04,840
+- Está chapada?
+- O quê? Não!
+
+277
+00:27:05,407 --> 00:27:07,192
+Não sou uma drogada.
+
+278
+00:27:07,193 --> 00:27:11,157
+Então aquele analgésico
+do meu dente sumiu sozinho.
+
+279
+00:27:11,158 --> 00:27:13,716
+Tomo meio comprimido,
+uma vez por dia,
+
+280
+00:27:13,717 --> 00:27:16,752
+para abafar
+o barulho das pessoas.
+
+281
+00:27:18,414 --> 00:27:22,443
+Deixe para lá.
+Eu liguei porque
+
+282
+00:27:23,251 --> 00:27:25,677
+estarei no "A Cor Local"
+semana que vem.
+
+283
+00:27:26,085 --> 00:27:28,190
+- O programa da TV?
+- Falarei sobre
+
+284
+00:27:28,191 --> 00:27:30,285
+a revitalização
+do Centro Histórico,
+
+285
+00:27:30,286 --> 00:27:31,796
+começando pelo moinho.
+
+286
+00:27:32,397 --> 00:27:34,988
+Então preciso de US$40 mil,
+
+287
+00:27:34,988 --> 00:27:37,199
+da minha parte na casa
+dos nossos pais,
+
+288
+00:27:37,199 --> 00:27:39,289
+para um financiamento
+de 5 anos.
+
+289
+00:27:39,992 --> 00:27:41,633
+- Financiamento do moinho?
+
+290
+00:27:44,682 --> 00:27:48,377
+Aqui não é Great Barrington.
+É Faluja.
+
+291
+00:27:49,548 --> 00:27:51,420
+Então esse é
+seu grande plano?
+
+292
+00:27:51,421 --> 00:27:53,786
+Vai hipotecar
+a única segurança que tem,
+
+293
+00:27:53,787 --> 00:27:55,902
+para que possa travar ao vivo,
+na TV,
+
+294
+00:27:55,903 --> 00:27:57,920
+e jogar seu futuro
+pelo ralo.
+
+295
+00:27:57,921 --> 00:28:01,855
+Sabe quantas pessoas no condado
+assistem ao programa?
+
+296
+00:28:01,856 --> 00:28:04,853
+Felizmente a casa não é
+sua para poder hipotecar.
+
+297
+00:28:04,854 --> 00:28:06,666
+Nossos pais deixaram
+metade para mim,
+
+298
+00:28:06,667 --> 00:28:08,985
+para garantir que você
+não jogasse isso fora,
+
+299
+00:28:08,986 --> 00:28:10,286
+e morresse na sarjeta.
+
+300
+00:28:10,287 --> 00:28:13,047
+Talvez precise voltar
+a morar lá um dia.
+
+301
+00:28:20,881 --> 00:28:23,842
+Assinei seu nome
+e preenchi os papéis hoje cedo.
+
+302
+00:28:28,315 --> 00:28:29,769
+Obrigada pelo almoço.
+
+303
+00:28:44,926 --> 00:28:47,457
+Feche essa matraca.
+
+304
+00:28:53,617 --> 00:28:55,421
+O que você é, um pederasta?
+
+305
+00:28:59,018 --> 00:29:01,635
+"Não julgueis,
+para que não sejais julgados."
+
+306
+00:29:13,957 --> 00:29:15,257
+O quê?
+
+307
+00:29:17,466 --> 00:29:20,029
+Não vai querer me tocar.
+
+308
+00:29:41,281 --> 00:29:43,534
+<i>Faltando cinco minutos
+no 3º tempo.</i>
+
+309
+00:29:49,673 --> 00:29:52,758
+Os guardas de Shawshank
+ainda bebem aqui?
+
+310
+00:29:53,032 --> 00:29:56,847
+É o único bar em 60km.
+Único hambúrguer, também.
+
+311
+00:29:56,848 --> 00:29:58,844
+O que houve
+com a Lanchonete da Nan?
+
+312
+00:29:59,269 --> 00:30:01,305
+Quer a história oficial
+ou a real?
+
+313
+00:30:02,942 --> 00:30:04,972
+Ela tinha um clube de sexo,
+nos fundos.
+
+314
+00:30:04,972 --> 00:30:08,225
+- Como assim?
+- Tipo trocas de casal?
+
+315
+00:30:08,225 --> 00:30:11,186
+Desde os anos 90.
+Nan precisava de dinheiro.
+
+316
+00:30:11,665 --> 00:30:13,814
+Para uma perna postiça
+do sobrinho.
+
+317
+00:30:13,814 --> 00:30:15,972
+Então ela chantageou
+um dos "clientes",
+
+318
+00:30:15,973 --> 00:30:17,655
+o Chefe do Gabinete
+do Governador.
+
+319
+00:30:17,656 --> 00:30:20,401
+- O Governador do Maine?
+- Enfim, não deu muito certo.
+
+320
+00:30:20,628 --> 00:30:21,940
+Acabaram com a Nan.
+
+321
+00:30:22,620 --> 00:30:25,714
+Acabou o clube do sexo.
+Acabou Nan.
+
+322
+00:30:26,472 --> 00:30:28,228
+E acabou a perna de metal,
+eu acho.
+
+323
+00:30:28,894 --> 00:30:30,198
+Triste.
+
+324
+00:30:32,167 --> 00:30:33,813
+E qual é a versão oficial?
+
+325
+00:30:35,183 --> 00:30:38,034
+Ela foi embora quando
+a cidade foi desincorporada.
+
+326
+00:30:38,917 --> 00:30:40,229
+Quando foi isso?
+
+327
+00:30:40,706 --> 00:30:42,479
+Dois ou três anos atrás.
+
+328
+00:30:43,011 --> 00:30:47,097
+Castle Rock está literalmente
+fora do mapa.
+
+329
+00:30:52,860 --> 00:30:55,260
+Posso te perguntar uma coisa?
+Posso ver seus pés?
+
+330
+00:30:55,542 --> 00:30:57,964
+- Como é?
+- Você é o Henry Deaver, certo?
+
+331
+00:30:58,284 --> 00:31:01,463
+Ouvi que perdeu três dedos.
+Devido ao congelamento.
+
+332
+00:31:03,743 --> 00:31:05,043
+Não.
+
+333
+00:31:06,658 --> 00:31:10,320
+- Não perdeu os dedos ou...
+- Não vou mostrar meus pés.
+
+334
+00:31:11,712 --> 00:31:13,019
+Eu mostro o meu.
+
+335
+00:31:19,428 --> 00:31:23,344
+As crianças se vestiam
+como você para o Dia das Bruxas.
+
+336
+00:31:23,726 --> 00:31:28,434
+Daí alguém postou no Instagram
+e virou um escândalo.
+
+337
+00:31:28,435 --> 00:31:31,133
+- O "blackface".
+- Está bem, vamos ouvir.
+
+338
+00:31:32,028 --> 00:31:33,328
+Qual é a história?
+
+339
+00:31:36,943 --> 00:31:39,732
+Amado pastor local
+abre sua casa e seu coração
+
+340
+00:31:39,733 --> 00:31:41,389
+para um pobre órfão.
+
+341
+00:31:42,661 --> 00:31:45,345
+Garoto esquisito
+fica ainda mais estranho.
+
+342
+00:31:46,574 --> 00:31:49,394
+1991, mega nevasca,
+
+343
+00:31:49,711 --> 00:31:51,466
+e todo aquele lance
+de Guiness Book,
+
+344
+00:31:51,467 --> 00:31:53,733
+você o atrai
+para Castle Lake,
+
+345
+00:31:54,301 --> 00:31:56,105
+empurra ele do penhasco...
+
+346
+00:31:56,917 --> 00:31:58,747
+Adeus, Pastor Deaver.
+
+347
+00:32:01,862 --> 00:32:04,257
+Sair do bosque
+onde dias depois
+
+348
+00:32:04,258 --> 00:32:06,905
+e fingir que não lembra nada
+do que aconteceu.
+
+349
+00:32:09,256 --> 00:32:12,345
+Isso é a versão oficial
+ou a história real?
+
+350
+00:32:14,518 --> 00:32:15,818
+Você que me diz.
+
+351
+00:32:19,274 --> 00:32:22,519
+<i>Zaleski, fale mais sobre o filme
+do retardado.</i>
+
+352
+00:32:22,520 --> 00:32:26,660
+Quis dizer Action Jackson?
+Aquele metido a herói?
+
+353
+00:32:34,427 --> 00:32:38,007
+Ele morreu em casa,
+não no lago.
+
+354
+00:32:40,445 --> 00:32:42,713
+Jaqueta de couro,
+no final do bar.
+
+355
+00:32:59,801 --> 00:33:01,107
+Com licença.
+
+356
+00:33:29,857 --> 00:33:32,755
+<i>Dê para o homem as chaves
+para o calabouço.</i>
+
+357
+00:33:35,156 --> 00:33:37,130
+<i>Diga para trancar
+o monstro.</i>
+
+358
+00:33:40,049 --> 00:33:42,308
+<i>Ou que coloque uma estrela
+em seu peito.</i>
+
+359
+00:33:42,928 --> 00:33:44,374
+<i>Chame-o de xerife.</i>
+
+360
+00:33:45,518 --> 00:33:47,436
+<i>Talvez ele tenha sucesso</i>
+
+361
+00:33:47,437 --> 00:33:50,475
+<i>em um ano, uma década ou duas,</i>
+<i>se tiver sorte,</i>
+
+362
+00:33:51,114 --> 00:33:54,893
+<i>mas o mal supera todos nós.</i>
+
+363
+00:33:55,581 --> 00:33:57,109
+Enterrando a prova?
+
+364
+00:34:00,021 --> 00:34:01,363
+Desenterrando.
+
+365
+00:34:01,882 --> 00:34:05,433
+Sua mãe tem deixado comida
+para o vira-lata do bairro.
+
+366
+00:34:06,143 --> 00:34:09,410
+Nós enterramos ele no ano novo.
+Atropelado.
+
+367
+00:34:10,951 --> 00:34:12,662
+Ela adorava o cão.
+
+368
+00:34:13,155 --> 00:34:17,683
+Ela botou na cabeça
+que ele voltou a fuçar o lixo.
+
+369
+00:34:17,684 --> 00:34:20,078
+Disse que se sentiria melhor
+se eu verificasse.
+
+370
+00:34:20,936 --> 00:34:22,904
+Certificar-me
+de que está morto.
+
+371
+00:34:25,566 --> 00:34:28,359
+Hoje de manhã
+ela parecia bem.
+
+372
+00:34:28,360 --> 00:34:31,042
+Eles chamam de "sundowning".
+Bem comum.
+
+373
+00:34:31,043 --> 00:34:33,018
+As noites são difíceis
+para sua mãe.
+
+374
+00:34:35,550 --> 00:34:37,070
+Disse ao médico...
+
+375
+00:34:42,822 --> 00:34:44,178
+O cara de Portland.
+
+376
+00:34:44,179 --> 00:34:47,048
+Vamos à uma clínica
+em Boston agora.
+
+377
+00:34:47,361 --> 00:34:49,270
+A próxima consulta
+é em novembro.
+
+378
+00:34:49,271 --> 00:34:53,128
+Venha e veja com seus olhos.
+Está livre em novembro?
+
+379
+00:35:19,545 --> 00:35:21,086
+Meu Deus.
+
+380
+00:35:29,013 --> 00:35:31,047
+Não se preocupe com sua mãe,
+Henry.
+
+381
+00:35:31,048 --> 00:35:33,466
+Sei que anda muito ocupado
+no Texas.
+
+382
+00:35:38,963 --> 00:35:41,761
+Respondo legalmente por ela
+há três anos.
+
+383
+00:35:43,160 --> 00:35:46,520
+Precisavam da minha permissão
+para mudar o túmulo do meu pai.
+
+384
+00:35:48,643 --> 00:35:51,449
+Também decido
+quem entra e sai desta casa.
+
+385
+00:36:24,913 --> 00:36:26,220
+Molly?
+
+386
+00:36:26,802 --> 00:36:28,876
+Delegado Ridgewood
+precisa falar com você.
+
+387
+00:36:29,309 --> 00:36:31,560
+- Sobre o menino Deaver.
+- Oi, Molly.
+
+388
+00:36:31,561 --> 00:36:34,277
+Encontramos o Padre Deaver.
+Ele estava quase morto
+
+389
+00:36:34,278 --> 00:36:36,206
+no fundo de um penhasco
+em Castle Lake.
+
+390
+00:36:36,710 --> 00:36:38,010
+Você sabia disso?
+
+391
+00:36:42,725 --> 00:36:45,393
+Há várias pessoas no bosque
+procurando ele
+
+392
+00:36:45,394 --> 00:36:47,534
+e toda ajuda é bem-vinda.
+
+393
+00:36:47,535 --> 00:36:50,830
+Ele já disse alguma coisa
+sobre fugir?
+
+394
+00:36:54,376 --> 00:36:55,676
+Ele...
+
+395
+00:36:57,801 --> 00:36:59,915
+Ele falava sobre machucar
+o pai dele?
+
+396
+00:37:00,470 --> 00:37:01,900
+Não é o pai dele.
+
+397
+00:37:01,901 --> 00:37:04,804
+O Sr. Deaver está congelado
+lutando para viver.
+
+398
+00:37:04,805 --> 00:37:08,071
+Eles precisam saber
+se o garoto fez isso e por quê.
+
+399
+00:37:08,072 --> 00:37:09,782
+Isso não é uma perseguição.
+
+400
+00:37:10,439 --> 00:37:14,276
+É uma operação de busca.
+Só queremos achar o Henry.
+
+401
+00:37:14,985 --> 00:37:16,593
+Está bem aquecido aqui,
+
+402
+00:37:16,594 --> 00:37:19,390
+mas está uma noite fria
+lá fora,
+
+403
+00:37:19,391 --> 00:37:21,212
+e só está ficando mais frio.
+
+404
+00:37:22,610 --> 00:37:25,337
+Se souber de alguma coisa...
+
+405
+00:37:26,915 --> 00:37:29,477
+para onde o Henry
+pode ter fugido...
+
+406
+00:37:33,054 --> 00:37:34,673
+Eu não sei de nada.
+
+407
+00:37:38,050 --> 00:37:39,351
+Tudo bem, então.
+
+408
+00:38:24,263 --> 00:38:26,431
+<i>Eu não posso mesmo
+falar com você.</i>
+
+409
+00:38:27,975 --> 00:38:29,657
+Então não devia
+ter me ligado.
+
+410
+00:38:33,243 --> 00:38:35,148
+Foi você, não foi?
+
+411
+00:38:41,805 --> 00:38:45,110
+Não o vejo desde ontem.
+Aquele babaca da corporação
+
+412
+00:38:45,111 --> 00:38:48,305
+o tirou da enfermaria ontem
+e o levou para a solitária.
+
+413
+00:38:48,306 --> 00:38:49,816
+Meu Deus.
+
+414
+00:38:52,165 --> 00:38:56,086
+Deviam sumir com essa cidade
+e todo o condado.
+
+415
+00:38:59,954 --> 00:39:02,040
+Solicitarei um habeas corpus
+pela manhã.
+
+416
+00:39:02,041 --> 00:39:03,750
+Procurador-geral.
+Na verdade, não.
+
+417
+00:39:03,751 --> 00:39:06,172
+Primeiro o Governador,
+depois o Procurador-geral.
+
+418
+00:39:06,173 --> 00:39:09,109
+Terá proteção à testemunha
+antes que tenha que depor.
+
+419
+00:39:10,243 --> 00:39:12,313
+Depor, para um juiz?
+
+420
+00:39:12,813 --> 00:39:15,376
+Não, é tudo no anonimato.
+Está protegido.
+
+421
+00:39:15,377 --> 00:39:17,368
+Quase não estou dormindo.
+
+422
+00:39:17,369 --> 00:39:19,897
+Quase descarreguei minha arma
+em um oficial ontem.
+
+423
+00:39:19,898 --> 00:39:21,993
+- Escute...
+- Vou perder meu emprego!
+
+424
+00:39:21,994 --> 00:39:24,732
+Vou perder
+a porra do meu plano de saúde.
+
+425
+00:39:24,733 --> 00:39:26,312
+Tem uma bomba de leite aqui,
+
+426
+00:39:26,313 --> 00:39:27,969
+minha mulher dará a luz
+em um mês.
+
+427
+00:39:27,970 --> 00:39:29,821
+Acha que eu trabalharia
+naquele lugar
+
+428
+00:39:29,822 --> 00:39:32,548
+se tivesse um Walmart
+a uns 100km daqui?
+
+429
+00:39:33,337 --> 00:39:35,743
+Fiz minha parte e é isso.
+
+430
+00:39:36,735 --> 00:39:38,438
+Ele pediu por você.
+
+431
+00:39:42,492 --> 00:39:44,398
+Preciso de uma prova
+que ele existe.
+
+432
+00:39:45,548 --> 00:39:48,883
+Você não entra lá.
+Está em todo tipo de lista.
+
+433
+00:39:49,376 --> 00:39:52,601
+Precisaria de um milagre
+para entrar naquela prisão.
+
+434
+00:39:59,512 --> 00:40:00,888
+Obrigado.
+
+435
+00:40:02,903 --> 00:40:04,337
+Cuidado ao subir.
+
+436
+00:40:04,988 --> 00:40:07,383
+Muito obrigado.
+Deus te abençoe.
+
+437
+00:40:14,001 --> 00:40:15,301
+Deus te abençoe.
+
+438
+00:40:16,022 --> 00:40:17,399
+Obrigado.
+
+439
+00:40:50,289 --> 00:40:51,977
+Guten morgen, Adolph.
+
+440
+00:40:59,501 --> 00:41:00,801
+Puta merda.
+
+441
+00:41:36,483 --> 00:41:39,133
+Tem certeza que ele está morto?
+Ele estava só deitado.
+
+442
+00:41:48,315 --> 00:41:49,615
+Certo, vamos.
+
+443
+00:41:53,029 --> 00:41:54,449
+Cuidado com a cabeça.
+
+444
+00:42:30,575 --> 00:42:32,013
+Foi o coração?
+
+445
+00:42:32,347 --> 00:42:34,466
+Coração, fígado, pulmões.
+
+446
+00:42:34,467 --> 00:42:36,661
+O câncer entrou
+em metástase.
+
+447
+00:42:37,432 --> 00:42:40,352
+Como assim? Câncer?
+
+448
+00:42:41,396 --> 00:42:44,279
+Fico surpresa que tenha entrado
+na cela ainda andando.
+
+449
+00:42:56,103 --> 00:42:58,103
+CAPELA
+
+450
+00:43:19,993 --> 00:43:22,745
+<i>"Nunca mais o deixe ver
+a luz do dia."</i>
+
+451
+00:43:26,857 --> 00:43:28,846
+<i>Foi isso que Deus me disse.</i>
+
+452
+00:43:38,070 --> 00:43:39,975
+<i>Ele me disse
+onde encontrá-lo,</i>
+
+453
+00:43:42,122 --> 00:43:44,443
+<i>como a prisão dele
+deveria ser construída,</i>
+
+454
+00:43:49,976 --> 00:43:54,180
+<i>como dar fim aos horrores
+que vimos nessa cidade.</i>
+
+455
+00:44:03,685 --> 00:44:05,813
+Posso ser seu advogado,
+se quiser.
+
+456
+00:44:06,135 --> 00:44:07,724
+Mas você tem que dizer.
+
+457
+00:44:09,334 --> 00:44:10,749
+Henry Deaver.
+
+458
+00:44:28,361 --> 00:44:30,266
+<i>O que ele não me disse</i>
+
+459
+00:44:30,572 --> 00:44:34,365
+<i>é quanta dúvida eu teria
+sobre o que fizemos.</i>
+
+460
+00:44:44,142 --> 00:44:47,944
+<i>Ou onde eu acabaria.</i>
+
+461
+00:44:54,463 --> 00:44:56,382
+<i>Temo por este lugar.</i>
+
+462
+00:44:58,140 --> 00:45:00,004
+<i>Temo pelo que está por vir,
+Alan.</i>
+
+463
+00:45:00,338 --> 00:45:01,850
+<i>Mas eu também sei</i>
+
+464
+00:45:02,155 --> 00:45:04,979
+<i>que Castle Rock ainda tem
+um defensor,</i>
+
+465
+00:45:04,980 --> 00:45:06,879
+<i>mesmo na calada da noite.</i>
+
+466
+00:45:28,528 --> 00:45:32,144
+<i><b>Legende conosco!
+recrutacreepy@gmail.com</b></i>
+
+467
+00:45:32,145 --> 00:45:34,945
+<i><b>Facebook.com/Creepysubs
+Twitter @Creepysubs</b></i>
+
