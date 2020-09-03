@@ -1,0 +1,3209 @@
+1
+00:00:00,100 --> 00:00:02,723
+<i>Dentro da Unidade de Análise
+Comportamental do FBI</i>
+
+2
+00:00:02,724 --> 00:00:05,823
+<i>há equipes de resposta rápida
+chamadas de "Células Vermelhas".</i>
+
+3
+00:00:05,824 --> 00:00:08,878
+<i>Essas equipes não tradicionais
+operam além da burocracia</i>
+
+4
+00:00:08,879 --> 00:00:12,239
+<i>e se reportam somente
+ao diretor do FBI.</i>
+
+5
+00:00:51,818 --> 00:00:53,338
+Bom dia.
+
+6
+00:00:57,876 --> 00:01:00,806
+DIRETOR
+
+7
+00:01:01,024 --> 00:01:04,881
+Atenção, por favor,
+todos no refeitório.
+
+8
+00:01:05,498 --> 00:01:07,274
+Tenho um anúncio.
+
+9
+00:01:46,137 --> 00:01:48,127
+- Te vejo mais tarde.
+- Certo.
+
+10
+00:02:05,104 --> 00:02:08,291
+Com licença, senhor, temos
+um problema em Fredericksburg.
+
+11
+00:02:11,712 --> 00:02:13,259
+Alguém assumiu
+a autoria?
+
+12
+00:02:13,260 --> 00:02:15,501
+Isto é tudo que sabemos
+por enquanto.
+
+13
+00:02:18,066 --> 00:02:19,416
+Com licença.
+
+14
+00:02:21,269 --> 00:02:22,630
+Chame Sam Cooper.
+
+15
+00:02:22,631 --> 00:02:25,287
+- Já tenho uma equipe à espera.
+- Então os dispense.
+
+16
+00:02:25,288 --> 00:02:27,663
+- Mas já estão prontos.
+- Desculpe, algo errado?
+
+17
+00:02:27,664 --> 00:02:30,368
+Estaremos coordenando
+com a polícia local e com a ATF.
+
+18
+00:02:30,369 --> 00:02:31,933
+- E seu ponto?
+- Eles não são
+
+19
+00:02:31,934 --> 00:02:33,828
+nosso time mais tradicional.
+
+20
+00:02:34,216 --> 00:02:36,879
+E se eu quisesse alguém
+para apresentar um seminário,
+
+21
+00:02:36,880 --> 00:02:39,083
+isso seria um problema,
+mas preciso descobrir
+
+22
+00:02:39,084 --> 00:02:41,109
+se estamos lidando
+com um caso isolado.
+
+23
+00:02:41,110 --> 00:02:44,504
+Não dou a mínima se acham
+a equipe de Cooper incomum.
+
+24
+00:02:44,505 --> 00:02:46,244
+Eles são rápidos.
+No momento,
+
+25
+00:02:46,245 --> 00:02:48,506
+preciso de uma resposta,
+de um time confiável,
+
+26
+00:02:48,507 --> 00:02:51,118
+e preciso deles agora.
+Chame Sam Cooper.
+
+27
+00:02:51,119 --> 00:02:52,609
+- Sim, senhor.
+- Obrigado.
+
+28
+00:02:55,653 --> 00:02:57,052
+Me diga o que sabe.
+
+29
+00:02:57,053 --> 00:02:59,303
+No momento, não muito.
+
+30
+00:02:59,304 --> 00:03:01,619
+Parece uma única bomba
+colocada em um corredor.
+
+31
+00:03:01,620 --> 00:03:04,121
+- Fatalidades?
+- Os paramédicos estão lá,
+
+32
+00:03:04,122 --> 00:03:05,732
+logo saberemos.
+Enquanto isso,
+
+33
+00:03:05,733 --> 00:03:07,394
+quero seu time no local.
+
+34
+00:03:07,395 --> 00:03:10,322
+Precisamos saber se estamos
+lidando com um caso isolado.
+
+35
+00:03:10,323 --> 00:03:13,126
+Suponho que queira chamar
+Beth de volta de seu seminário.
+
+36
+00:03:13,127 --> 00:03:14,896
+Sim.
+Preciso de alguém para
+
+37
+00:03:14,897 --> 00:03:16,580
+nos atualizar assim
+que chegarmos.
+
+38
+00:03:16,581 --> 00:03:18,995
+Certo, ela estará
+no local quando chegarem.
+
+39
+00:03:18,996 --> 00:03:20,372
+Ótimo.
+
+40
+00:03:37,395 --> 00:03:39,423
+Com licença.
+É o detetive encarregado?
+
+41
+00:03:39,424 --> 00:03:42,239
+- Emerson Sykes. Você é do FBI?
+- Prazer, Beth Griffith,
+
+42
+00:03:42,240 --> 00:03:44,061
+terrorismo
+e avaliação de ameaças.
+
+43
+00:03:44,062 --> 00:03:45,772
+Terei uma equipe aqui
+em uma hora.
+
+44
+00:03:45,773 --> 00:03:48,627
+Quero garantir que esteja
+tudo pronto quando chegarem.
+
+45
+00:03:48,628 --> 00:03:50,487
+Estamos montando
+a unidade de comando.
+
+46
+00:03:50,488 --> 00:03:52,488
+Certo, também preciso
+de uma linha segura
+
+47
+00:03:52,489 --> 00:03:55,289
+e acesso eletrônico a registros
+policiais e escolares.
+
+48
+00:03:55,290 --> 00:03:57,409
+- Você toma vitaminas?
+- Como é?
+
+49
+00:03:57,410 --> 00:03:59,536
+É legal.
+É de ervas.
+
+50
+00:03:59,537 --> 00:04:01,774
+- Mas agradecerá pelo pique.
+- Tudo bem.
+
+51
+00:04:01,775 --> 00:04:04,039
+Estão procurando
+por dispositivos secundários?
+
+52
+00:04:04,040 --> 00:04:06,048
+Temos uma evacuação
+acontecendo agora,
+
+53
+00:04:06,049 --> 00:04:08,720
+bombeiros, paramédicos,
+todos que pudemos encontrar.
+
+54
+00:04:08,721 --> 00:04:11,217
+Ótimo, mas não ajuda
+com os dispositivos.
+
+55
+00:04:11,218 --> 00:04:13,674
+Vê-se o tempo todo
+no Iraque e no Afeganistão.
+
+56
+00:04:13,675 --> 00:04:15,713
+O dispositivo explode,
+o cara espera
+
+57
+00:04:15,714 --> 00:04:18,646
+os soldados entrarem para ajudar
+e "bum", outra explosão.
+
+58
+00:04:18,647 --> 00:04:20,698
+- Quero o esquadrão lá, agora.
+- Tudo bem.
+
+59
+00:04:30,832 --> 00:04:33,635
+- O que temos?
+- Bem, cerca de 100 feridos.
+
+60
+00:04:33,636 --> 00:04:35,672
+É muito cedo para dizer
+quantos morreram.
+
+61
+00:04:35,673 --> 00:04:37,680
+O hospital local está
+a toda capacidade.
+
+62
+00:04:37,681 --> 00:04:39,455
+Tenho paramédicos
+fazendo a triagem.
+
+63
+00:04:39,456 --> 00:04:42,534
+Os que não podemos cuidar,
+vão para Fairfax e Stafford.
+
+64
+00:04:42,535 --> 00:04:45,062
+- Alguém assumiu a autoria?
+- Não, nada foi dito,
+
+65
+00:04:45,063 --> 00:04:46,761
+nenhuma reinvindicação
+eletrônica.
+
+66
+00:04:50,785 --> 00:04:52,373
+O que está acontecendo?
+
+67
+00:04:52,374 --> 00:04:55,393
+Olhe em volta.
+Absorva.
+
+68
+00:04:55,394 --> 00:04:56,744
+Como assim?
+
+69
+00:04:58,077 --> 00:05:01,197
+Isso é o que ele queria.
+Este é o objetivo.
+
+70
+00:05:01,198 --> 00:05:02,850
+Se pudermos determinar
+o porquê,
+
+71
+00:05:02,851 --> 00:05:05,573
+podemos determinar
+quem ele é.
+
+72
+00:05:05,574 --> 00:05:07,782
+A secretária da escola disse
+que acharam isto
+
+73
+00:05:07,783 --> 00:05:09,711
+no correio está manhã,
+sem envelope.
+
+74
+00:05:09,712 --> 00:05:12,929
+- Ele está se apresentando.
+- E está no presente.
+
+75
+00:05:14,705 --> 00:05:17,242
+Ele está nos dizendo
+que ainda não terminou.
+
+76
+00:05:18,242 --> 00:05:20,315
+Haverão outras bombas.
+
+77
+00:05:21,529 --> 00:05:23,502
+<b>UNITED
+Apresenta</b>
+
+78
+00:05:23,503 --> 00:05:25,823
+<b>S01E05
+Here Is The Fire</b>
+
+79
+00:05:27,494 --> 00:05:30,561
+<b>Legenda:
+Vee l Shetkhs</b>
+
+80
+00:05:30,562 --> 00:05:33,590
+<b>Legenda:
+Ross l Zeh</b>
+
+81
+00:05:33,591 --> 00:05:36,600
+<b>Legenda:
+Luques l lhenrique</b>
+
+82
+00:05:36,601 --> 00:05:39,729
+<b>Legende conosco:
+united@united4ever.tv</b>
+
+83
+00:05:57,328 --> 00:05:59,108
+Penelope Garcia,
+a seu dispor.
+
+84
+00:05:59,109 --> 00:06:01,206
+Penelope, Sam Cooper.
+
+85
+00:06:01,207 --> 00:06:04,095
+Nossa.
+E assim,
+
+86
+00:06:04,096 --> 00:06:06,463
+meu dia ficou infinitamente
+mais interessante.
+
+87
+00:06:06,464 --> 00:06:07,829
+Olá.
+Em que posso ajudar?
+
+88
+00:06:07,830 --> 00:06:10,230
+Temos uma explosão numa
+escola em Fredericksburg.
+
+89
+00:06:10,231 --> 00:06:12,481
+E conhece esses caras,
+costumam praticar
+
+90
+00:06:12,482 --> 00:06:13,832
+antes do evento principal.
+
+91
+00:06:13,833 --> 00:06:16,645
+E quer que eu procure
+por explosões nos arredores
+
+92
+00:06:16,646 --> 00:06:18,428
+da cidade nos últimos
+seis meses.
+
+93
+00:06:18,429 --> 00:06:19,781
+Você leu minha mente.
+
+94
+00:06:19,782 --> 00:06:22,061
+E é um lugar sombrio
+e misterioso, algo mais?
+
+95
+00:06:22,062 --> 00:06:25,261
+Sim, preciso que cruze isso
+com cartas-bomba,
+
+96
+00:06:25,262 --> 00:06:27,764
+cartas ameaçadoras,
+quaisquer explosivos
+
+97
+00:06:27,765 --> 00:06:30,448
+faltando em bases militares
+na área, qualquer coisa
+
+98
+00:06:30,449 --> 00:06:32,318
+que me ajude
+a estreitar este perfil.
+
+99
+00:06:57,721 --> 00:06:59,584
+Vê o padrão radial?
+
+100
+00:07:01,906 --> 00:07:04,322
+Foi aqui que nossa bomba
+explodiu.
+
+101
+00:07:04,323 --> 00:07:07,047
+Então, o suspeito trouxe
+o dispositivo consigo?
+
+102
+00:07:07,048 --> 00:07:08,608
+Talvez.
+
+103
+00:07:08,609 --> 00:07:10,872
+Ou ele o guardou
+em um destes armários.
+
+104
+00:07:10,873 --> 00:07:13,744
+Ele pode tê-lo trazido
+ontem à noite ou esta manhã.
+
+105
+00:07:13,745 --> 00:07:16,216
+Logo antes da chamada
+da manhã.
+
+106
+00:07:16,773 --> 00:07:18,298
+Todos estavam
+no corredor.
+
+107
+00:07:18,299 --> 00:07:21,517
+Certamente sua melhor chance
+de matar o máximo que puder.
+
+108
+00:07:27,317 --> 00:07:28,952
+São pais...
+
+109
+00:07:28,953 --> 00:07:31,321
+Ligando para ver
+se seus filhos estão bem.
+
+110
+00:07:31,322 --> 00:07:34,061
+Esse som,
+uma vez na sua cabeça,
+
+111
+00:07:34,062 --> 00:07:35,887
+permanece nela
+por meses.
+
+112
+00:07:37,259 --> 00:07:39,132
+Ainda não achamos
+sua assinatura.
+
+113
+00:07:39,133 --> 00:07:42,689
+Todos assinam, de um jeito
+ou de outro. É sua marca.
+
+114
+00:07:42,690 --> 00:07:44,696
+Enrolam os fios
+de uma certa maneira,
+
+115
+00:07:44,697 --> 00:07:47,242
+alinham os interruptores
+em um certo ângulo.
+
+116
+00:07:47,243 --> 00:07:49,221
+- É aqui.
+- George Metesky,
+
+117
+00:07:49,222 --> 00:07:51,026
+o bombardeiro louco,
+escreveu "J. J."
+
+118
+00:07:51,027 --> 00:07:53,351
+em todas as suas bombas.
+"Jogo justo."
+
+119
+00:07:54,251 --> 00:07:57,824
+Kaczynski fez
+seus dispositivos de madeira.
+
+120
+00:07:57,825 --> 00:08:01,068
+Se me perguntar, estamos
+falando de uma bomba caseira,
+
+121
+00:08:01,993 --> 00:08:05,168
+provavelmente detonada
+remotamente ou por um timer.
+
+122
+00:08:06,115 --> 00:08:07,952
+Pregos...
+
+123
+00:08:07,953 --> 00:08:10,474
+tachinhas,
+cacos de vidro...
+
+124
+00:08:10,475 --> 00:08:12,148
+tomadas...
+
+125
+00:08:12,149 --> 00:08:15,367
+O suspeito colocou
+muito poder nesta maldita.
+
+126
+00:08:16,067 --> 00:08:18,859
+Ele está tentando matar
+tantos quanto possível.
+
+127
+00:08:21,672 --> 00:08:24,469
+Algum aluno tem parecido
+perturbado, fez alguma ameaça?
+
+128
+00:08:24,470 --> 00:08:26,209
+Não, nada assim.
+
+129
+00:08:26,210 --> 00:08:28,896
+E empregados ou professores
+demitidos recentemente?
+
+130
+00:08:31,183 --> 00:08:34,632
+Várias pessoas disseram
+que estava nervoso esta manhã.
+
+131
+00:08:35,282 --> 00:08:36,800
+O que está dizendo?
+
+132
+00:08:36,801 --> 00:08:39,946
+Só perguntando se há um motivo
+para que estivesse inquieto.
+
+133
+00:08:42,331 --> 00:08:46,620
+Semana passada fui diagnosticado
+com carcinoma em células renais.
+
+134
+00:08:47,264 --> 00:08:49,501
+Eu planejava contar
+para as crianças
+
+135
+00:08:49,502 --> 00:08:51,486
+na chamada,
+esta manhã.
+
+136
+00:08:51,487 --> 00:08:53,431
+Sinto muito.
+
+137
+00:08:56,103 --> 00:08:59,110
+Parecia que estava contando
+para minha família.
+
+138
+00:08:59,111 --> 00:09:00,641
+Eu entendo.
+
+139
+00:09:00,642 --> 00:09:02,704
+Vou chamar alguém
+para cuidar desse corte.
+
+140
+00:09:03,628 --> 00:09:07,238
+Você realmente acha que foi
+algum dos meus alunos?
+
+141
+00:09:07,239 --> 00:09:09,969
+Bem, há três alternativas
+prováveis.
+
+142
+00:09:09,970 --> 00:09:12,155
+A primeira é
+um empregado descontente.
+
+143
+00:09:12,156 --> 00:09:14,843
+A segunda é alguém com
+um objetivo ideológico, e...
+
+144
+00:09:14,844 --> 00:09:18,804
+E a terceira é um de meus
+alunos, é o que acha.
+
+145
+00:09:20,035 --> 00:09:22,984
+40% das bombas amadoras
+no país são feitas por crianças
+
+146
+00:09:22,985 --> 00:09:24,598
+com idades abaixo
+dos 17 anos.
+
+147
+00:09:24,599 --> 00:09:26,217
+Considerando onde esta explodiu,
+
+148
+00:09:26,218 --> 00:09:28,178
+eu diria que as chances
+são o dobro.
+
+149
+00:09:31,175 --> 00:09:33,329
+<i>Acho que consegui algo.</i>
+
+150
+00:09:33,330 --> 00:09:36,613
+A maior parte queimou,
+mas consegui reconstruir
+
+151
+00:09:36,614 --> 00:09:38,443
+o suficiente
+para ver isto.
+
+152
+00:09:39,183 --> 00:09:42,193
+- "Aqui está o fogo."
+- É um pouco literal, não acha?
+
+153
+00:09:43,162 --> 00:09:45,208
+Garcia, estamos
+todos com você.
+
+154
+00:09:45,209 --> 00:09:47,627
+E todos vocês estão comigo.
+Falem, pessoal.
+
+155
+00:09:47,628 --> 00:09:50,405
+Preciso que procure casos
+de incêndio em Fredericksburg.
+
+156
+00:09:50,406 --> 00:09:53,039
+Comece com incêndios pequenos
+no ano passado,
+
+157
+00:09:53,040 --> 00:09:54,809
+e venha até algo deste tipo.
+
+158
+00:09:54,810 --> 00:09:56,953
+Certo, vocês tem
+43 para escolher.
+
+159
+00:09:56,954 --> 00:09:59,679
+Pode cruzar esses
+com os alunos da escola?
+
+160
+00:10:02,868 --> 00:10:05,403
+Aqui está.
+Apresento-lhes David Henry,
+
+161
+00:10:05,404 --> 00:10:07,205
+passou 3 meses
+num centro juvenil
+
+162
+00:10:07,206 --> 00:10:09,873
+por dois incêndios florestais
+e crueldade com animal.
+
+163
+00:10:09,874 --> 00:10:12,383
+- E ele está inscrito aqui?
+- Sim, penúltimo ano.
+
+164
+00:10:12,384 --> 00:10:14,544
+Acho que não vão achá-lo
+no quadro de honra.
+
+165
+00:10:14,545 --> 00:10:17,189
+- Obrigado, Garcia.
+- Se é perfil de um incendiário,
+
+166
+00:10:17,190 --> 00:10:19,633
+ainda estará no local
+para apreciar seu trabalho.
+
+167
+00:10:20,685 --> 00:10:22,954
+David Henry...
+o que pode me dizer dele?
+
+168
+00:10:22,955 --> 00:10:24,989
+É um garoto problemático.
+
+169
+00:10:24,990 --> 00:10:27,308
+Tem muitos problemas
+em casa.
+
+170
+00:10:27,309 --> 00:10:29,827
+- Acha que ele fez isso?
+- É possível.
+
+171
+00:10:29,828 --> 00:10:32,277
+Preciso da foto e da localização
+do armário dele.
+
+172
+00:11:30,388 --> 00:11:32,223
+Com licença.
+
+173
+00:11:32,224 --> 00:11:34,348
+David, posso falar com você
+um minuto?
+
+174
+00:11:35,627 --> 00:11:38,705
+David,
+só quero conversar.
+
+175
+00:11:40,432 --> 00:11:42,800
+- Ele tem uma arma!
+- Desocupem a área!
+
+176
+00:11:45,237 --> 00:11:47,688
+Largue a arma!
+
+177
+00:11:49,841 --> 00:11:51,357
+Não fiz nada!
+
+178
+00:11:51,358 --> 00:11:53,305
+Ótimo. Largue a arma
+e vamos conversar.
+
+179
+00:11:53,306 --> 00:11:55,479
+Não quero voltar
+para o centro juvenil.
+
+180
+00:11:55,480 --> 00:11:57,732
+Você não quer morrer aqui,
+filho.
+
+181
+00:11:57,733 --> 00:11:59,316
+Largue a arma.
+
+182
+00:12:05,290 --> 00:12:06,957
+Largue a arma.
+
+183
+00:12:10,528 --> 00:12:12,437
+De joelhos.
+
+184
+00:12:18,737 --> 00:12:22,239
+Sam, o diretor tem
+câncer terminal.
+
+185
+00:12:22,240 --> 00:12:24,208
+- Devemos retê-lo?
+- Não.
+
+186
+00:12:24,209 --> 00:12:25,776
+Faz uma hora que explodiu,
+
+187
+00:12:25,777 --> 00:12:27,964
+e tudo o que temos
+é um garoto problemático,
+
+188
+00:12:27,965 --> 00:12:31,025
+1 grama de maconha, 2 armas,
+1 saco de comprimidos,
+
+189
+00:12:31,026 --> 00:12:32,549
+e um álibi que o coloca
+
+190
+00:12:32,550 --> 00:12:35,403
+em detenção matinal
+antes e durante a explosão.
+
+191
+00:12:35,404 --> 00:12:37,154
+Ele pode ter plantado antes.
+
+192
+00:12:37,155 --> 00:12:39,557
+Um conselheiro foi com ele
+até o estacionamento.
+
+193
+00:12:39,558 --> 00:12:42,293
+Este garoto nem passou perto
+do local da explosão.
+
+194
+00:12:42,294 --> 00:12:44,867
+Perfil correto,
+garoto errado.
+
+195
+00:12:56,041 --> 00:12:58,610
+Pessoal,
+podemos resolver isso.
+
+196
+00:12:58,611 --> 00:13:01,830
+Garcia conseguiu algo sobre
+o local da bomba-teste?
+
+197
+00:13:01,831 --> 00:13:03,181
+Ainda não.
+
+198
+00:13:03,182 --> 00:13:06,717
+Sabemos que ele está tentando
+se comunicar conosco.
+
+199
+00:13:06,718 --> 00:13:08,887
+Que diabos está
+tentando dizer?
+
+200
+00:13:08,888 --> 00:13:12,123
+"Aqui estou.
+Aqui está o fogo."
+
+201
+00:13:12,124 --> 00:13:14,792
+Se for um estudante,
+vamos considerar imaturidade.
+
+202
+00:13:14,793 --> 00:13:16,194
+Poderia estar se gabando.
+
+203
+00:13:16,195 --> 00:13:18,763
+- Repita.
+- Adolescente se gabando.
+
+204
+00:13:18,764 --> 00:13:22,100
+Não, Mick...
+a mensagem.
+
+205
+00:13:22,101 --> 00:13:25,503
+"Aqui estou.
+Aqui está o fogo."
+
+206
+00:13:27,072 --> 00:13:29,774
+<i>Hic est incendia.</i>
+
+207
+00:13:29,775 --> 00:13:31,576
+Latim.
+
+208
+00:13:31,577 --> 00:13:35,146
+<i>Hic est incendia.
+"Aqui está o fogo."</i>
+
+209
+00:13:35,147 --> 00:13:37,181
+Se combinarmos isso
+
+210
+00:13:37,182 --> 00:13:40,218
+com o anterior
+"Aqui estou..."
+
+211
+00:13:40,219 --> 00:13:41,753
+"E Abraão disse a Isaac:
+
+212
+00:13:41,754 --> 00:13:44,556
+"Aqui estou, meu filho,
+
+213
+00:13:44,557 --> 00:13:49,127
+"e ele disse:
+Aqui está o fogo,
+
+214
+00:13:49,128 --> 00:13:50,478
+e aqui está a lenha..."
+
+215
+00:13:50,479 --> 00:13:52,764
+"Mas onde está o cordeiro
+para o holocausto?"
+
+216
+00:13:52,765 --> 00:13:54,532
+Cuidado para traduzir
+para o galês,
+
+217
+00:13:54,533 --> 00:13:56,901
+cuja religião pode ter
+enfraquecido um pouco.
+
+218
+00:13:56,902 --> 00:13:58,690
+É o velho testamento.
+
+219
+00:13:58,691 --> 00:14:00,711
+Abraão e Isaac.
+Na história,
+
+220
+00:14:00,712 --> 00:14:03,619
+Deus pede a Abraão provar
+sua devoção matando seu filho.
+
+221
+00:14:03,620 --> 00:14:05,667
+Não estão dizendo
+que procuramos um pai,
+
+222
+00:14:05,701 --> 00:14:07,420
+que enviou o filho
+aqui para morrer.
+
+223
+00:14:07,455 --> 00:14:09,139
+Precisamos checar
+as igrejas locais,
+
+224
+00:14:09,140 --> 00:14:11,747
+ver se há algum
+religioso fanático.
+
+225
+00:14:11,950 --> 00:14:14,051
+Daremos o perfil na escola,
+talvez na igreja.
+
+226
+00:14:14,052 --> 00:14:16,675
+Vejam se alguém reconhece
+essa descrição do suspeito.
+
+227
+00:14:16,761 --> 00:14:18,183
+O que o perfil diz?
+
+228
+00:14:18,197 --> 00:14:19,830
+O versículo
+é sobre a devoção.
+
+229
+00:14:19,831 --> 00:14:23,478
+A ideia de sacrificar o filho
+indica ser um aniquilador.
+
+230
+00:14:23,479 --> 00:14:26,283
+Ele escolheu bombas, e sei que
+pode haver motivação pessoal.
+
+231
+00:14:26,431 --> 00:14:29,626
+Está dizendo que o perfil deve
+incluir não só um aniquilador,
+
+232
+00:14:29,627 --> 00:14:31,773
+mas um homem-bomba
+com motivação pessoal.
+
+233
+00:14:31,774 --> 00:14:35,039
+Sim. Viu isso com Rudolph,
+com o McVeigh.
+
+234
+00:14:35,040 --> 00:14:37,041
+Eles usaram sua linguagem
+quase bíblica,
+
+235
+00:14:37,042 --> 00:14:39,043
+como manipulação de textos,
+
+236
+00:14:39,044 --> 00:14:40,878
+mas na verdade
+eram apenas loucos.
+
+237
+00:14:40,879 --> 00:14:43,968
+Vamos encontrar as igrejas.
+Vamos fazer o perfil.
+
+238
+00:14:46,902 --> 00:14:48,252
+<i>Cooper.</i>
+
+239
+00:14:48,253 --> 00:14:50,654
+Vamos falar
+de coisas explosivas.
+
+240
+00:14:50,655 --> 00:14:52,890
+Dois meses atrás,
+policias acharam fragmentos
+
+241
+00:14:52,891 --> 00:14:55,593
+de uma bomba de cano bruta
+e pólvora de alta velocidade
+
+242
+00:14:55,594 --> 00:14:57,428
+nas florestas da estrada
+US Ford.
+
+243
+00:14:57,429 --> 00:14:59,405
+Mande as coordenadas
+para o PDA de todos.
+
+244
+00:14:59,406 --> 00:15:01,469
+Entendido,
+já estou enviando.
+
+245
+00:15:03,201 --> 00:15:05,253
+Falei com Garcia.
+
+246
+00:15:05,254 --> 00:15:06,704
+Ela está enviando
+coordenadas
+
+247
+00:15:06,705 --> 00:15:08,706
+de possíveis locais
+de testes com bombas.
+
+248
+00:15:08,707 --> 00:15:11,059
+- Preciso de alguém nisso.
+- Mick e eu iremos.
+
+249
+00:15:11,060 --> 00:15:13,561
+Se for nosso suspeito,
+o local pode ser simbólico.
+
+250
+00:15:13,562 --> 00:15:16,114
+Há 4 igrejas principais
+na área.
+
+251
+00:15:16,115 --> 00:15:19,117
+3 estão localizadas entre
+as famílias, uniformemente.
+
+252
+00:15:19,118 --> 00:15:21,386
+Mas acho que uma se destaca
+demograficamente.
+
+253
+00:15:21,387 --> 00:15:23,504
+Deixe-me adivinhar.
+Escreveu um memorando?
+
+254
+00:15:23,505 --> 00:15:25,389
+Na verdade sim, obrigada.
+
+255
+00:15:25,390 --> 00:15:28,192
+Há uma igreja evangélica
+no Monumento à Franklin,
+
+256
+00:15:28,193 --> 00:15:30,261
+se o suspeito está
+numa missão religiosa,
+
+257
+00:15:30,262 --> 00:15:32,263
+há chance de ser
+um paroquiano de lá.
+
+258
+00:15:32,264 --> 00:15:34,031
+Enviaremos o Prophet.
+
+259
+00:15:34,032 --> 00:15:36,267
+Monumento à Franklin.
+Estou dentro.
+
+260
+00:15:36,268 --> 00:15:38,603
+Prophet, preciso de você
+para incluir um perfil
+
+261
+00:15:38,604 --> 00:15:40,639
+para motivação pessoal.
+Beth está certa.
+
+262
+00:15:40,640 --> 00:15:43,108
+Precisamos de tudo para
+uma visão completa disso.
+
+263
+00:15:43,109 --> 00:15:44,459
+Pode deixar.
+
+264
+00:15:45,978 --> 00:15:47,362
+Reverendo Sands?
+
+265
+00:15:49,014 --> 00:15:52,888
+Sou Jonathan Simms.
+Sou do FBI.
+
+266
+00:15:53,419 --> 00:15:54,786
+Não sei se já soube,
+
+267
+00:15:54,787 --> 00:15:56,787
+mas houve um atentado a bomba
+na escola.
+
+268
+00:15:56,788 --> 00:15:58,789
+Sim, horrível.
+
+269
+00:15:58,790 --> 00:16:00,508
+Não entendo.
+Como posso ajudá-lo?
+
+270
+00:16:00,509 --> 00:16:04,795
+Gostaria de te dar um perfil,
+ver se é alguém que conhece.
+
+271
+00:16:04,863 --> 00:16:06,931
+O homem que procuramos
+
+272
+00:16:06,932 --> 00:16:10,501
+é o que chamamos de
+aniquilador de família.
+
+273
+00:16:10,502 --> 00:16:14,572
+Provavelmente branco.
+Meia-idade.
+
+274
+00:16:14,573 --> 00:16:16,092
+Por fora...
+
+275
+00:16:17,109 --> 00:16:22,249
+parece um marido dedicado,
+um pai ideal.
+
+276
+00:16:22,614 --> 00:16:25,850
+Provavelmente já sofreu
+uma perda devastadora.
+
+277
+00:16:25,851 --> 00:16:29,053
+Esta perda pode
+ser financeira.
+
+278
+00:16:29,054 --> 00:16:31,756
+Pode ser um divórcio ou morte
+de alguém que ele amava.
+
+279
+00:16:31,757 --> 00:16:34,708
+Mas o ponto é que, para ele,
+a única coisa racional a fazer
+
+280
+00:16:34,709 --> 00:16:36,461
+é matar a família
+e começar de novo.
+
+281
+00:16:36,462 --> 00:16:40,331
+A chave dessa tragédia
+é o que o define.
+
+282
+00:16:40,332 --> 00:16:43,201
+Nós o chamamos de homem-bomba
+com motivação pessoal.
+
+283
+00:16:43,202 --> 00:16:46,604
+Eles estão tentando forçar
+uma ideologia.
+
+284
+00:16:46,605 --> 00:16:50,842
+Talvez a ilusão do porquê
+precisam matar as famílias
+
+285
+00:16:50,843 --> 00:16:53,411
+está ligada a esta ideologia.
+
+286
+00:16:55,280 --> 00:16:57,098
+<i>Mas lembre-se...</i>
+
+287
+00:16:57,099 --> 00:17:00,918
+<i>No coração de
+ambos os perfis,</i>
+
+288
+00:17:00,919 --> 00:17:03,214
+<i>há uma perda
+devastadora.</i>
+
+289
+00:17:03,939 --> 00:17:07,680
+<i>Achamos ela,
+achamos o suspeito.</i>
+
+290
+00:17:12,815 --> 00:17:16,101
+Shawn?
+Vamos, é hora de ir.
+
+291
+00:17:16,936 --> 00:17:20,017
+O que esse caderno
+mágico te disse?
+
+292
+00:17:21,673 --> 00:17:24,208
+Seus homens-bomba?
+
+293
+00:17:24,209 --> 00:17:26,244
+Motivados por
+emoções extremas?
+
+294
+00:17:27,930 --> 00:17:29,981
+Isto é uma mensagem aos pais.
+
+295
+00:17:29,982 --> 00:17:33,818
+Ele os quer no mesmo estado
+emocional em que está.
+
+296
+00:17:33,819 --> 00:17:37,104
+Obrigada por ouvir
+minha teoria.
+
+297
+00:17:37,105 --> 00:17:38,923
+É isso que chama de teoria?
+
+298
+00:17:38,924 --> 00:17:41,860
+Ideia, teoria...
+é tudo semântica.
+
+299
+00:17:41,861 --> 00:17:44,729
+Ouvi porque gosto
+do seu trabalho
+
+300
+00:17:44,730 --> 00:17:47,765
+com grupos extremistas
+domésticos. É muito bom.
+
+301
+00:17:47,766 --> 00:17:51,102
+Também sei que tem descartado
+algumas equipes
+
+302
+00:17:51,103 --> 00:17:53,671
+por expressar suas ideias
+em voz alta.
+
+303
+00:17:53,672 --> 00:17:56,207
+Sim, em voz alta
+e corretamente.
+
+304
+00:17:56,208 --> 00:17:58,342
+Em cada caso,
+acabei acertando.
+
+305
+00:17:58,343 --> 00:18:00,144
+Tenho certeza.
+
+306
+00:18:02,447 --> 00:18:04,194
+Vamos, há algo
+que quero checar.
+
+307
+00:18:07,886 --> 00:18:10,121
+Parece que ele fez
+três testes.
+
+308
+00:18:14,293 --> 00:18:15,802
+O que achou?
+
+309
+00:18:17,395 --> 00:18:19,630
+Pólvora de alta-velocidade,
+
+310
+00:18:19,631 --> 00:18:22,921
+pregos colados com fita para
+impacto máximo de estilhaços.
+
+311
+00:18:24,503 --> 00:18:27,574
+E tomadas, como na escola.
+
+312
+00:18:29,574 --> 00:18:31,349
+Este é o nosso cara.
+
+313
+00:18:37,382 --> 00:18:38,916
+Penelope, é Gina.
+
+314
+00:18:38,917 --> 00:18:40,685
+Pode mapear onde
+estamos agora?
+
+315
+00:18:40,686 --> 00:18:42,753
+Minha senhora,
+já deveria saber
+
+316
+00:18:42,754 --> 00:18:44,439
+que posso fazer
+qualquer coisa.
+
+317
+00:18:49,728 --> 00:18:51,803
+Não há corpos aqui,
+apenas memoriais.
+
+318
+00:18:51,804 --> 00:18:53,798
+Alguma informação
+sobre um funeral aqui?
+
+319
+00:18:53,799 --> 00:18:58,769
+Nada, embora pareça haver
+um riacho
+
+320
+00:18:58,770 --> 00:19:00,805
+que tem sido utilizado
+para batismos.
+
+321
+00:19:00,806 --> 00:19:02,156
+Obrigada, Penelope.
+
+322
+00:19:04,776 --> 00:19:06,576
+Ainda está na igreja?
+
+323
+00:19:06,577 --> 00:19:10,476
+Reverendo,
+conhece este lugar?
+
+324
+00:19:11,683 --> 00:19:15,252
+- É o riacho Canner.
+- Claro.
+
+325
+00:19:15,253 --> 00:19:17,288
+Acha que o suspeito
+foi batizado lá?
+
+326
+00:19:17,289 --> 00:19:19,623
+Sem dúvida.
+Batizei centenas de pessoas lá.
+
+327
+00:19:19,624 --> 00:19:22,226
+Talvez ele tenha colocado
+3 cruzes perto do riacho.
+
+328
+00:19:22,227 --> 00:19:23,961
+Isso significa algo
+para você?
+
+329
+00:19:23,962 --> 00:19:25,663
+Pense bem.
+Lembre-se do perfil.
+
+330
+00:19:25,664 --> 00:19:28,458
+Recentemente, ele passou
+por uma tragédia.
+
+331
+00:19:29,868 --> 00:19:33,104
+- O que foi?
+- Havia um homem.
+
+332
+00:19:33,105 --> 00:19:35,173
+William Meeks.
+
+333
+00:19:35,174 --> 00:19:37,375
+Não era paroquiano daqui,
+
+334
+00:19:37,376 --> 00:19:39,944
+mas pediu para batizar
+os três filhos
+
+335
+00:19:39,945 --> 00:19:41,846
+para dar-lhes um recomeço.
+
+336
+00:19:41,847 --> 00:19:44,281
+- Quando foi isso?
+- Há três meses.
+
+337
+00:19:44,282 --> 00:19:47,552
+E ele tinha passado por
+uma experiência terrível.
+
+338
+00:19:47,553 --> 00:19:50,054
+Sua esposa estava dando à luz
+ao quarto filho,
+
+339
+00:19:50,055 --> 00:19:54,553
+a placenta se rompeu e
+ela e a criança morreram.
+
+340
+00:19:55,961 --> 00:19:57,468
+Acha que aquelas cruzes
+
+341
+00:19:57,469 --> 00:19:59,730
+são para os filhos
+que ele sabia que mataria?
+
+342
+00:19:59,731 --> 00:20:02,689
+Sim. E o batismo para garantir
+que fossem para o céu.
+
+343
+00:20:03,640 --> 00:20:05,208
+Obrigado, reverendo.
+
+344
+00:20:05,209 --> 00:20:07,076
+Ouça isso.
+
+345
+00:20:07,077 --> 00:20:09,912
+William Meeks...
+Preciso localizar seus filhos.
+
+346
+00:20:09,913 --> 00:20:12,682
+Vou pôr bloqueios nas estradas,
+enviar a foto dele
+
+347
+00:20:12,683 --> 00:20:14,033
+e a SWAT até sua casa.
+
+348
+00:20:14,034 --> 00:20:16,051
+- Ótimo.
+- Kyle Meeks foi à escola hoje.
+
+349
+00:20:16,052 --> 00:20:17,820
+Seu irmão Shawn
+Meeks não apareceu.
+
+350
+00:20:17,821 --> 00:20:20,356
+Vou precisar de uma foto.
+Se ele não foi à escola,
+
+351
+00:20:20,357 --> 00:20:22,376
+seu pai deve ter algo
+planejado para ele.
+
+352
+00:20:22,377 --> 00:20:25,499
+- E quanto ao terceiro garoto?
+- Terceiro garoto, Paul Meeks...
+
+353
+00:20:25,500 --> 00:20:27,763
+Oitava série,
+ensino fundamental.
+
+354
+00:20:27,764 --> 00:20:29,799
+Pode estar com uma
+bomba sem nem saber.
+
+355
+00:20:29,800 --> 00:20:32,668
+Certo, quero que
+ligue para o diretor.
+
+356
+00:20:32,669 --> 00:20:35,054
+Diga a ele que estamos
+procurando Paul Meeks.
+
+357
+00:20:35,055 --> 00:20:38,507
+Seja legal e calmo.
+Só estamos tentando localizá-lo.
+
+358
+00:20:40,677 --> 00:20:42,340
+Ted, é George Spruell.
+
+359
+00:20:42,341 --> 00:20:45,464
+É, ainda estamos
+tentando entender.
+
+360
+00:20:45,465 --> 00:20:49,002
+Estamos tentando
+localizar Paul Meeks.
+
+361
+00:20:50,187 --> 00:20:51,704
+- Não...
+- O que foi?
+
+362
+00:20:51,705 --> 00:20:54,156
+Estão numa excursão
+no Wildlife Park.
+
+363
+00:21:18,782 --> 00:21:21,942
+William Meeks!
+FBI!
+
+364
+00:21:29,693 --> 00:21:32,261
+- Vazio!
+- Vazio!
+
+365
+00:21:32,262 --> 00:21:34,463
+- Penelope, está aí?
+- Claro, o que precisa?
+
+366
+00:21:34,464 --> 00:21:37,433
+Tentamos ligar para todos...
+Motorista, professores, alunos.
+
+367
+00:21:37,434 --> 00:21:40,002
+- Ninguém está atendendo.
+- É porque o Wildlife Park
+
+368
+00:21:40,003 --> 00:21:42,271
+está a 32 km da torre
+de celular mais próxima.
+
+369
+00:21:42,272 --> 00:21:44,740
+- Ninguém tem sinal.
+- Alguma outra ótima notícia?
+
+370
+00:21:44,741 --> 00:21:46,275
+<i>O hospital acabou
+de confirmar</i>
+
+371
+00:21:46,276 --> 00:21:48,311
+<i>que Kyle Meeks foi
+morto na escola.</i>
+
+372
+00:21:48,312 --> 00:21:51,247
+É quase certo que
+ele era a bomba.
+
+373
+00:21:52,716 --> 00:21:55,985
+- Penelope?
+- Alô? Droga.
+
+374
+00:21:55,986 --> 00:21:58,287
+Tomara que isso signifique
+que estamos perto.
+
+375
+00:22:08,866 --> 00:22:10,922
+Por que estamos parando?
+
+376
+00:22:10,923 --> 00:22:12,940
+Pai?
+
+377
+00:22:14,071 --> 00:22:15,838
+Você está bem?
+
+378
+00:22:15,839 --> 00:22:17,707
+O que quer dizer, Shawn?
+
+379
+00:22:17,708 --> 00:22:20,910
+Está me fazendo matar aula.
+
+380
+00:22:20,911 --> 00:22:23,463
+Vamos rezar juntos.
+
+381
+00:22:24,348 --> 00:22:26,109
+Reze comigo.
+
+382
+00:22:29,286 --> 00:22:31,087
+Bem-aventurados
+os que choram,
+
+383
+00:22:31,088 --> 00:22:33,823
+porque serão consolados.
+
+384
+00:22:33,824 --> 00:22:35,708
+Bem-aventurados os gentis,
+
+385
+00:22:35,709 --> 00:22:38,694
+<i>porque herdarão a Terra.</i>
+
+386
+00:22:38,695 --> 00:22:40,596
+<i>Bem-aventurados os
+que são perseguidos</i>
+
+387
+00:22:40,597 --> 00:22:42,465
+<i>por causa da justiça,</i>
+
+388
+00:22:42,466 --> 00:22:45,968
+<i>porque deles é
+o reino dos céus.</i>
+
+389
+00:22:55,770 --> 00:22:57,120
+Estou vendo eles.
+
+390
+00:22:58,183 --> 00:22:59,925
+Bem-aventurados
+os misericordiosos,
+
+391
+00:22:59,926 --> 00:23:01,476
+porque alcançarão misericórdia.
+
+392
+00:23:07,058 --> 00:23:08,825
+Bem-aventurados
+os puros de coração,
+
+393
+00:23:09,445 --> 00:23:11,316
+<i>porque verão a Deus.</i>
+
+394
+00:23:11,930 --> 00:23:13,280
+Vamos!
+
+395
+00:23:20,672 --> 00:23:22,238
+FBI!
+Encoste!
+
+396
+00:23:22,239 --> 00:23:24,341
+Pare o ônibus!
+
+397
+00:23:24,408 --> 00:23:27,458
+Espere.
+O motorista não nos vê.
+
+398
+00:23:32,150 --> 00:23:34,316
+Bem-aventurados
+os pobres de espírito,
+
+399
+00:23:35,303 --> 00:23:37,513
+<i>porque deles é
+o reino dos céus.</i>
+
+400
+00:23:41,193 --> 00:23:44,194
+FBI!
+Precisa parar agora!
+
+401
+00:23:44,195 --> 00:23:46,096
+Pare agora!
+
+402
+00:23:46,097 --> 00:23:50,150
+<i>Bem-aventurados os que
+têm fome e sede de justiça.</i>
+
+403
+00:23:58,609 --> 00:24:01,445
+- Vou pela frente!
+- Ainda bem que era você.
+
+404
+00:24:03,482 --> 00:24:07,050
+<i>Bem-aventurados os gentis,
+porque herdarão a terra.</i>
+
+405
+00:24:10,422 --> 00:24:12,089
+<i>Bem-aventurados
+os pacificadores,</i>
+
+406
+00:24:12,090 --> 00:24:14,174
+<i>porque serão chamados
+filhos de Deus.</i>
+
+407
+00:24:14,175 --> 00:24:15,891
+Vá para lá.
+Vão, vão!
+
+408
+00:24:24,903 --> 00:24:26,440
+Vamos, vamos!
+
+409
+00:24:27,705 --> 00:24:30,157
+Bem-aventurados os
+que são perseguidos,
+
+410
+00:24:30,158 --> 00:24:32,643
+por causa da justiça...
+
+411
+00:24:32,644 --> 00:24:35,329
+Tem uma garota.
+Tem uma garota!
+
+412
+00:24:35,413 --> 00:24:38,980
+<i>...porque deles é
+o reino dos céus.</i>
+
+413
+00:24:39,617 --> 00:24:42,581
+Vamos, deixe sua mochila.
+
+414
+00:24:44,022 --> 00:24:45,722
+Certo, venha.
+Vamos!
+
+415
+00:24:45,723 --> 00:24:47,291
+Amém.
+
+416
+00:25:12,900 --> 00:25:14,684
+É Mozart.
+
+417
+00:25:14,685 --> 00:25:17,688
+É de um pai lamentando
+a morte de seu filho.
+
+418
+00:25:17,689 --> 00:25:19,723
+<i>Natus cadit.</i>
+
+419
+00:25:19,724 --> 00:25:21,358
+Ele sabia que iríamos
+parar aqui,
+
+420
+00:25:21,359 --> 00:25:23,209
+então aonde levou seu filho?
+
+421
+00:25:28,666 --> 00:25:30,250
+<i>Entrem,
+o jantar está pronto.</i>
+
+422
+00:25:30,251 --> 00:25:31,601
+<i>Tanto faz, mãe.</i>
+
+423
+00:25:33,838 --> 00:25:36,469
+Ele está mostrando
+sua ideologia a nós.
+
+424
+00:25:37,341 --> 00:25:41,445
+Se pudermos entender
+qual é seu propósito,
+
+425
+00:25:41,446 --> 00:25:44,581
+então vamos descobrir
+aonde está indo.
+
+426
+00:26:07,672 --> 00:26:11,247
+- O que foi?
+- Preciso te dizer algo.
+
+427
+00:26:12,610 --> 00:26:14,110
+O que é?
+
+428
+00:26:15,647 --> 00:26:19,449
+Algo aconteceu.
+Acabei de ver na TV.
+
+429
+00:26:19,450 --> 00:26:22,519
+Eu liguei. Tentei
+obter informação.
+
+430
+00:26:22,520 --> 00:26:26,323
+Informação de quê?
+O que está acontecendo?
+
+431
+00:26:28,493 --> 00:26:30,986
+Seus irmãos...
+
+432
+00:26:30,987 --> 00:26:35,563
+Podem estar feridos.
+
+433
+00:26:41,572 --> 00:26:44,458
+Pode deixar, pessoal.
+Obrigado.
+
+434
+00:26:44,459 --> 00:26:47,711
+Por que estou aqui e o resto
+da minha turma está lá?
+
+435
+00:26:47,712 --> 00:26:51,281
+Só preciso te fazer algumas
+perguntas. Tudo bem?
+
+436
+00:26:53,918 --> 00:26:56,253
+Você mesmo preparou
+sua mochila hoje cedo?
+
+437
+00:26:56,320 --> 00:26:58,688
+Não estou entendendo.
+
+438
+00:26:58,689 --> 00:27:01,696
+Só preciso saber se arrumou
+sua mochila sozinho.
+
+439
+00:27:01,697 --> 00:27:05,262
+Meu pai geralmente
+arruma para nós.
+
+440
+00:27:05,263 --> 00:27:07,510
+Por favor,
+o que está havendo?
+
+441
+00:27:09,100 --> 00:27:12,636
+A bomba que explodiu no ônibus
+estava na sua mochila.
+
+442
+00:27:12,637 --> 00:27:15,038
+E achamos que seu pai
+pode tê-la colocado lá.
+
+443
+00:27:15,039 --> 00:27:18,242
+- É loucura.
+- Eu sei.
+
+444
+00:27:18,243 --> 00:27:20,110
+Sei que é muito para digerir.
+
+445
+00:27:20,111 --> 00:27:22,600
+Estou dizendo isso porque
+precisamos de sua ajuda
+
+446
+00:27:22,601 --> 00:27:24,281
+para entender
+aonde ele está indo.
+
+447
+00:27:24,282 --> 00:27:27,150
+- Estão enganados.
+- Gostaria de estar.
+
+448
+00:27:27,151 --> 00:27:29,002
+Tia Rose?
+
+449
+00:27:30,988 --> 00:27:32,558
+Diga a eles que não é verdade.
+
+450
+00:27:33,391 --> 00:27:36,726
+Também estou tentando
+entender tudo isso.
+
+451
+00:27:39,897 --> 00:27:41,749
+Precisamos de sua ajuda, Paul.
+
+452
+00:27:41,750 --> 00:27:44,156
+Não sei de nada.
+
+453
+00:27:45,269 --> 00:27:47,771
+Nosso trabalho, o que fazemos,
+
+454
+00:27:47,772 --> 00:27:49,556
+estudamos como
+as pessoas agem,
+
+455
+00:27:49,557 --> 00:27:52,142
+porque existem pistas
+em tudo que fazemos,
+
+456
+00:27:52,143 --> 00:27:53,676
+mesmo quando não percebemos.
+
+457
+00:27:53,677 --> 00:27:57,347
+Meu pai não poderia
+ter feito isso.
+
+458
+00:27:57,348 --> 00:27:59,671
+Sim, mas ele estava triste,
+não é?
+
+459
+00:28:00,284 --> 00:28:02,652
+E algumas vezes quando
+as pessoas estão tristes,
+
+460
+00:28:02,653 --> 00:28:05,155
+elas fazem coisas
+que normalmente não fariam.
+
+461
+00:28:05,156 --> 00:28:07,230
+Ele estava mais
+afetuoso ultimamente?
+
+462
+00:28:08,259 --> 00:28:10,526
+Talvez lhe dando presentes?
+
+463
+00:28:10,527 --> 00:28:12,429
+Há algum livro
+que ele esteja lendo
+
+464
+00:28:12,430 --> 00:28:13,964
+que queira nos contar?
+
+465
+00:28:15,366 --> 00:28:17,889
+Paul, o que foi?
+
+466
+00:28:25,143 --> 00:28:27,387
+Há algumas noites...
+
+467
+00:28:28,813 --> 00:28:31,014
+Ele nos deu estes chaveiros.
+
+468
+00:28:31,015 --> 00:28:33,305
+É o símbolo do infinito.
+
+469
+00:28:35,152 --> 00:28:37,153
+O que ele disse?
+
+470
+00:28:37,154 --> 00:28:39,155
+Quando ele te deu
+isso, o que disse?
+
+471
+00:28:42,360 --> 00:28:45,362
+Preciso que se esforce, amigão.
+
+472
+00:28:48,699 --> 00:28:52,235
+Ele disse que os círculos
+são para sempre,
+
+473
+00:28:52,236 --> 00:28:54,271
+como da forma
+que ele nos amava.
+
+474
+00:28:54,272 --> 00:28:57,541
+E que a beleza do infinito
+
+475
+00:28:57,542 --> 00:29:00,473
+é que tudo termina
+onde começa.
+
+476
+00:29:01,646 --> 00:29:03,847
+Certo.
+
+477
+00:29:03,848 --> 00:29:06,416
+Obrigado.
+Saiu-se bem, certo?
+
+478
+00:29:06,417 --> 00:29:08,959
+Fique com sua tia Rose.
+Já volto.
+
+479
+00:29:13,858 --> 00:29:16,626
+- Achou algo?
+- Possivelmente.
+
+480
+00:29:16,627 --> 00:29:18,895
+Já ouviu falar do movimento
+da última geração?
+
+481
+00:29:18,896 --> 00:29:20,563
+Sim, li sobre eles.
+
+482
+00:29:20,564 --> 00:29:23,116
+Querem evitar a procriação
+para salvar o mundo.
+
+483
+00:29:23,117 --> 00:29:25,368
+Pensam que a Terra
+está se deteriorando...
+
+484
+00:29:25,369 --> 00:29:27,904
+Superpopulação, terrorismo,
+aquecimento global.
+
+485
+00:29:27,905 --> 00:29:31,171
+Acham que é desumano
+começar uma nova geração.
+
+486
+00:29:32,844 --> 00:29:35,045
+"Trazer ao mundo
+
+487
+00:29:35,046 --> 00:29:38,548
+alguém que irá sofrer é
+fazer mal a essa pessoa."
+
+488
+00:29:38,549 --> 00:29:41,385
+Se quer saber sobre
+esquisitices, é comigo.
+
+489
+00:29:41,386 --> 00:29:45,455
+Por isso que Meeks acha
+que matando seus filhos,
+
+490
+00:29:45,456 --> 00:29:47,457
+está salvando-os de sofrer.
+
+491
+00:29:47,458 --> 00:29:50,143
+Bem, há uma lógica nisso.
+É um delírio, mas há lógica.
+
+492
+00:29:50,144 --> 00:29:51,878
+Baseado em seu perfil,
+pense nisso.
+
+493
+00:29:51,879 --> 00:29:54,631
+Sua esposa morreu tentando
+trazer outro filho ao mundo.
+
+494
+00:29:54,632 --> 00:29:58,134
+Está em choque. Sua foto está
+nos noticiários. Para onde vai?
+
+495
+00:29:58,135 --> 00:29:59,903
+Vamos voltar um pouco,
+ao começo.
+
+496
+00:29:59,904 --> 00:30:02,444
+Trabalhe nesse perfil
+para mim, Beth.
+
+497
+00:30:02,445 --> 00:30:06,476
+Sabemos que é ideológico
+que tem uma causa pessoal.
+
+498
+00:30:06,477 --> 00:30:08,028
+- Sim.
+- Você mesmo disse
+
+499
+00:30:08,029 --> 00:30:12,549
+que no perfil de todo destruidor
+de famílias há uma grande perda.
+
+500
+00:30:12,550 --> 00:30:14,084
+Então o que isso te diz?
+
+501
+00:30:14,085 --> 00:30:16,536
+Isso é o manifesto pessoal dele.
+
+502
+00:30:16,537 --> 00:30:20,056
+Por que escolher
+o símbolo do infinito
+
+503
+00:30:20,057 --> 00:30:23,460
+se não quer que uma geração
+nunca exista?
+
+504
+00:30:23,461 --> 00:30:25,428
+É simbólico,
+a assinatura da infinidade.
+
+505
+00:30:25,429 --> 00:30:27,055
+Tudo termina onde começa.
+
+506
+00:30:28,230 --> 00:30:32,269
+Então está indo ao hospital...
+Onde a esposa morreu.
+
+507
+00:30:33,871 --> 00:30:35,438
+Preciso que contate os outros.
+
+508
+00:30:35,439 --> 00:30:37,991
+Diga que Meeks está indo
+ao Fredericksbur Memorial.
+
+509
+00:30:37,992 --> 00:30:40,110
+Entendido.
+Base, aqui é o Sykes.
+
+510
+00:30:45,616 --> 00:30:48,318
+- O que aconteceu?
+- A policia o cercou.
+
+511
+00:30:48,319 --> 00:30:50,335
+Ele diz ter uma bomba.
+
+512
+00:30:55,726 --> 00:30:57,527
+William Meeks.
+
+513
+00:30:57,528 --> 00:30:59,496
+Não chegue mais perto.
+
+514
+00:30:59,497 --> 00:31:00,847
+William...
+
+515
+00:31:02,250 --> 00:31:04,834
+Só queremos saber
+onde está o Shawn.
+
+516
+00:31:04,835 --> 00:31:06,970
+Só isso.
+Só o que queremos.
+
+517
+00:31:06,971 --> 00:31:10,473
+Sei que pensa que está salvando
+seus filhos,
+
+518
+00:31:10,474 --> 00:31:13,009
+mas está errado, William.
+
+519
+00:31:13,010 --> 00:31:14,711
+Você não quer morrer, William.
+
+520
+00:31:14,712 --> 00:31:16,546
+Você quer passar
+sua mensagem.
+
+521
+00:31:16,547 --> 00:31:19,752
+Por isso há três buracos
+na floresta, e não quatro.
+
+522
+00:31:21,936 --> 00:31:23,488
+Apenas ordene.
+
+523
+00:31:25,354 --> 00:31:26,704
+Onde está Shawn?
+
+524
+00:31:28,954 --> 00:31:30,527
+Aqui estou, Pai.
+
+525
+00:31:30,528 --> 00:31:33,096
+Shawn sabe que está carregando
+uma bomba?
+
+526
+00:31:33,097 --> 00:31:36,132
+Aqui está o fogo.
+Aqui está a lenha.
+
+527
+00:31:36,133 --> 00:31:37,483
+Atire, agora.
+
+528
+00:31:40,421 --> 00:31:42,939
+- Atirou em mim!
+- Sim, atirei.
+
+529
+00:31:42,940 --> 00:31:45,442
+- Onde ele está?
+- Preciso de um médico.
+
+530
+00:31:45,443 --> 00:31:47,260
+Todos os médicos
+estão ocupados
+
+531
+00:31:47,261 --> 00:31:49,496
+tratando as crianças
+que você explodiu!
+
+532
+00:31:51,580 --> 00:31:53,082
+Vou te arrumar um médico,
+
+533
+00:31:53,083 --> 00:31:55,168
+mas você pode acabar
+com isso agora.
+
+534
+00:31:55,169 --> 00:31:56,970
+Só nos diga onde
+seu filho está.
+
+535
+00:31:56,971 --> 00:32:01,391
+Foi egoísmo meu trazê-los
+eles para esse mundo.
+
+536
+00:32:01,392 --> 00:32:06,162
+Ele é seu filho, William.
+E está feito.
+
+537
+00:32:12,603 --> 00:32:15,071
+<i>E outra notícia,
+uma explosão hoje,</i>
+
+538
+00:32:15,072 --> 00:32:17,791
+<i>destruiu uma escola
+de Fredericksburg.</i>
+
+539
+00:32:17,792 --> 00:32:20,076
+<i>Aconteceu por volta
+das 8hrs da manhã.</i>
+
+540
+00:32:20,077 --> 00:32:22,879
+<i>O número de vitimas ainda
+é desconhecido.</i>
+
+541
+00:32:22,880 --> 00:32:25,465
+Com licença.
+Com licença?
+
+542
+00:32:25,466 --> 00:32:26,983
+Meu nome é Shawn Meeks.
+
+543
+00:32:26,984 --> 00:32:29,819
+Procuro meus irmãos,
+Kyle e Paul Meeks.
+
+544
+00:32:29,820 --> 00:32:32,822
+Meu pai disse que eles
+foram trazidos para cá.
+
+545
+00:32:32,823 --> 00:32:35,870
+Preciso que fique aqui,
+está bem?
+
+546
+00:32:35,871 --> 00:32:37,393
+Não vá a lugar algum.
+
+547
+00:32:37,394 --> 00:32:40,196
+<i>Kyle Meeks pode, sem saber,
+ter levado a bomba à escola,</i>
+
+548
+00:32:40,197 --> 00:32:41,797
+<i>plantada pelo pai,
+William Meeks.</i>
+
+549
+00:32:41,798 --> 00:32:45,335
+<i>O terceiro filho Shawn Meeks
+está desaparecido.</i>
+
+550
+00:32:45,336 --> 00:32:47,704
+<i>A policia pede para
+quem tiver informações,</i>
+
+551
+00:32:47,705 --> 00:32:50,279
+<i>entrar em contato
+imediatamente.</i>
+
+552
+00:32:53,219 --> 00:32:54,818
+A enfermeira viu
+o menino no PS.
+
+553
+00:32:54,819 --> 00:32:57,428
+Tenho as plantas, inicio
+a evacuação quando quiser.
+
+554
+00:32:57,429 --> 00:32:59,441
+Faremos uma evacuação
+calma, organizada.
+
+555
+00:32:59,442 --> 00:33:01,864
+- Pode deixar. Vamos.
+- O que sabe sobre a bomba?
+
+556
+00:33:01,865 --> 00:33:03,546
+Como as outras,
+explode com um timer.
+
+557
+00:33:03,547 --> 00:33:05,330
+Mas não sabemos
+quanto tempo temos.
+
+558
+00:33:05,331 --> 00:33:07,400
+Nem o garoto.
+Vão.
+
+559
+00:33:12,756 --> 00:33:14,900
+<i>O FBI disse que estão
+entrando em posição.</i>
+
+560
+00:33:14,901 --> 00:33:16,737
+<i>Vamos levar essas
+pessoas embora.</i>
+
+561
+00:33:25,448 --> 00:33:27,706
+Suponho que não há
+como se safar dessa.
+
+562
+00:33:27,707 --> 00:33:29,762
+O garoto tem que ter
+medo de morrer.
+
+563
+00:33:29,763 --> 00:33:31,997
+Não há necessidade
+de ir lá e me apresentar
+
+564
+00:33:31,998 --> 00:33:33,888
+como quem está caçando
+o pai dele.
+
+565
+00:33:34,067 --> 00:33:36,629
+Além do mais,
+se a bomba explodir...
+
+566
+00:33:37,651 --> 00:33:39,522
+esse colete não fará
+diferença, não é?
+
+567
+00:33:39,523 --> 00:33:41,032
+Verdade.
+
+568
+00:33:43,463 --> 00:33:46,739
+- Guarda para mim?
+- Com certeza.
+
+569
+00:33:58,568 --> 00:34:02,104
+- Dê-me um traje.
+- Sabe que não posso.
+
+570
+00:34:02,105 --> 00:34:04,643
+Não estou pedindo.
+Dê-me o traje, agora.
+
+571
+00:34:25,215 --> 00:34:27,283
+Veja como estão
+no quarto andar.
+
+572
+00:34:27,284 --> 00:34:30,052
+- Onde está Meeks?
+- A enfermeira disse que aqui.
+
+573
+00:34:30,053 --> 00:34:31,888
+Deve ter corrido
+quando descobriu.
+
+574
+00:34:31,889 --> 00:34:34,890
+Ele carrega uma bomba. Temos
+de ser rápidos para desarmá-la.
+
+575
+00:34:34,891 --> 00:34:37,794
+A polícia está procurando.
+Devemos procurar por aqui.
+
+576
+00:34:37,795 --> 00:34:40,435
+Este é o I.C.U, todos os pais,
+crianças e professores
+
+577
+00:34:40,436 --> 00:34:41,986
+estão a duas quadras daqui.
+
+578
+00:34:45,936 --> 00:34:48,975
+Evacuamos o estacionamento.
+Médicos nos centros de triagem.
+
+579
+00:34:48,976 --> 00:34:53,033
+Cooper está procurando o garoto.
+A bomba teve um raio de 23 mts.
+
+580
+00:34:53,034 --> 00:34:54,827
+Meeks deixou o garoto na porta.
+
+581
+00:34:54,828 --> 00:34:57,881
+Deve ter programado para antes
+de alguém poder reconhecê-lo.
+
+582
+00:34:58,597 --> 00:35:00,558
+Estamos correndo contra
+o tempo agora.
+
+583
+00:35:19,536 --> 00:35:20,886
+Shawn.
+
+584
+00:35:21,505 --> 00:35:23,525
+Deixe-o ir!
+Deixe-o ir.
+
+585
+00:35:26,076 --> 00:35:27,590
+A bomba está
+nessa mochila?
+
+586
+00:35:27,591 --> 00:35:29,846
+Ele disse que meus irmãos
+estavam aqui.
+
+587
+00:35:29,847 --> 00:35:31,380
+- Ele disse...
+- Me escute.
+
+588
+00:35:31,381 --> 00:35:34,597
+- Disse que estavam feridos...
+- Escute-me!
+
+589
+00:35:34,598 --> 00:35:37,387
+A bomba está
+nessa mochila?
+
+590
+00:35:37,388 --> 00:35:39,622
+Ele me mandou aqui
+para morrer!
+
+591
+00:35:39,790 --> 00:35:42,024
+Posso ver isso?
+
+592
+00:35:42,392 --> 00:35:44,660
+Tudo bem se eu olhar
+dentro dela?
+
+593
+00:35:46,930 --> 00:35:48,280
+Posso?
+
+594
+00:35:49,733 --> 00:35:51,533
+Ele me mandou aqui
+para morrer...
+
+595
+00:35:53,537 --> 00:35:55,742
+Isso não é sobre você, Shawn.
+
+596
+00:35:57,107 --> 00:35:59,167
+Não é nada sobre você.
+
+597
+00:36:02,145 --> 00:36:03,681
+Está aí?
+
+598
+00:36:05,734 --> 00:36:07,755
+Onde está a bomba?
+
+599
+00:36:08,485 --> 00:36:10,302
+Você vê todas essas
+pessoas aqui?
+
+600
+00:36:10,303 --> 00:36:11,653
+Você vê essas pessoas?
+
+601
+00:36:11,654 --> 00:36:13,455
+Quer esse sangue
+em suas mãos, Shawn?
+
+602
+00:36:13,456 --> 00:36:15,958
+Acabou.
+Não entende isso?
+
+603
+00:36:15,959 --> 00:36:17,794
+Meus dois irmãos estão mortos.
+
+604
+00:36:17,795 --> 00:36:19,928
+Seu irmão Paul não está morto.
+
+605
+00:36:21,665 --> 00:36:23,205
+Posso provar para você.
+
+606
+00:36:23,650 --> 00:36:25,067
+Vou provar isso para você,
+
+607
+00:36:25,068 --> 00:36:27,014
+e vou precisar de sua ajuda.
+
+608
+00:36:35,603 --> 00:36:36,954
+É seu irmão.
+
+609
+00:36:37,481 --> 00:36:39,378
+<i>Paul?</i>
+
+610
+00:36:41,369 --> 00:36:43,455
+Kyle está morto.
+
+611
+00:36:45,672 --> 00:36:48,123
+Eles estão levando o papai.
+
+612
+00:36:48,124 --> 00:36:50,693
+Eu sei.
+Eu sei.
+
+613
+00:36:50,694 --> 00:36:53,162
+Estou com tanto medo...
+
+614
+00:37:00,404 --> 00:37:02,605
+Por que ela teve que morrer?
+
+615
+00:37:02,606 --> 00:37:04,207
+Quer dizer sua mãe?
+
+616
+00:37:04,208 --> 00:37:06,163
+Por isso tudo isso
+está acontecendo.
+
+617
+00:37:08,245 --> 00:37:10,746
+- Porque ela morreu.
+- Não é culpa da sua mãe.
+
+618
+00:37:10,747 --> 00:37:14,010
+Não é sua culpa.
+Não é.
+
+619
+00:37:14,118 --> 00:37:15,618
+Mas vou precisar de sua ajuda,
+
+620
+00:37:15,619 --> 00:37:17,854
+e você pode me ajudar
+a parar isso, está bem?
+
+621
+00:37:17,855 --> 00:37:22,143
+Não sei onde está.
+Não sei.
+
+622
+00:37:25,329 --> 00:37:27,571
+- Mick?
+- Estou aqui.
+
+623
+00:37:27,572 --> 00:37:29,838
+<i>Ele não colocou a bomba
+na mochila do garoto.</i>
+
+624
+00:37:29,873 --> 00:37:32,662
+<i>- Ele planejou algo maior.
+- Acha que ele a plantou?</i>
+
+625
+00:37:32,663 --> 00:37:36,223
+A maternidade. Ache a sala
+onde a esposa dele morreu,
+
+626
+00:37:36,224 --> 00:37:37,574
+e vai encontrar a bomba.
+
+627
+00:37:37,575 --> 00:37:40,139
+Coop, a maternidade é em cima
+do oxigênio principal.
+
+628
+00:37:40,140 --> 00:37:42,377
+Se aquela sala explodir,
+tudo vai abaixo.
+
+629
+00:37:42,378 --> 00:37:45,013
+Certo pessoal, vamos dobrar
+a velocidade. Vamos lá!
+
+630
+00:38:08,121 --> 00:38:09,471
+Coop, achei.
+
+631
+00:38:11,475 --> 00:38:13,056
+<i>Temos 30 segundos.</i>
+
+632
+00:38:13,444 --> 00:38:16,046
+Certo, está em suas mãos.
+
+633
+00:38:16,047 --> 00:38:17,917
+Certo,
+todo mundo para fora.
+
+634
+00:38:19,683 --> 00:38:21,568
+O que está acontecendo?!
+
+635
+00:38:24,287 --> 00:38:26,121
+Seu pai..
+Ele te contou a história
+
+636
+00:38:26,122 --> 00:38:29,210
+de Abraham e Isaac, certo?
+Lembra como termina?
+
+637
+00:38:30,850 --> 00:38:32,925
+<i>No último segundo...</i>
+
+638
+00:38:32,926 --> 00:38:36,505
+<i>aparece um anjo e impede
+Abraham de matar o filho.</i>
+
+639
+00:38:37,051 --> 00:38:38,401
+<i>Exatamente.</i>
+
+640
+00:38:38,402 --> 00:38:41,679
+<i>Deus nunca quis que
+o garoto morresse.</i>
+
+641
+00:38:43,607 --> 00:38:47,476
+- Você acha que anjos existem?
+- Acho.
+
+642
+00:38:47,477 --> 00:38:50,139
+Não importa, porque a história
+termina da mesma forma.
+
+643
+00:38:53,517 --> 00:38:56,017
+<i>O garoto é salvo.</i>
+
+644
+00:38:59,156 --> 00:39:03,419
+Consegui.
+Desarmei a bomba.
+
+645
+00:39:20,043 --> 00:39:22,611
+A polícia terá que falar
+com o Shawn um pouco,
+
+646
+00:39:22,612 --> 00:39:25,369
+mas você e sua tia
+podem ir com ele.
+
+647
+00:39:26,716 --> 00:39:28,517
+Obrigado.
+
+648
+00:39:28,518 --> 00:39:30,753
+Sei que isso parece
+ser duro para vocês.
+
+649
+00:39:30,754 --> 00:39:33,819
+Passaram por uma coisa difícil,
+agora têm uma segunda chance.
+
+650
+00:39:33,820 --> 00:39:36,447
+E acreditem que podem fazer
+o que quiserem com ela.
+
+651
+00:39:46,903 --> 00:39:50,476
+Tome.
+Parece que precisa disso.
+
+652
+00:39:51,108 --> 00:39:54,645
+Obrigado.
+Foi uma manhã difícil.
+
+653
+00:39:56,854 --> 00:39:59,798
+Desarmar bombas
+faz isso com você.
+
+654
+00:39:59,799 --> 00:40:01,681
+Pois é, quem teria pensado?
+
+655
+00:40:05,455 --> 00:40:08,303
+Sempre teve problemas
+para dormir, Coop?
+
+656
+00:40:10,460 --> 00:40:13,011
+Isso não faz parte
+do trabalho?
+
+657
+00:40:17,234 --> 00:40:20,740
+Não digo por causa
+do trabalho.
+
+658
+00:40:26,343 --> 00:40:28,878
+Estar naquele hospital
+era como se...
+
+659
+00:40:30,013 --> 00:40:32,265
+A forma como ele jogou,
+
+660
+00:40:32,266 --> 00:40:36,297
+planejou para todas as pessoas
+estarem no mesmo lugar, foi...
+
+661
+00:40:36,821 --> 00:40:39,055
+Foi como em Fallujah.
+
+662
+00:40:39,056 --> 00:40:41,130
+Foi como em Fallujah...
+
+663
+00:40:41,692 --> 00:40:43,938
+É como se tivéssemos
+voltado lá.
+
+664
+00:40:46,062 --> 00:40:49,098
+Tudo que vimos,
+tudo que fizemos.
+
+665
+00:40:50,867 --> 00:40:54,357
+Tudo veio à tona
+naquele momento.
+
+666
+00:41:03,997 --> 00:41:05,347
+Apenas...
+
+667
+00:41:06,850 --> 00:41:09,360
+Quanto mais
+eu tento esquecer...
+
+668
+00:41:11,346 --> 00:41:13,584
+Mais claramente eu lembro.
+
+669
+00:41:16,426 --> 00:41:18,322
+É isso que me assusta.
+
+670
+00:41:21,198 --> 00:41:24,761
+Aquele garoto no hospital,
+
+671
+00:41:24,762 --> 00:41:29,128
+perguntou se acredito
+em anjos. Acredita nisso?
+
+672
+00:41:30,929 --> 00:41:32,701
+O que você disse?
+
+673
+00:41:32,802 --> 00:41:36,576
+Disse a ele...
+que acredito.
+
+674
+00:41:38,315 --> 00:41:40,592
+Mas estou começando
+a ter dúvidas.
+
+675
+00:41:42,074 --> 00:41:45,066
+Acho que todos nós temos
+nossos fantasmas, não é?
+
+676
+00:41:45,989 --> 00:41:47,978
+Sim, temos...
+
+677
+00:41:48,325 --> 00:41:50,546
+O que faz com os seus, Coop?
+
+678
+00:41:51,494 --> 00:41:53,536
+Com seus fantasmas?
+
+679
+00:41:56,567 --> 00:41:59,660
+Gosto de fazê-los
+voarem em formação.
+
+680
+00:42:04,205 --> 00:42:09,732
+<b>UNITED
+Quality Is Everything!</b>
+
